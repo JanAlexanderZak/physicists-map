@@ -1079,6 +1079,12 @@
             
             const birthYear = physicist.birth_year || -300;
             
+            // When paths are shown, always use "alive during year" logic
+            if (showPaths) {
+                const deathYear = physicist.still_alive ? 2026 : (physicist.death_year || birthYear + 80);
+                return birthYear <= currentYear && deathYear >= currentYear;
+            }
+            
             if (timelineFilter === 'cumulative') {
                 // Show if born before or in current year
                 return birthYear <= currentYear;
@@ -1151,13 +1157,9 @@
             const birthYear = physicist.birth_year || -300;
             const deathYear = physicist.death_year;
             
-            if (timelineFilter === 'cumulative') {
-                // Show if died before or in current year
-                return deathYear <= currentYear;
-            } else {
-                // Single year mode: show if died in that year or before (and was alive)
-                return birthYear <= currentYear && deathYear <= currentYear;
-            }
+            // Only show paths for physicists who were alive during the selected year
+            // (born before/in that year AND died in/after that year)
+            return birthYear <= currentYear && deathYear >= currentYear;
         }
         
         function updatePaths() {
