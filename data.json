@@ -1,0 +1,3111 @@
+[
+  {
+    "name": "Adolf Fick",
+    "birth_year": 1829,
+    "death_year": 1901,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Kassel, Germany",
+    "burial": "Blankenberge, Belgium (died there; specific cemetery unconfirmed)",
+    "birth_coords": [
+      51.3127,
+      9.4797
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Fick's law",
+    "fields": "Thermodynamics",
+    "notes": ""
+  },
+  {
+    "name": "Albert Einstein",
+    "birth_year": 1879,
+    "death_year": 1955,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "Ulm, Germany",
+    "burial": "Cremated; ashes scattered in Delaware River (secret location)",
+    "birth_coords": [
+      48.4011,
+      9.9876
+    ],
+    "burial_coords": [
+      40.0583,
+      -74.9058
+    ],
+    "eponymous_terms": "Einstein (E); General relativity; Special relativity; Photoelectric effect; Bose-Einstein condensate; Einstein solid",
+    "fields": "Gravitation; Photochemistry; Quantum mechanics; Relativity; Solid state physics",
+    "notes": "Cremated same day he died to prevent grave becoming pilgrimage site. Brain removed during autopsy; portions now at Mütter Museum, Philadelphia."
+  },
+  {
+    "name": "Albert von Ettingshausen",
+    "birth_year": 1850,
+    "death_year": 1932,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Vienna, Austria",
+    "burial": "Location not documented (died in Graz)",
+    "birth_coords": [
+      48.2082,
+      16.3738
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Ettingshausen-Nernst effect",
+    "fields": "Solid state physics",
+    "notes": ""
+  },
+  {
+    "name": "Aleksandr Stoletov",
+    "birth_year": 1839,
+    "death_year": 1896,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Vladimir, Russia",
+    "burial": "Prince-Vladimir Cemetery (Knyaze-Vladimirskoe), Vladimir, Russia",
+    "birth_coords": [
+      56.1291,
+      40.4069
+    ],
+    "burial_coords": [
+      56.1291,
+      40.4069
+    ],
+    "eponymous_terms": "Stoletov's effect",
+    "fields": "Electromagnetism",
+    "notes": ""
+  },
+  {
+    "name": "Alessandro Volta",
+    "birth_year": 1745,
+    "death_year": 1827,
+    "still_alive": false,
+    "category": "SI Units",
+    "birthplace": "Como, Lombardy, Italy",
+    "burial": "Camnago Volta Cemetery, Camnago Volta, Como, Italy",
+    "birth_coords": [
+      45.8081,
+      9.0852
+    ],
+    "burial_coords": [
+      45.8081,
+      9.0852
+    ],
+    "eponymous_terms": "Volt (V)",
+    "fields": "Electromagnetism",
+    "notes": "The village was renamed \"Camnago Volta\" in his honor. Neoclassical mausoleum completed in 1831."
+  },
+  {
+    "name": "Alexander Graham Bell",
+    "birth_year": 1847,
+    "death_year": 1922,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "Edinburgh, Scotland, United Kingdom",
+    "burial": "Beinn Bhreagh Estate (mountaintop), Baddeck, Nova Scotia, Canada",
+    "birth_coords": [
+      55.9533,
+      -3.1883
+    ],
+    "burial_coords": [
+      46.1,
+      -60.75
+    ],
+    "eponymous_terms": "Bel/Decibel (B/dB)",
+    "fields": "Acoustics",
+    "notes": "Private grave on mountain peak overlooking Bras d'Or Lake. Not open to public."
+  },
+  {
+    "name": "Amedeo Avogadro",
+    "birth_year": 1776,
+    "death_year": 1856,
+    "still_alive": false,
+    "category": "Physical Constants",
+    "birthplace": "Turin, Italy",
+    "burial": "Quaregna Cemetery, Quaregna, Piemonte, Italy",
+    "birth_coords": [
+      45.0703,
+      7.6869
+    ],
+    "burial_coords": [
+      45.55,
+      8.0833
+    ],
+    "eponymous_terms": "Avogadro constant (NA); Avogadro's law",
+    "fields": "Chemistry; Thermodynamics",
+    "notes": "Full name: Lorenzo Romano Amedeo Carlo Avogadro, Conte di Quaregna e di Cerreto."
+  },
+  {
+    "name": "Anatoly Vlasov",
+    "birth_year": 1908,
+    "death_year": 1975,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Balashov, Saratov Oblast, Russia",
+    "burial": "Donskoe Cemetery, Moscow, Russia",
+    "birth_coords": [
+      51.55,
+      43.1833
+    ],
+    "burial_coords": [
+      55.7558,
+      37.6173
+    ],
+    "eponymous_terms": "Vlasov equation",
+    "fields": "Plasma physics",
+    "notes": ""
+  },
+  {
+    "name": "Anders Celsius",
+    "birth_year": 1701,
+    "death_year": 1744,
+    "still_alive": false,
+    "category": "SI Units",
+    "birthplace": "Uppsala, Sweden",
+    "burial": "Gamla Uppsala kyrka (Old Uppsala Church), Uppsala, Sweden",
+    "birth_coords": [
+      59.8586,
+      17.6389
+    ],
+    "burial_coords": [
+      59.8586,
+      17.6389
+    ],
+    "eponymous_terms": "Degree Celsius (Â°C)",
+    "fields": "Thermodynamics",
+    "notes": "Buried beneath the church floor near ancient royal mounds. Died of tuberculosis at age 42."
+  },
+  {
+    "name": "Anders Jonas Ångström",
+    "birth_year": 1814,
+    "death_year": 1874,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "Lögdö, Medelpad, Sweden",
+    "burial": "Uppsala gamla kyrkogård (Uppsala Old Cemetery), Uppsala, Sweden",
+    "birth_coords": [
+      62.55,
+      17.4167
+    ],
+    "burial_coords": [
+      59.8586,
+      17.6389
+    ],
+    "eponymous_terms": "Ångström (Å)",
+    "fields": "Spectroscopy",
+    "notes": "Black polished granite tomb erected in 1883."
+  },
+  {
+    "name": "André-Marie Ampère",
+    "birth_year": 1775,
+    "death_year": 1836,
+    "still_alive": false,
+    "category": "SI Units",
+    "birthplace": "Lyon, France",
+    "burial": "Cimetière de Montmartre (Division 30), Paris, France",
+    "birth_coords": [
+      45.764,
+      4.8357
+    ],
+    "burial_coords": [
+      48.8566,
+      2.3522
+    ],
+    "eponymous_terms": "Ampere (A); Ampère's circuital law",
+    "fields": "Electromagnetism",
+    "notes": "Initially buried in Marseille; remains later transferred to Paris alongside his son Jean-Jacques Ampère."
+  },
+  {
+    "name": "Antoine Baumé",
+    "birth_year": 1728,
+    "death_year": 1804,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "Senlis, France",
+    "burial": "Paris, France (specific cemetery unconfirmed)",
+    "birth_coords": [
+      49.2064,
+      2.5872
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Degree Baumé (°Bé)",
+    "fields": "Chemistry",
+    "notes": "Invented the Baumé scale hydrometer. Lost fortune during French Revolution."
+  },
+  {
+    "name": "Archimedes",
+    "birth_year": -287,
+    "death_year": -212,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Syracuse, Sicily, Italy",
+    "burial": "TOMB LOST",
+    "birth_coords": [
+      37.07,
+      15.29
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Archimedes' principle",
+    "fields": "Fluid statics",
+    "notes": "Killed by Roman soldier during siege of Syracuse. Cicero found the overgrown tomb in 75 BC, but it has been lost since antiquity."
+  },
+  {
+    "name": "Arnold Sommerfeld",
+    "birth_year": 1868,
+    "death_year": 1951,
+    "still_alive": false,
+    "category": "Physical Constants",
+    "birthplace": "Königsberg, East Prussia (now Kaliningrad, Russia)",
+    "burial": "Nordfriedhof (North Cemetery), Munich, Germany",
+    "birth_coords": [
+      54.7104,
+      20.4522
+    ],
+    "burial_coords": [
+      48.1351,
+      11.582
+    ],
+    "eponymous_terms": "Fine-structure constant (Î±)",
+    "fields": "Quantum electrodynamics",
+    "notes": "Killed in traffic accident while walking with grandchildren; struck by truck he didn't hear due to near-deafness."
+  },
+  {
+    "name": "Arthur Compton",
+    "birth_year": 1892,
+    "death_year": 1962,
+    "still_alive": false,
+    "category": "Physical Constants",
+    "birthplace": "Wooster, Ohio, United States",
+    "burial": "Wooster Cemetery, Wooster, Ohio, United States",
+    "birth_coords": [
+      40.8051,
+      -81.9351
+    ],
+    "burial_coords": [
+      40.8051,
+      -81.9351
+    ],
+    "eponymous_terms": "Compton wavelength (Î»C); Compton scattering",
+    "fields": "Quantum mechanics",
+    "notes": "Though he died in Berkeley, California, he was returned to his hometown."
+  },
+  {
+    "name": "August Beer",
+    "birth_year": 1825,
+    "death_year": 1863,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Trier, Germany",
+    "burial": "Alter Friedhof (Old Cemetery), Bonn, Germany",
+    "birth_coords": [
+      49.7596,
+      6.6439
+    ],
+    "burial_coords": [
+      50.7374,
+      7.0982
+    ],
+    "eponymous_terms": "Beer-Lambert law",
+    "fields": "Optics",
+    "notes": "Died at age 38."
+  },
+  {
+    "name": "Augustin Fresnel",
+    "birth_year": 1788,
+    "death_year": 1827,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Broglie, Normandy, France",
+    "burial": "Cimetière du Père-Lachaise (Division 14), Paris, France",
+    "birth_coords": [
+      49.0092,
+      0.5297
+    ],
+    "burial_coords": [
+      48.8566,
+      2.3522
+    ],
+    "eponymous_terms": "Huygens-Fresnel principle",
+    "fields": "Optics",
+    "notes": "Died of tuberculosis at age 39."
+  },
+  {
+    "name": "Blaise Pascal",
+    "birth_year": 1623,
+    "death_year": 1662,
+    "still_alive": false,
+    "category": "SI Units",
+    "birthplace": "Clermont-Ferrand, France",
+    "burial": "Église Saint-Étienne-du-Mont, Paris, France",
+    "birth_coords": [
+      45.7772,
+      3.087
+    ],
+    "burial_coords": [
+      48.8566,
+      2.3522
+    ],
+    "eponymous_terms": "Pascal (Pa); Pascal's law",
+    "fields": "Fluid mechanics",
+    "notes": "Grave suffered some desecration during the French Revolution in 1793."
+  },
+  {
+    "name": "Brian Josephson",
+    "birth_year": 1940,
+    "death_year": null,
+    "still_alive": true,
+    "category": "Physical Constants",
+    "birthplace": "Cardiff, Wales, United Kingdom",
+    "burial": "Still Living",
+    "birth_coords": null,
+    "burial_coords": null,
+    "eponymous_terms": "Josephson constant (KJ); Josephson effect",
+    "fields": "Superconductivity",
+    "notes": "Nobel Prize 1973. Emeritus Professor at Cambridge; directs Mind-Matter Unification Project."
+  },
+  {
+    "name": "C.V. Raman",
+    "birth_year": 1888,
+    "death_year": 1970,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Tiruchirappalli, Tamil Nadu, India",
+    "burial": "Cremated in Bangalore (Bengaluru), Karnataka, India (ashes scattered)",
+    "birth_coords": [
+      10.7905,
+      78.7047
+    ],
+    "burial_coords": [
+      12.9716,
+      77.5946
+    ],
+    "eponymous_terms": "Raman scattering",
+    "fields": "Spectroscopy",
+    "notes": "First Asian Nobel laureate in Physics (1930). Requested \"simple cremation, no mumbo-jumbo.\""
+  },
+  {
+    "name": "Carl Friedrich Gauss",
+    "birth_year": 1777,
+    "death_year": 1855,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "Braunschweig (Brunswick), Lower Saxony, Germany",
+    "burial": "Albanifriedhof (Albani Cemetery), Göttingen, Germany",
+    "birth_coords": [
+      52.2689,
+      10.5268
+    ],
+    "burial_coords": [
+      51.5413,
+      9.9158
+    ],
+    "eponymous_terms": "Gauss (G); Gauss's law; Gauss's law for magnetism",
+    "fields": "Electromagnetism; Magnetism",
+    "notes": "Cemetery now part of Cheltenhampark. Grave frequently visited."
+  },
+  {
+    "name": "Carlo Marangoni",
+    "birth_year": 1840,
+    "death_year": 1925,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Pavia, Italy",
+    "burial": "Florence, Italy (specific cemetery not documented)",
+    "birth_coords": [
+      45.1847,
+      9.1582
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "BÃ©nard-Marangoni convection",
+    "fields": "Fluid dynamics",
+    "notes": ""
+  },
+  {
+    "name": "Charles-Augustin de Coulomb",
+    "birth_year": 1736,
+    "death_year": 1806,
+    "still_alive": false,
+    "category": "SI Units",
+    "birthplace": "Angoulême, France",
+    "burial": "Paris, France (specific cemetery not definitively documented)",
+    "birth_coords": [
+      45.6486,
+      0.1556
+    ],
+    "burial_coords": [
+      48.8566,
+      2.3522
+    ],
+    "eponymous_terms": "Coulomb (C); Coulomb constant (ke); Coulomb's law",
+    "fields": "Electromagnetism; Electrostatics",
+    "notes": "His name is inscribed on the Eiffel Tower."
+  },
+  {
+    "name": "Christiaan Huygens",
+    "birth_year": 1629,
+    "death_year": 1695,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "The Hague, Netherlands",
+    "burial": "Grote of Sint-Jacobskerk (St. James Church), The Hague, Netherlands (unmarked grave)",
+    "birth_coords": [
+      52.0705,
+      4.3007
+    ],
+    "burial_coords": [
+      52.0705,
+      4.3007
+    ],
+    "eponymous_terms": "Huygens-Fresnel principle",
+    "fields": "Optics",
+    "notes": ""
+  },
+  {
+    "name": "Christian Doppler",
+    "birth_year": 1803,
+    "death_year": 1853,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Salzburg, Austria",
+    "burial": "Cimitero di San Michele, Venice, Italy",
+    "birth_coords": [
+      47.8095,
+      13.055
+    ],
+    "burial_coords": [
+      45.4408,
+      12.3155
+    ],
+    "eponymous_terms": "Doppler effect",
+    "fields": "Wave physics",
+    "notes": "Died of tuberculosis. Venice was part of Austrian Empire at the time."
+  },
+  {
+    "name": "Clarence Zener",
+    "birth_year": 1905,
+    "death_year": 1993,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Indianapolis, Indiana, United States",
+    "burial": "Location unknown (died in Pittsburgh)",
+    "birth_coords": [
+      39.7684,
+      -86.1581
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Zener effect",
+    "fields": "Semiconductor physics",
+    "notes": ""
+  },
+  {
+    "name": "Claude-Louis Navier",
+    "birth_year": 1785,
+    "death_year": 1836,
+    "still_alive": false,
+    "category": "Equations",
+    "birthplace": "Dijon, France",
+    "burial": "Père Lachaise Cemetery (Division 50), Paris, France",
+    "birth_coords": [
+      47.322,
+      5.0415
+    ],
+    "burial_coords": [
+      48.8566,
+      2.3522
+    ],
+    "eponymous_terms": "Navier-Stokes equations",
+    "fields": "Fluid dynamics",
+    "notes": ""
+  },
+  {
+    "name": "Daniel Bernoulli",
+    "birth_year": 1700,
+    "death_year": 1782,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Groningen, Netherlands",
+    "burial": "Peterskirche (St. Peter's Church), Basel, Switzerland",
+    "birth_coords": [
+      53.2194,
+      6.5665
+    ],
+    "burial_coords": [
+      47.5596,
+      7.5886
+    ],
+    "eponymous_terms": "Bernoulli's principle; Bernoulli effect",
+    "fields": "Fluid dynamics; Fluid mechanics",
+    "notes": "Family moved to Basel when he was 5 years old."
+  },
+  {
+    "name": "David Bohm",
+    "birth_year": 1917,
+    "death_year": 1992,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Wilkes-Barre, Pennsylvania, United States",
+    "burial": "Cremated (location of ashes unknown)",
+    "birth_coords": null,
+    "burial_coords": null,
+    "eponymous_terms": "Aharonov-Bohm effect",
+    "fields": "Quantum mechanics",
+    "notes": "Died in London of heart failure."
+  },
+  {
+    "name": "David Brewster",
+    "birth_year": 1781,
+    "death_year": 1868,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Jedburgh, Scotland, United Kingdom",
+    "burial": "Melrose Abbey, Melrose, Scotland, United Kingdom",
+    "birth_coords": [
+      55.4781,
+      -2.5547
+    ],
+    "burial_coords": [
+      55.5992,
+      -2.7278
+    ],
+    "eponymous_terms": "Brewster's law",
+    "fields": "Optics",
+    "notes": ""
+  },
+  {
+    "name": "Edwin Hall",
+    "birth_year": 1855,
+    "death_year": 1938,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Great Falls (later North Gorham), Maine, United States",
+    "burial": "Mount Auburn Cemetery, Cambridge, Massachusetts, United States",
+    "birth_coords": [
+      43.69,
+      -70.44
+    ],
+    "burial_coords": [
+      42.37,
+      -71.11
+    ],
+    "eponymous_terms": "Hall effect",
+    "fields": "Solid state physics",
+    "notes": ""
+  },
+  {
+    "name": "Edwin Hubble",
+    "birth_year": 1889,
+    "death_year": 1953,
+    "still_alive": false,
+    "category": "Physical Constants",
+    "birthplace": "Marshfield, Missouri, United States",
+    "burial": "LOCATION UNKNOWN",
+    "birth_coords": [
+      37.3389,
+      -92.9073
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Hubble constant (Hâ‚€)",
+    "fields": "Cosmology",
+    "notes": "His wife Grace never revealed where his remains were buried or scattered. No funeral was held."
+  },
+  {
+    "name": "Emmy Noether",
+    "birth_year": 1882,
+    "death_year": 1935,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Erlangen, Germany",
+    "burial": "The Cloisters, Bryn Mawr College, Pennsylvania, United States",
+    "birth_coords": [
+      49.5897,
+      11.0078
+    ],
+    "burial_coords": [
+      40.021,
+      -75.3188
+    ],
+    "eponymous_terms": "Noether's theorem",
+    "fields": "Theoretical physics",
+    "notes": "Cremated; urn buried under inconspicuous cement slab marked only \"E.N.\""
+  },
+  {
+    "name": "Enrico Fermi",
+    "birth_year": 1901,
+    "death_year": 1954,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "Rome, Italy",
+    "burial": "Oak Woods Cemetery, Chicago, Illinois, United States",
+    "birth_coords": [
+      41.9028,
+      12.4964
+    ],
+    "burial_coords": [
+      41.8781,
+      -87.6298
+    ],
+    "eponymous_terms": "Fermi (fm); Fermion; Fermi gas; Fermi surface; Fermi energy",
+    "fields": "Condensed matter; Nuclear physics; Particle physics; Solid state physics; Statistical mechanics",
+    "notes": "Died of stomach cancer. Remains in Chicago despite efforts to transfer to Florence."
+  },
+  {
+    "name": "Ernest Rutherford",
+    "birth_year": 1871,
+    "death_year": 1937,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "Brightwater, near Nelson, New Zealand",
+    "burial": "Westminster Abbey (nave, ashes interred), London, United Kingdom",
+    "birth_coords": [
+      -41.2706,
+      173.284
+    ],
+    "burial_coords": [
+      51.5074,
+      -0.1278
+    ],
+    "eponymous_terms": "Rutherford (Rd); Rutherford scattering",
+    "fields": "Nuclear physics",
+    "notes": "Ashes buried near Newton and Kelvin. \"Father of nuclear physics.\""
+  },
+  {
+    "name": "Erwin Schrödinger",
+    "birth_year": 1887,
+    "death_year": 1961,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Erdberg, Vienna, Austria",
+    "burial": "Alpbach Graveyard (St. Oswald's Church Cemetery), Alpbach, Tyrol, Austria",
+    "birth_coords": [
+      48.2082,
+      16.3738
+    ],
+    "burial_coords": [
+      47.3936,
+      11.9406
+    ],
+    "eponymous_terms": "Schrödinger equation",
+    "fields": "Quantum mechanics",
+    "notes": "Though not Catholic, buried in Catholic cemetery as a member of Pontifical Academy of Sciences. Gravestone bears his wave equation."
+  },
+  {
+    "name": "Ettore Majorana",
+    "birth_year": 1906,
+    "death_year": null,
+    "still_alive": false,
+    "category": "Particles/Theory",
+    "birthplace": "Catania, Sicily, Italy",
+    "burial": "DISAPPEARED — NO GRAVE EXISTS",
+    "birth_coords": [
+      37.5079,
+      15.083
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Majorana fermion",
+    "fields": "Particle physics",
+    "notes": "Vanished March 25, 1938 after boarding ship from Palermo to Naples. One of physics' greatest mysteries. Italian court declared presumed death in January 2025. Investigators believe he may have lived in Venezuela under alias \"Bini\" from 1955-1959."
+  },
+  {
+    "name": "Evangelista Torricelli",
+    "birth_year": 1608,
+    "death_year": 1647,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "Faenza, Ravenna Province, Italy",
+    "burial": "Basilica di San Lorenzo, Florence, Italy",
+    "birth_coords": [
+      44.2856,
+      11.8815
+    ],
+    "burial_coords": [
+      43.7696,
+      11.2558
+    ],
+    "eponymous_terms": "Torr (Torr); Torricelli's law",
+    "fields": "Fluid dynamics; Fluid mechanics",
+    "notes": "Died of typhoid fever at age 39."
+  },
+  {
+    "name": "Frank Drake",
+    "birth_year": 1930,
+    "death_year": 2022,
+    "still_alive": false,
+    "category": "Equations",
+    "birthplace": "Chicago, Illinois, United States",
+    "burial": "Details not publicly available (died in Aptos, California)",
+    "birth_coords": [
+      41.8781,
+      -87.6298
+    ],
+    "burial_coords": [
+      36.9774,
+      -121.8994
+    ],
+    "eponymous_terms": "Drake equation",
+    "fields": "Astrobiology",
+    "notes": "Creator of the Drake Equation for estimating extraterrestrial civilizations."
+  },
+  {
+    "name": "Friedrich Hund",
+    "birth_year": 1896,
+    "death_year": 1997,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Karlsruhe, Germany",
+    "burial": "Waldfriedhof (Forest Cemetery), Munich, Germany",
+    "birth_coords": [
+      49.0069,
+      8.4037
+    ],
+    "burial_coords": [
+      48.1351,
+      11.582
+    ],
+    "eponymous_terms": "Hund's rules",
+    "fields": "Atomic physics",
+    "notes": "Lived to age **101**, one of the longest-lived physicists."
+  },
+  {
+    "name": "Friedrich Pockels",
+    "birth_year": 1865,
+    "death_year": 1913,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Vicenza, Italy (then Austria-Hungary)",
+    "burial": "Heidelberg, Germany (grave photo exists; cemetery name not confirmed)",
+    "birth_coords": [
+      45.5455,
+      11.5354
+    ],
+    "burial_coords": [
+      49.3988,
+      8.6724
+    ],
+    "eponymous_terms": "Pockels effect",
+    "fields": "Optics",
+    "notes": ""
+  },
+  {
+    "name": "Félix Savart",
+    "birth_year": 1791,
+    "death_year": 1841,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Mézières (now Charleville-Mézières), France",
+    "burial": "Cimetière du Père-Lachaise (Division 8), Paris, France",
+    "birth_coords": [
+      49.7631,
+      4.7211
+    ],
+    "burial_coords": [
+      48.8566,
+      2.3522
+    ],
+    "eponymous_terms": "Biot-Savart law",
+    "fields": "Electromagnetism",
+    "notes": ""
+  },
+  {
+    "name": "Galileo Galilei",
+    "birth_year": 1564,
+    "death_year": 1642,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "Pisa, Italy",
+    "burial": "Basilica di Santa Croce, Florence, Italy",
+    "birth_coords": [
+      43.7228,
+      10.4017
+    ],
+    "burial_coords": [
+      43.7696,
+      11.2558
+    ],
+    "eponymous_terms": "Galileo (Gal)",
+    "fields": "Gravimetry",
+    "notes": "Initially buried secretly in 1642 due to heresy conviction; moved to monumental tomb in 1737. Three fingers, a tooth, and a vertebra removed as relics."
+  },
+  {
+    "name": "Gaspard-Gustave de Coriolis",
+    "birth_year": 1792,
+    "death_year": 1843,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Paris, France",
+    "burial": "Cimetière du Montparnasse (Division 12), Paris, France",
+    "birth_coords": [
+      48.8566,
+      2.3522
+    ],
+    "burial_coords": [
+      48.8566,
+      2.3522
+    ],
+    "eponymous_terms": "Coriolis effect",
+    "fields": "Mechanics",
+    "notes": "Name on Eiffel Tower."
+  },
+  {
+    "name": "Georg Simon Ohm",
+    "birth_year": 1789,
+    "death_year": 1854,
+    "still_alive": false,
+    "category": "SI Units",
+    "birthplace": "Erlangen, Bavaria, Germany",
+    "burial": "Alter Südfriedhof (Old South Cemetery), Munich, Germany",
+    "birth_coords": [
+      49.5897,
+      11.0078
+    ],
+    "burial_coords": [
+      48.1351,
+      11.582
+    ],
+    "eponymous_terms": "Ohm (Î©); Ohm's law",
+    "fields": "Electricity; Electromagnetism",
+    "notes": "Died after delivering a lecture; birthdate on gravestone incorrectly states 1787."
+  },
+  {
+    "name": "George Stokes",
+    "birth_year": 1819,
+    "death_year": 1903,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "Skreen, County Sligo, Ireland",
+    "burial": "Mill Road Cemetery, Cambridge, United Kingdom",
+    "birth_coords": [
+      54.2167,
+      -8.65
+    ],
+    "burial_coords": [
+      52.2053,
+      0.1218
+    ],
+    "eponymous_terms": "Stokes (St); Stokes' law; Navier-Stokes equations",
+    "fields": "Fluid dynamics",
+    "notes": "No visible grave marker; location documented in Sexton's grave book."
+  },
+  {
+    "name": "Gerhard Borrmann",
+    "birth_year": 1908,
+    "death_year": 2006,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Diedenhofen (now Thionville), France",
+    "burial": "Location not documented",
+    "birth_coords": null,
+    "burial_coords": null,
+    "eponymous_terms": "Borrmann effect",
+    "fields": "Crystallography",
+    "notes": "Refused to join Nazi Party in 1938."
+  },
+  {
+    "name": "Germain Hess",
+    "birth_year": 1802,
+    "death_year": 1850,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Geneva, Switzerland",
+    "burial": "Smolensky Lutheran Cemetery, Saint Petersburg, Russia",
+    "birth_coords": [
+      46.2044,
+      6.1432
+    ],
+    "burial_coords": [
+      59.9343,
+      30.3351
+    ],
+    "eponymous_terms": "Hess's law",
+    "fields": "Thermochemistry",
+    "notes": "Family moved to Russia when he was 3. Known there as German Ivanovich Gess."
+  },
+  {
+    "name": "Guglielmo Marconi",
+    "birth_year": 1874,
+    "death_year": 1937,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Bologna, Italy",
+    "burial": "Mausoleum of Guglielmo Marconi, Sasso Marconi (formerly Pontecchio Marconi), Italy",
+    "birth_coords": [
+      44.4949,
+      11.3426
+    ],
+    "burial_coords": [
+      44.3958,
+      11.2478
+    ],
+    "eponymous_terms": "Marconi's law",
+    "fields": "Radio physics",
+    "notes": "Town renamed in his honor in 1938."
+  },
+  {
+    "name": "Gustav Kirchhoff",
+    "birth_year": 1824,
+    "death_year": 1887,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Königsberg, Prussia (now Kaliningrad, Russia)",
+    "burial": "Alter St.-Matthäus-Kirchhof, Schöneberg, Berlin, Germany",
+    "birth_coords": [
+      54.7104,
+      20.4522
+    ],
+    "burial_coords": [
+      52.52,
+      13.405
+    ],
+    "eponymous_terms": "Kirchhoff's circuit laws; Kirchhoff's law of radiation",
+    "fields": "Electricity; Thermal radiation",
+    "notes": "Grave near the Brothers Grimm and Leopold Kronecker."
+  },
+  {
+    "name": "Gustav Mie",
+    "birth_year": 1868,
+    "death_year": 1957,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Rostock, Germany",
+    "burial": "Location unknown (died in Freiburg im Breisgau)",
+    "birth_coords": [
+      54.0887,
+      12.1404
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Mie scattering",
+    "fields": "Optics",
+    "notes": ""
+  },
+  {
+    "name": "Hans Christian Ørsted",
+    "birth_year": 1777,
+    "death_year": 1851,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "Rudkøbing, Langeland Island, Denmark",
+    "burial": "Assistens Kirkegård (Assistens Cemetery), Copenhagen, Denmark",
+    "birth_coords": [
+      54.9333,
+      10.7
+    ],
+    "burial_coords": [
+      55.6761,
+      12.5683
+    ],
+    "eponymous_terms": "Oersted (Oe)",
+    "fields": "Electromagnetism",
+    "notes": "Same cemetery as Hans Christian Andersen and Søren Kierkegaard."
+  },
+  {
+    "name": "Heike Kamerlingh Onnes",
+    "birth_year": 1853,
+    "death_year": 1926,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Groningen, Netherlands",
+    "burial": "Nederlands Hervormd Kerkhof (Dorpskerk Voorschoten), Voorschoten, Netherlands",
+    "birth_coords": [
+      53.2194,
+      6.5665
+    ],
+    "burial_coords": [
+      52.1294,
+      4.4536
+    ],
+    "eponymous_terms": "Superconductivity",
+    "fields": "Condensed matter",
+    "notes": "Nobel Prize 1913 for liquefying helium."
+  },
+  {
+    "name": "Heinrich Lenz",
+    "birth_year": 1804,
+    "death_year": 1865,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Dorpat (now Tartu), Estonia",
+    "burial": "Campo Cestio (Protestant Cemetery), Rome, Italy",
+    "birth_coords": [
+      58.378,
+      26.729
+    ],
+    "burial_coords": [
+      41.9028,
+      12.4964
+    ],
+    "eponymous_terms": "Lenz's law",
+    "fields": "Electromagnetism",
+    "notes": "Baltic German origin. Traveled to Italy for medical treatment and died there."
+  },
+  {
+    "name": "Heinrich Magnus",
+    "birth_year": 1802,
+    "death_year": 1870,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Berlin, Germany",
+    "burial": "Dorotheenstädtischer Friedhof, Berlin, Germany",
+    "birth_coords": [
+      52.52,
+      13.405
+    ],
+    "burial_coords": [
+      52.52,
+      13.405
+    ],
+    "eponymous_terms": "Magnus effect",
+    "fields": "Fluid dynamics",
+    "notes": "Same cemetery as Hegel, Fichte, and Brecht."
+  },
+  {
+    "name": "Heinrich Rudolf Hertz",
+    "birth_year": 1857,
+    "death_year": 1894,
+    "still_alive": false,
+    "category": "SI Units",
+    "birthplace": "Hamburg, Germany",
+    "burial": "Ohlsdorf Cemetery (Hauptfriedhof Ohlsdorf), Hamburg, Germany",
+    "birth_coords": [
+      53.5511,
+      9.9937
+    ],
+    "burial_coords": [
+      53.5511,
+      9.9937
+    ],
+    "eponymous_terms": "Hertz (Hz)",
+    "fields": "Electromagnetism",
+    "notes": "Died at age 36 in Bonn; remains returned to his hometown."
+  },
+  {
+    "name": "Hendrik Casimir",
+    "birth_year": 1909,
+    "death_year": 2000,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "The Hague, Netherlands",
+    "burial": "Location unknown (died in Heeze)",
+    "birth_coords": [
+      52.0705,
+      4.3007
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Casimir effect",
+    "fields": "Quantum field theory",
+    "notes": ""
+  },
+  {
+    "name": "Hendrik Lorentz",
+    "birth_year": 1853,
+    "death_year": 1928,
+    "still_alive": false,
+    "category": "Particles/Theory",
+    "birthplace": "Arnhem, Netherlands",
+    "burial": "Algemene Begraafplaats Kleverlaan, Haarlem, Netherlands",
+    "birth_coords": [
+      51.9851,
+      5.8987
+    ],
+    "burial_coords": [
+      52.3874,
+      4.6462
+    ],
+    "eponymous_terms": "Lorentz transformation",
+    "fields": "Special relativity",
+    "notes": "Funeral attended by Einstein, Marie Curie, and Rutherford. Dutch telegraph services suspended for three minutes during funeral."
+  },
+  {
+    "name": "Henri Becquerel",
+    "birth_year": 1852,
+    "death_year": 1908,
+    "still_alive": false,
+    "category": "SI Units",
+    "birthplace": "Paris, France",
+    "burial": "Villa Pen-Castel (family property), Le Croisic, Loire-Atlantique, France",
+    "birth_coords": [
+      48.8566,
+      2.3522
+    ],
+    "burial_coords": [
+      47.2906,
+      -2.5094
+    ],
+    "eponymous_terms": "Becquerel (Bq)",
+    "fields": "Nuclear physics",
+    "notes": "Nobel Prize winner 1903 for discovering radioactivity. Died at his vacation home."
+  },
+  {
+    "name": "Henri Bénard",
+    "birth_year": 1874,
+    "death_year": 1939,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Lieurey, Normandy, France",
+    "burial": "Location not documented (died in Paris)",
+    "birth_coords": [
+      49.2167,
+      0.4833
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Bénard-Marangoni convection",
+    "fields": "Fluid dynamics",
+    "notes": ""
+  },
+  {
+    "name": "Henry Darcy",
+    "birth_year": 1803,
+    "death_year": 1858,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Dijon, France",
+    "burial": "Cimetière de Dijon (formerly Cimetière de Péjoces), Dijon, France",
+    "birth_coords": [
+      47.322,
+      5.0415
+    ],
+    "burial_coords": [
+      47.322,
+      5.0415
+    ],
+    "eponymous_terms": "Darcy's law",
+    "fields": "Fluid mechanics",
+    "notes": "Died of pneumonia while traveling. Day after burial, main square renamed \"Place Darcy.\""
+  },
+  {
+    "name": "Hermann Kopp",
+    "birth_year": 1817,
+    "death_year": 1892,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Hanau, Germany",
+    "burial": "Heidelberg, Germany (specific cemetery unknown)",
+    "birth_coords": [
+      50.1267,
+      8.9169
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Kopp's law",
+    "fields": "Thermodynamics",
+    "notes": ""
+  },
+  {
+    "name": "Hermann Weyl",
+    "birth_year": 1885,
+    "death_year": 1955,
+    "still_alive": false,
+    "category": "Particles/Theory",
+    "birthplace": "Elmshorn, Germany",
+    "burial": "Princeton Cemetery, Princeton, New Jersey, United States",
+    "birth_coords": null,
+    "burial_coords": [
+      40.3573,
+      -74.6672
+    ],
+    "eponymous_terms": "Weyl fermion",
+    "fields": "Particle physics",
+    "notes": "Died unexpectedly in Zürich while mailing a letter. Buried in Princeton where he worked at IAS."
+  },
+  {
+    "name": "Hermann von Helmholtz",
+    "birth_year": 1821,
+    "death_year": 1894,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Potsdam, Germany",
+    "burial": "Friedhof Wannsee II (Lindenstraße), Wannsee, Berlin, Germany",
+    "birth_coords": null,
+    "burial_coords": [
+      52.52,
+      13.405
+    ],
+    "eponymous_terms": "Gibbs-Helmholtz equation; Helmholtz equation",
+    "fields": "Thermodynamics; Wave physics",
+    "notes": ""
+  },
+  {
+    "name": "Irving Langmuir",
+    "birth_year": 1881,
+    "death_year": 1957,
+    "still_alive": false,
+    "category": "Equations",
+    "birthplace": "Brooklyn, New York, United States",
+    "burial": "Cremated (location of ashes unknown)",
+    "birth_coords": [
+      40.7128,
+      -74.006
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Langmuir equation",
+    "fields": "Surface chemistry",
+    "notes": "Died at nephew's summer home in Woods Hole, Massachusetts."
+  },
+  {
+    "name": "Isaac Newton",
+    "birth_year": 1643,
+    "death_year": 1727,
+    "still_alive": false,
+    "category": "SI Units",
+    "birthplace": "Woolsthorpe-by-Colsterworth, Lincolnshire, England, United Kingdom",
+    "burial": "Westminster Abbey (nave), London, England, United Kingdom",
+    "birth_coords": [
+      52.8053,
+      -0.6186
+    ],
+    "burial_coords": [
+      51.5074,
+      -0.1278
+    ],
+    "eponymous_terms": "Newton (N); Newton's laws of motion; Law of universal gravitation",
+    "fields": "Classical mechanics; Gravitation",
+    "notes": "First scientist buried in Westminster Abbey. Monument completed 1731; Latin epitaph reads \"Here lies that which was mortal of Isaac Newton.\""
+  },
+  {
+    "name": "J.J. Thomson",
+    "birth_year": 1856,
+    "death_year": 1940,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Cheetham Hill, Manchester, England, United Kingdom",
+    "burial": "Westminster Abbey (ashes interred in nave), London, United Kingdom",
+    "birth_coords": [
+      53.50,
+      -2.24
+    ],
+    "burial_coords": [
+      51.5074,
+      -0.1278
+    ],
+    "eponymous_terms": "Thomson scattering",
+    "fields": "Electromagnetism",
+    "notes": "Ashes near Newton and Rutherford."
+  },
+  {
+    "name": "Jacob Bekenstein",
+    "birth_year": 1947,
+    "death_year": 2015,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Mexico City, Mexico",
+    "burial": "Israel (specific cemetery not confirmed)",
+    "birth_coords": [
+      19.4326,
+      -99.1332
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Bekenstein-Hawking entropy",
+    "fields": "Quantum gravity",
+    "notes": "Died in Helsinki from heart attack. As a religious Jew, buried in Israel per tradition."
+  },
+  {
+    "name": "Jacques Charles",
+    "birth_year": 1746,
+    "death_year": 1823,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Beaugency, Loiret, France",
+    "burial": "Cimetière du Père-Lachaise (Division 11), Paris, France",
+    "birth_coords": [
+      47.7789,
+      1.6314
+    ],
+    "burial_coords": [
+      48.8566,
+      2.3522
+    ],
+    "eponymous_terms": "Charles's law",
+    "fields": "Thermodynamics",
+    "notes": ""
+  },
+  {
+    "name": "James Clerk Maxwell",
+    "birth_year": 1831,
+    "death_year": 1879,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "Edinburgh, Scotland, United Kingdom",
+    "burial": "Parton Churchyard (Old Kirk ruins), Parton, Dumfries and Galloway, Scotland, United Kingdom",
+    "birth_coords": [
+      55.9533,
+      -3.1883
+    ],
+    "burial_coords": [
+      54.95,
+      -3.5833
+    ],
+    "eponymous_terms": "Maxwell (Mx); Maxwell's equations",
+    "fields": "Electromagnetism",
+    "notes": "Buried with parents and wife in church ruins near family estate at Glenlair. Memorial stone at Westminster Abbey."
+  },
+  {
+    "name": "James Early",
+    "birth_year": 1922,
+    "death_year": 2004,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Syracuse, New York, United States",
+    "burial": "Location not documented (died in Palo Alto, California)",
+    "birth_coords": [
+      43.0481,
+      -76.1474
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Early effect",
+    "fields": "Electronics",
+    "notes": "Known for the Early effect in transistors."
+  },
+  {
+    "name": "James Prescott Joule",
+    "birth_year": 1818,
+    "death_year": 1889,
+    "still_alive": false,
+    "category": "SI Units",
+    "birthplace": "Salford, Greater Manchester, England, United Kingdom",
+    "burial": "Brooklands Cemetery, Sale, Greater Manchester, England, United Kingdom",
+    "birth_coords": [
+      53.4808,
+      -2.2426
+    ],
+    "burial_coords": [
+      53.4808,
+      -2.2426
+    ],
+    "eponymous_terms": "Joule (J); Joule's first law; Joule-Thomson effect",
+    "fields": "Electricity; Thermodynamics",
+    "notes": "Gravestone inscribed with \"772.55\"—his determination of the mechanical equivalent of heat. Not buried in Westminster Abbey despite a memorial plaque there."
+  },
+  {
+    "name": "James Watt",
+    "birth_year": 1736,
+    "death_year": 1819,
+    "still_alive": false,
+    "category": "SI Units",
+    "birthplace": "Greenock, Scotland, United Kingdom",
+    "burial": "St. Mary's Church, Handsworth, Birmingham, England, United Kingdom",
+    "birth_coords": null,
+    "burial_coords": [
+      52.51,
+      -1.93
+    ],
+    "eponymous_terms": "Watt (W)",
+    "fields": "Thermodynamics",
+    "notes": "Church expansion over his grave means the tomb is now located inside the church building."
+  },
+  {
+    "name": "Jean Peltier",
+    "birth_year": 1785,
+    "death_year": 1845,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Ham, Somme, France",
+    "burial": "Père Lachaise Cemetery (Division 73), Paris, France",
+    "birth_coords": [
+      49.7475,
+      3.0739
+    ],
+    "burial_coords": [
+      48.8566,
+      2.3522
+    ],
+    "eponymous_terms": "Peltier effect",
+    "fields": "Thermoelectricity",
+    "notes": "Originally a watchmaker; became self-taught physicist after retiring at age 30."
+  },
+  {
+    "name": "Jean Poiseuille",
+    "birth_year": 1797,
+    "death_year": 1869,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "Paris, France",
+    "burial": "Cimetière du Père-Lachaise, Paris, France",
+    "birth_coords": [
+      48.8566,
+      2.3522
+    ],
+    "burial_coords": [
+      48.8566,
+      2.3522
+    ],
+    "eponymous_terms": "Poise (P)",
+    "fields": "Fluid dynamics",
+    "notes": "Known for the Hagen-Poiseuille equation."
+  },
+  {
+    "name": "Jean d'Alembert",
+    "birth_year": 1717,
+    "death_year": 1783,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Paris, France",
+    "burial": "Common unmarked grave, Paris, France",
+    "birth_coords": [
+      48.8566,
+      2.3522
+    ],
+    "burial_coords": [
+      48.8566,
+      2.3522
+    ],
+    "eponymous_terms": "D'Alembert's principle",
+    "fields": "Analytical mechanics",
+    "notes": "Born illegitimate and abandoned on church steps. As a known atheist, denied proper burial."
+  },
+  {
+    "name": "Jean-Baptiste Biot",
+    "birth_year": 1774,
+    "death_year": 1862,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Paris, France",
+    "burial": "Cimetière du Montparnasse (Division 6), Paris, France",
+    "birth_coords": [
+      48.8566,
+      2.3522
+    ],
+    "burial_coords": [
+      48.8566,
+      2.3522
+    ],
+    "eponymous_terms": "Biot-Savart law",
+    "fields": "Electromagnetism",
+    "notes": ""
+  },
+  {
+    "name": "Jean-Victor Poncelet",
+    "birth_year": 1788,
+    "death_year": 1867,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "Metz, France",
+    "burial": "Cimetière du Montparnasse (Division 27), Paris, France",
+    "birth_coords": [
+      49.1193,
+      6.1757
+    ],
+    "burial_coords": [
+      48.8566,
+      2.3522
+    ],
+    "eponymous_terms": "Poncelet (p)",
+    "fields": "Mechanics",
+    "notes": "Founded modern projective geometry while imprisoned in Russia."
+  },
+  {
+    "name": "Johann Heinrich Lambert",
+    "birth_year": 1728,
+    "death_year": 1777,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Mulhouse, Alsace, France",
+    "burial": "Berlin, Germany (specific cemetery uncertain)",
+    "birth_coords": [
+      47.7508,
+      7.3359
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Beer-Lambert law; Lambert's cosine law",
+    "fields": "Optics",
+    "notes": "Died of tuberculosis."
+  },
+  {
+    "name": "Johann Leidenfrost",
+    "birth_year": 1715,
+    "death_year": 1794,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Rosperwenda, Germany (now Thuringia)",
+    "burial": "Duisburg, Germany (specific cemetery not documented)",
+    "birth_coords": null,
+    "burial_coords": null,
+    "eponymous_terms": "Leidenfrost effect",
+    "fields": "Thermodynamics",
+    "notes": ""
+  },
+  {
+    "name": "Johannes Kepler",
+    "birth_year": 1571,
+    "death_year": 1630,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Weil der Stadt, Baden-Württemberg, Germany",
+    "burial": "GRAVE DESTROYED (originally St. Peter's Cemetery, Regensburg, Germany)",
+    "birth_coords": null,
+    "burial_coords": null,
+    "eponymous_terms": "Kepler's laws",
+    "fields": "Celestial mechanics",
+    "notes": "Grave destroyed when Swedish troops sieged Regensburg in 1632, just two years after his death."
+  },
+  {
+    "name": "Johannes Rydberg",
+    "birth_year": 1854,
+    "death_year": 1919,
+    "still_alive": false,
+    "category": "Physical Constants",
+    "birthplace": "Halmstad, Sweden",
+    "burial": "Northern Cemetery (Norra kyrkogården), Lund, Sweden",
+    "birth_coords": [
+      56.6745,
+      12.8577
+    ],
+    "burial_coords": [
+      55.7047,
+      13.191
+    ],
+    "eponymous_terms": "Rydberg constant (Râˆž)",
+    "fields": "Atomic physics",
+    "notes": "Died at Lund Hospital."
+  },
+  {
+    "name": "Johannes Stark",
+    "birth_year": 1874,
+    "death_year": 1957,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Schickenhof (now part of Freihung), Bavaria, Germany",
+    "burial": "Bergfriedhof, Schönau am Königssee, Germany",
+    "birth_coords": null,
+    "burial_coords": null,
+    "eponymous_terms": "Stark effect",
+    "fields": "Atomic physics",
+    "notes": "Nobel Prize 1919. Nazi supporter; sentenced as \"Major Offender\" in 1947."
+  },
+  {
+    "name": "Johannes van der Waals",
+    "birth_year": 1837,
+    "death_year": 1923,
+    "still_alive": false,
+    "category": "Particles/Theory",
+    "birthplace": "Leiden, Netherlands",
+    "burial": "De Nieuwe Ooster Cemetery, Amsterdam, Netherlands",
+    "birth_coords": [
+      52.1601,
+      4.497
+    ],
+    "burial_coords": [
+      52.3676,
+      4.9041
+    ],
+    "eponymous_terms": "Van der Waals force; Van der Waals equation",
+    "fields": "Molecular physics; Thermodynamics",
+    "notes": ""
+  },
+  {
+    "name": "John Dalton",
+    "birth_year": 1766,
+    "death_year": 1844,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "Eaglesfield, near Cockermouth, Cumberland, United Kingdom",
+    "burial": "Ardwick Cemetery, Manchester, United Kingdom",
+    "birth_coords": null,
+    "burial_coords": [
+      53.4808,
+      -2.2426
+    ],
+    "eponymous_terms": "Dalton (Da); Dalton's law",
+    "fields": "Atomic physics; Thermodynamics",
+    "notes": "Cemetery now a playing field, but grave survives. Over 40,000 people attended his funeral."
+  },
+  {
+    "name": "John Hopkinson",
+    "birth_year": 1849,
+    "death_year": 1898,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Manchester, England, United Kingdom",
+    "burial": "Cimetière de Territet, Territet (near Montreux), Switzerland",
+    "birth_coords": [
+      53.4808,
+      -2.2426
+    ],
+    "burial_coords": [
+      46.4312,
+      6.9107
+    ],
+    "eponymous_terms": "Hopkinson's law",
+    "fields": "Magnetism",
+    "notes": "Died in mountaineering accident with three of his children."
+  },
+  {
+    "name": "John Kerr",
+    "birth_year": 1824,
+    "death_year": 1907,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Ardrossan, Scotland, United Kingdom",
+    "burial": "Glasgow, Scotland (specific cemetery not documented)",
+    "birth_coords": [
+      55.6408,
+      -4.8139
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Kerr effect",
+    "fields": "Optics",
+    "notes": "Ordained minister who worked at Free Church Training College for 44 years."
+  },
+  {
+    "name": "John Napier",
+    "birth_year": 1550,
+    "death_year": 1617,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "Edinburgh (Merchiston Castle), Scotland, United Kingdom",
+    "burial": "St Cuthbert's Parish Church (underground vault), Edinburgh, United Kingdom",
+    "birth_coords": [
+      55.9533,
+      -3.1883
+    ],
+    "burial_coords": [
+      55.95,
+      -3.21
+    ],
+    "eponymous_terms": "Neper (Np)",
+    "fields": "Signal processing",
+    "notes": "Remains transferred from St Giles kirkyard when it was demolished for Parliament House."
+  },
+  {
+    "name": "John Stewart Bell",
+    "birth_year": 1928,
+    "death_year": 1990,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Belfast, Northern Ireland, United Kingdom",
+    "burial": "Cimetière Saint-Georges (columbarium), Geneva, Switzerland",
+    "birth_coords": [
+      54.5973,
+      -5.9301
+    ],
+    "burial_coords": [
+      46.2044,
+      6.1432
+    ],
+    "eponymous_terms": "Bell's theorem",
+    "fields": "Quantum foundations",
+    "notes": "Died unexpectedly of cerebral hemorrhage."
+  },
+  {
+    "name": "John Tyndall",
+    "birth_year": 1820,
+    "death_year": 1893,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Leighlinbridge, County Carlow, Ireland",
+    "burial": "St. Bartholomew's Churchyard, Haslemere, Surrey, England, United Kingdom",
+    "birth_coords": [
+      52.7394,
+      -6.9717
+    ],
+    "burial_coords": [
+      51.0893,
+      -0.7139
+    ],
+    "eponymous_terms": "Tyndall effect",
+    "fields": "Optics",
+    "notes": "Died from accidental overdose of chloral hydrate administered by his wife."
+  },
+  {
+    "name": "John William Strutt, Lord Rayleigh",
+    "birth_year": 1842,
+    "death_year": 1919,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "Langford Grove, Maldon, Essex, United Kingdom",
+    "burial": "All Saints' Church graveyard, Terling, Essex, United Kingdom",
+    "birth_coords": null,
+    "burial_coords": [
+      51.8,
+      0.5667
+    ],
+    "eponymous_terms": "Rayleigh scattering",
+    "fields": "Optics",
+    "notes": "Buried in parish churchyard of family estate at Terling Place."
+  },
+  {
+    "name": "Josef Stefan",
+    "birth_year": 1835,
+    "death_year": 1893,
+    "still_alive": false,
+    "category": "Physical Constants",
+    "birthplace": "St. Peter (Sveti Peter), near Klagenfurt, Austria",
+    "burial": "Zentralfriedhof, Vienna, Austria (grave has no visible marker)",
+    "birth_coords": [
+      46.6247,
+      14.3053
+    ],
+    "burial_coords": [
+      48.2082,
+      16.3738
+    ],
+    "eponymous_terms": "Stefan-Boltzmann constant (Ïƒ); Stefan-Boltzmann law",
+    "fields": "Thermal radiation; Thermodynamics",
+    "notes": "Parents were ethnic Slovenes. Born illegitimate."
+  },
+  {
+    "name": "Joseph Fourier",
+    "birth_year": 1768,
+    "death_year": 1830,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Auxerre, France",
+    "burial": "Cimetière du Père-Lachaise (Division 18), Paris, France",
+    "birth_coords": [
+      47.7986,
+      3.5672
+    ],
+    "burial_coords": [
+      48.8566,
+      2.3522
+    ],
+    "eponymous_terms": "Fourier's law",
+    "fields": "Heat transfer",
+    "notes": "Grave features Egyptian-style decoration reflecting his time during Napoleon's Egyptian expedition."
+  },
+  {
+    "name": "Joseph Gay-Lussac",
+    "birth_year": 1778,
+    "death_year": 1850,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Saint-Léonard-de-Noblat, France",
+    "burial": "Cimetière du Père-Lachaise, Paris, France",
+    "birth_coords": null,
+    "burial_coords": [
+      48.8566,
+      2.3522
+    ],
+    "eponymous_terms": "Gay-Lussac's law",
+    "fields": "Thermodynamics",
+    "notes": ""
+  },
+  {
+    "name": "Joseph Henry",
+    "birth_year": 1797,
+    "death_year": 1878,
+    "still_alive": false,
+    "category": "SI Units",
+    "birthplace": "Albany, New York, United States",
+    "burial": "Oak Hill Cemetery, Washington, D.C., United States",
+    "birth_coords": [
+      42.65,
+      -73.75
+    ],
+    "burial_coords": [
+      38.9072,
+      -77.0369
+    ],
+    "eponymous_terms": "Henry (H)",
+    "fields": "Electromagnetism",
+    "notes": "Funeral attended by President Rutherford B. Hayes. First Secretary of the Smithsonian Institution."
+  },
+  {
+    "name": "Joseph Larmor",
+    "birth_year": 1857,
+    "death_year": 1942,
+    "still_alive": false,
+    "category": "Particles/Theory",
+    "birthplace": "Magheragall, County Antrim, Ireland (now Northern Ireland)",
+    "burial": "Holywood Priory Cemetery, Holywood, County Down, Northern Ireland, United Kingdom",
+    "birth_coords": [
+      54.5,
+      -6.15
+    ],
+    "burial_coords": [
+      54.6378,
+      -5.8339
+    ],
+    "eponymous_terms": "Larmor precession",
+    "fields": "Electromagnetism",
+    "notes": ""
+  },
+  {
+    "name": "Joseph-Louis Lagrange",
+    "birth_year": 1736,
+    "death_year": 1813,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Turin, Italy",
+    "burial": "Panthéon (Caveau 2), Paris, France",
+    "birth_coords": [
+      45.0703,
+      7.6869
+    ],
+    "burial_coords": [
+      48.8566,
+      2.3522
+    ],
+    "eponymous_terms": "Lagrangian mechanics",
+    "fields": "Analytical mechanics",
+    "notes": "Born Giuseppe Lodovico Lagrangia. Napoleon honored him two days before his death."
+  },
+  {
+    "name": "Joseph-Nicolas Delisle",
+    "birth_year": 1688,
+    "death_year": 1768,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "Paris, France",
+    "burial": "Paris, France (specific cemetery unconfirmed)",
+    "birth_coords": [
+      48.8566,
+      2.3522
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Degree Delisle (Â°D)",
+    "fields": "Thermodynamics",
+    "notes": "Died at Abbey of St. Genevieve. Invented the Delisle temperature scale."
+  },
+  {
+    "name": "Josiah Willard Gibbs",
+    "birth_year": 1839,
+    "death_year": 1903,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "New Haven, Connecticut, United States",
+    "burial": "Grove Street Cemetery, New Haven, Connecticut, United States",
+    "birth_coords": [
+      41.3083,
+      -72.9279
+    ],
+    "burial_coords": [
+      41.3083,
+      -72.9279
+    ],
+    "eponymous_terms": "Gibbs-Helmholtz equation",
+    "fields": "Thermodynamics",
+    "notes": "Born and buried in same city where he spent entire career at Yale."
+  },
+  {
+    "name": "Julian Schwinger",
+    "birth_year": 1918,
+    "death_year": 1994,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "New York City, United States",
+    "burial": "Mount Auburn Cemetery (Willow Pond Knoll Garden), Cambridge, Massachusetts, United States",
+    "birth_coords": [
+      40.7128,
+      -74.006
+    ],
+    "burial_coords": [
+      42.37,
+      -71.11
+    ],
+    "eponymous_terms": "Schwinger effect",
+    "fields": "Quantum electrodynamics",
+    "notes": "Tombstone features his calculation of correction to magnetic moment of electron."
+  },
+  {
+    "name": "Karl Jansky",
+    "birth_year": 1905,
+    "death_year": 1950,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "Norman, Oklahoma Territory (now Oklahoma), United States",
+    "burial": "Forest Hill Cemetery, Madison, Wisconsin, United States",
+    "birth_coords": [
+      35.2226,
+      -97.4395
+    ],
+    "burial_coords": [
+      43.0731,
+      -89.4012
+    ],
+    "eponymous_terms": "Jansky (Jy)",
+    "fields": "Radio astronomy",
+    "notes": "Born when Oklahoma was still a territory. Died of heart failure at age 44."
+  },
+  {
+    "name": "Karl Schwarzschild",
+    "birth_year": 1873,
+    "death_year": 1916,
+    "still_alive": false,
+    "category": "Physical Constants",
+    "birthplace": "Frankfurt am Main, Germany",
+    "burial": "Stadtfriedhof Göttingen, Göttingen, Germany",
+    "birth_coords": [
+      50.1109,
+      8.6821
+    ],
+    "burial_coords": [
+      51.5413,
+      9.9158
+    ],
+    "eponymous_terms": "Schwarzschild radius (rs)",
+    "fields": "General relativity",
+    "notes": "Died of pemphigus contracted while serving on WWI Russian front at age 42."
+  },
+  {
+    "name": "Klaus von Klitzing",
+    "birth_year": 1943,
+    "death_year": null,
+    "still_alive": true,
+    "category": "Physical Constants",
+    "birthplace": "Schroda, Posen (now Środa Wielkopolska, Poland)",
+    "burial": "Still Living",
+    "birth_coords": [
+      52.2286,
+      17.2758
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Von Klitzing constant (RK); Quantum Hall effect",
+    "fields": "Condensed matter; Quantum Hall effect",
+    "notes": "Nobel Prize 1985. Director Emeritus at Max Planck Institute for Solid State Research."
+  },
+  {
+    "name": "Leon Cooper",
+    "birth_year": 1930,
+    "death_year": 2024,
+    "still_alive": false,
+    "category": "Particles/Theory",
+    "birthplace": "The Bronx, New York, United States",
+    "burial": "Details not yet publicly documented (died October 2024 in Providence, Rhode Island)",
+    "birth_coords": [
+      40.7128,
+      -74.006
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Cooper pair",
+    "fields": "Condensed matter",
+    "notes": "Nobel Prize 1972 for BCS theory of superconductivity."
+  },
+  {
+    "name": "Leonhard Euler",
+    "birth_year": 1707,
+    "death_year": 1783,
+    "still_alive": false,
+    "category": "Equations",
+    "birthplace": "Basel, Switzerland",
+    "burial": "Lazarevskoe Cemetery, Alexander Nevsky Monastery, St. Petersburg, Russia",
+    "birth_coords": [
+      47.5596,
+      7.5886
+    ],
+    "burial_coords": [
+      59.9343,
+      30.3351
+    ],
+    "eponymous_terms": "Euler equations",
+    "fields": "Fluid dynamics",
+    "notes": "Originally buried at Smolensk Lutheran Cemetery; remains reinterred in 1956 for 250th anniversary."
+  },
+  {
+    "name": "Lise Meitner",
+    "birth_year": 1878,
+    "death_year": 1968,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Vienna, Austria",
+    "burial": "St James's Churchyard, Bramley, Hampshire, England, United Kingdom",
+    "birth_coords": [
+      48.2082,
+      16.3738
+    ],
+    "burial_coords": [
+      51.34,
+      -1.06
+    ],
+    "eponymous_terms": "Auger-Meitner effect",
+    "fields": "Atomic physics",
+    "notes": "Epitaph reads: \"A physicist who never lost her humanity.\" Element 109 (Meitnerium) named in her honor."
+  },
+  {
+    "name": "Louis Harold Gray",
+    "birth_year": 1905,
+    "death_year": 1965,
+    "still_alive": false,
+    "category": "SI Units",
+    "birthplace": "Barnes, London, England, United Kingdom",
+    "burial": "Location uncertain (died at Northwood, London)",
+    "birth_coords": [
+      51.5074,
+      -0.1278
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Gray (Gy)",
+    "fields": "Radiation physics",
+    "notes": "Founded radiobiology field at Mount Vernon Hospital. Specific burial documentation unavailable."
+  },
+  {
+    "name": "Ludwig Boltzmann",
+    "birth_year": 1844,
+    "death_year": 1906,
+    "still_alive": false,
+    "category": "Physical Constants",
+    "birthplace": "Vienna, Austria",
+    "burial": "Zentralfriedhof (Central Cemetery), Vienna, Austria (Group 14C, Grave 1)",
+    "birth_coords": [
+      48.2082,
+      16.3738
+    ],
+    "burial_coords": [
+      48.2082,
+      16.3738
+    ],
+    "eponymous_terms": "Boltzmann constant (kB); Stefan-Boltzmann constant (Ïƒ); Stefan-Boltzmann law; Boltzmann equation",
+    "fields": "Statistical mechanics; Thermal radiation; Thermodynamics",
+    "notes": "Died by suicide in Duino (now Italy). Tombstone features his entropy equation **S = k log W**."
+  },
+  {
+    "name": "Léon Brillouin",
+    "birth_year": 1889,
+    "death_year": 1969,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Sèvres, France",
+    "burial": "Location unknown (died in New York City)",
+    "birth_coords": [
+      48.8236,
+      2.2106
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Brillouin scattering; Brillouin zone",
+    "fields": "Condensed matter; Solid state physics",
+    "notes": "U.S. citizen from 1949."
+  },
+  {
+    "name": "Marie Curie",
+    "birth_year": 1867,
+    "death_year": 1934,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "Warsaw, Poland (then Russian Empire)",
+    "burial": "Panthéon, Paris, France",
+    "birth_coords": [
+      52.2297,
+      21.0122
+    ],
+    "burial_coords": [
+      48.8566,
+      2.3522
+    ],
+    "eponymous_terms": "Curie (Ci)",
+    "fields": "Nuclear physics",
+    "notes": "First woman interred in the Panthéon on her own merits (1995 transfer). Coffin lined with lead due to radiation."
+  },
+  {
+    "name": "Max Born",
+    "birth_year": 1882,
+    "death_year": 1970,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Breslau, Germany (now Wrocław, Poland)",
+    "burial": "Stadtfriedhof Göttingen, Göttingen, Germany",
+    "birth_coords": [
+      51.1079,
+      17.0385
+    ],
+    "burial_coords": [
+      51.5413,
+      9.9158
+    ],
+    "eponymous_terms": "Born rule",
+    "fields": "Î¨",
+    "notes": "Cemetery contains graves of nine Nobel laureates. Gravestone displays quantum mechanics formula."
+  },
+  {
+    "name": "Max Planck",
+    "birth_year": 1858,
+    "death_year": 1947,
+    "still_alive": false,
+    "category": "Physical Constants",
+    "birthplace": "Kiel, Germany",
+    "burial": "Stadtfriedhof, Göttingen, Germany",
+    "birth_coords": [
+      54.3233,
+      10.1228
+    ],
+    "burial_coords": [
+      51.5413,
+      9.9158
+    ],
+    "eponymous_terms": "Planck constant (h); Planck's law",
+    "fields": "Quantum mechanics",
+    "notes": "Simple gravestone inscribed only with his name and **Planck's constant value** (h=6.62×10⁻³⁴ W·s²)."
+  },
+  {
+    "name": "Meghnad Saha",
+    "birth_year": 1893,
+    "death_year": 1956,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Sheoratali, Bengal Presidency (now Gazipur, Bangladesh)",
+    "burial": "Cremated at Keoratola Crematorium, Kolkata, India",
+    "birth_coords": null,
+    "burial_coords": [
+      22.5726,
+      88.3639
+    ],
+    "eponymous_terms": "Saha ionization equation",
+    "fields": "Astrophysics",
+    "notes": "Requested \"simple cremation without any rituals.\""
+  },
+  {
+    "name": "Michael Faraday",
+    "birth_year": 1791,
+    "death_year": 1867,
+    "still_alive": false,
+    "category": "SI Units",
+    "birthplace": "Newington Butts, Surrey (now London Borough of Southwark), England, United Kingdom",
+    "burial": "Highgate Cemetery (West Cemetery), London, England, United Kingdom",
+    "birth_coords": [
+      51.5074,
+      -0.1278
+    ],
+    "burial_coords": [
+      51.5074,
+      -0.1278
+    ],
+    "eponymous_terms": "Farad (F); Faraday (Fd); Faraday constant (F); Faraday's law of induction; Faraday's laws of electrolysis; Faraday effect",
+    "fields": "Electrochemistry; Electromagnetism; Optics",
+    "notes": "Declined burial in Westminster Abbey. Grave is Grade II listed; buried in Sandemanian plot with his wife."
+  },
+  {
+    "name": "Nicolas Sadi Carnot",
+    "birth_year": 1796,
+    "death_year": 1832,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Paris, France",
+    "burial": "Cimetière ancien d'Ivry-sur-Seine, Ivry-sur-Seine, France",
+    "birth_coords": [
+      48.8566,
+      2.3522
+    ],
+    "burial_coords": [
+      48.8156,
+      2.3883
+    ],
+    "eponymous_terms": "Carnot's theorem",
+    "fields": "Thermodynamics",
+    "notes": "Died of cholera at age 36. Many belongings and writings buried with him due to contamination fears. \"Father of Thermodynamics.\""
+  },
+  {
+    "name": "Niels Bohr",
+    "birth_year": 1885,
+    "death_year": 1962,
+    "still_alive": false,
+    "category": "Physical Constants",
+    "birthplace": "Copenhagen, Denmark",
+    "burial": "Assistens Cemetery (Section Q), Copenhagen, Denmark",
+    "birth_coords": [
+      55.6761,
+      12.5683
+    ],
+    "burial_coords": [
+      55.6761,
+      12.5683
+    ],
+    "eponymous_terms": "Bohr radius (aâ‚€); Bohr magneton (Î¼B)",
+    "fields": "Atomic physics; Quantum mechanics",
+    "notes": "Cremated; buried in family grave with father Christian and brother Harald. Grave features granite pillar topped with an owl."
+  },
+  {
+    "name": "Nikola Tesla",
+    "birth_year": 1856,
+    "death_year": 1943,
+    "still_alive": false,
+    "category": "SI Units",
+    "birthplace": "Smiljan, Croatia (then Austrian Empire)",
+    "burial": "Nikola Tesla Museum, Belgrade, Serbia (cremated; ashes in golden spherical urn)",
+    "birth_coords": [
+      44.5667,
+      15.25
+    ],
+    "burial_coords": [
+      44.7866,
+      20.4489
+    ],
+    "eponymous_terms": "Tesla (T)",
+    "fields": "Electromagnetism",
+    "notes": "Cremated in New York; ashes kept at Ferncliff Cemetery until 1957, then transferred to Belgrade."
+  },
+  {
+    "name": "Nikolay Umov",
+    "birth_year": 1846,
+    "death_year": 1915,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Simbirsk (now Ulyanovsk), Russia",
+    "burial": "Vagankovo Cemetery, Moscow, Russia",
+    "birth_coords": [
+      54.3083,
+      48.3667
+    ],
+    "burial_coords": [
+      55.7558,
+      37.6173
+    ],
+    "eponymous_terms": "Umov effect",
+    "fields": "Optics",
+    "notes": ""
+  },
+  {
+    "name": "Ole Rømer",
+    "birth_year": 1644,
+    "death_year": 1710,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "Aarhus, Denmark",
+    "burial": "Copenhagen, Denmark (likely Vor Frue Kirke; exact location uncertain)",
+    "birth_coords": [
+      56.1629,
+      10.2039
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Degree Rømer (°Rø)",
+    "fields": "Thermodynamics",
+    "notes": "First to demonstrate light has finite speed (1676). Written work lost in Great Copenhagen Fire of 1728."
+  },
+  {
+    "name": "Osborne Reynolds",
+    "birth_year": 1842,
+    "death_year": 1912,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Belfast, Ireland (now Northern Ireland, United Kingdom)",
+    "burial": "St Decuman's Churchyard, Watchet, Somerset, United Kingdom",
+    "birth_coords": [
+      54.5973,
+      -5.9301
+    ],
+    "burial_coords": [
+      51.1814,
+      -3.3303
+    ],
+    "eponymous_terms": "Reynolds number effects",
+    "fields": "Fluid dynamics",
+    "notes": "Died of influenza."
+  },
+  {
+    "name": "Paul Dirac",
+    "birth_year": 1902,
+    "death_year": 1984,
+    "still_alive": false,
+    "category": "Physical Constants",
+    "birthplace": "Bristol, England, United Kingdom",
+    "burial": "Roselawn Cemetery, Tallahassee, Florida, United States",
+    "birth_coords": [
+      51.4545,
+      -2.5879
+    ],
+    "burial_coords": [
+      30.4383,
+      -84.2807
+    ],
+    "eponymous_terms": "Reduced Planck constant (â„); Dirac fermion; Dirac equation",
+    "fields": "Quantum field theory; Quantum mechanics",
+    "notes": "Memorial stone with Dirac equation unveiled at Westminster Abbey in 1995."
+  },
+  {
+    "name": "Paul Ehrenfest",
+    "birth_year": 1880,
+    "death_year": 1933,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Vienna, Austria",
+    "burial": "Location uncertain (died in Amsterdam)",
+    "birth_coords": [
+      48.2082,
+      16.3738
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Ehrenfest's theorem",
+    "fields": "Quantum mechanics",
+    "notes": "Died by suicide. Some sources mention Leiden; unverified."
+  },
+  {
+    "name": "Pavel Cherenkov",
+    "birth_year": 1904,
+    "death_year": 1990,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Novaya Chigla, Voronezh Oblast, Russia",
+    "burial": "Novodevichy Cemetery, Moscow, Russia",
+    "birth_coords": null,
+    "burial_coords": [
+      55.7558,
+      37.6173
+    ],
+    "eponymous_terms": "Cherenkov radiation",
+    "fields": "Particle physics",
+    "notes": "Nobel Prize 1958. Novodevichy is Russia's most prestigious cemetery."
+  },
+  {
+    "name": "Peter Debye",
+    "birth_year": 1884,
+    "death_year": 1966,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "Maastricht, Netherlands",
+    "burial": "Pleasant Grove Cemetery, Ithaca, New York, United States",
+    "birth_coords": [
+      50.8514,
+      5.6909
+    ],
+    "burial_coords": [
+      42.44,
+      -76.50
+    ],
+    "eponymous_terms": "Debye (D); Debye model",
+    "fields": "Molecular physics; Solid state physics",
+    "notes": "U.S. citizen from 1946. Died of a heart attack."
+  },
+  {
+    "name": "Peter Higgs",
+    "birth_year": 1929,
+    "death_year": 2024,
+    "still_alive": false,
+    "category": "Particles/Theory",
+    "birthplace": "Newcastle upon Tyne, England, United Kingdom",
+    "burial": "Details not made public (died in Edinburgh)",
+    "birth_coords": [
+      54.9783,
+      -1.6178
+    ],
+    "burial_coords": [
+      55.9533,
+      -3.1883
+    ],
+    "eponymous_terms": "Higgs boson",
+    "fields": "Particle physics",
+    "notes": "Nobel Prize 2013. Died peacefully at home following short illness."
+  },
+  {
+    "name": "Pierre Auger",
+    "birth_year": 1899,
+    "death_year": 1993,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Paris, France",
+    "burial": "Clairefontaine-en-Yvelines, France",
+    "birth_coords": [
+      48.8566,
+      2.3522
+    ],
+    "burial_coords": [
+      48.6167,
+      1.8667
+    ],
+    "eponymous_terms": "Auger-Meitner effect",
+    "fields": "Atomic physics",
+    "notes": "First Director General of ESRO (precursor to ESA)."
+  },
+  {
+    "name": "Pierre Curie",
+    "birth_year": 1859,
+    "death_year": 1906,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "Paris, France",
+    "burial": "Panthéon, Paris, France",
+    "birth_coords": [
+      48.8566,
+      2.3522
+    ],
+    "burial_coords": [
+      48.8566,
+      2.3522
+    ],
+    "eponymous_terms": "Curie (Ci); Curie's law; Curie-Weiss law",
+    "fields": "Magnetism; Nuclear physics",
+    "notes": "Reinterred with Marie in 1995 from Cimetière de Sceaux. Killed at age 46 in a street accident."
+  },
+  {
+    "name": "Pierre de Fermat",
+    "birth_year": 1607,
+    "death_year": 1665,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Beaumont-de-Lomagne, France",
+    "burial": "Church of the Augustines, Toulouse, France (transferred 1675)",
+    "birth_coords": null,
+    "burial_coords": [
+      43.6047,
+      1.4442
+    ],
+    "eponymous_terms": "Fermat's principle",
+    "fields": "Optics",
+    "notes": "Originally buried at Church of St. Dominique, Castres; remains moved to family vault."
+  },
+  {
+    "name": "Pierre-Ernest Weiss",
+    "birth_year": 1865,
+    "death_year": 1940,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Mulhouse, France",
+    "burial": "Location not documented (died in Lyon)",
+    "birth_coords": [
+      47.7508,
+      7.3359
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Curie-Weiss law",
+    "fields": "Magnetism",
+    "notes": ""
+  },
+  {
+    "name": "Pierre-Louis Maupertuis",
+    "birth_year": 1698,
+    "death_year": 1759,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Saint-Malo, France",
+    "burial": "Église Saint-Roch, Paris, France",
+    "birth_coords": [
+      48.6493,
+      -2.0007
+    ],
+    "burial_coords": [
+      48.8566,
+      2.3522
+    ],
+    "eponymous_terms": "Maupertuis's principle",
+    "fields": "Mechanics",
+    "notes": "Died in Basel while staying with Johann Bernoulli; remains later transferred to Paris."
+  },
+  {
+    "name": "Pierre-Simon Laplace",
+    "birth_year": 1749,
+    "death_year": 1827,
+    "still_alive": false,
+    "category": "Equations",
+    "birthplace": "Beaumont-en-Auge, Normandy, France",
+    "burial": "Pierre-Simon Laplace Estate Cemetery, Saint-Julien-de-Mailloc, France",
+    "birth_coords": [
+      49.2833,
+      0.0833
+    ],
+    "burial_coords": [
+      49.1167,
+      0.35
+    ],
+    "eponymous_terms": "Laplace equation; Young-Laplace equation",
+    "fields": "Mathematical physics; Surface physics",
+    "notes": "Originally in Père Lachaise; transferred to family estate in 1888."
+  },
+  {
+    "name": "Pieter Zeeman",
+    "birth_year": 1865,
+    "death_year": 1943,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Zonnemaire, Zeeland, Netherlands",
+    "burial": "Algemene Begraafplaats Kleverlaan, Haarlem, Netherlands",
+    "birth_coords": [
+      51.7,
+      3.9167
+    ],
+    "burial_coords": [
+      52.3874,
+      4.6462
+    ],
+    "eponymous_terms": "Zeeman effect",
+    "fields": "Atomic physics",
+    "notes": "Nobel Prize 1902."
+  },
+  {
+    "name": "René de Réaumur",
+    "birth_year": 1683,
+    "death_year": 1757,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "La Rochelle, France",
+    "burial": "Near Saint-Julien-du-Terroux, Maine, France",
+    "birth_coords": [
+      46.1603,
+      -1.1511
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Degree Réaumur (°Ré)",
+    "fields": "Thermodynamics",
+    "notes": "Died from injuries after falling from his horse."
+  },
+  {
+    "name": "Richard Feynman",
+    "birth_year": 1918,
+    "death_year": 1988,
+    "still_alive": false,
+    "category": "Particles/Theory",
+    "birthplace": "Far Rockaway, Queens, New York, United States",
+    "burial": "Mountain View Cemetery, Altadena, California, United States",
+    "birth_coords": [
+      40.7128,
+      -74.006
+    ],
+    "burial_coords": [
+      34.1897,
+      -118.1314
+    ],
+    "eponymous_terms": "Feynman diagram",
+    "fields": "Quantum field theory",
+    "notes": "Simple plaque marks grave. Nobel Prize 1965."
+  },
+  {
+    "name": "Robert Boyle",
+    "birth_year": 1627,
+    "death_year": 1691,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Lismore Castle, County Waterford, Ireland",
+    "burial": "St Martin-in-the-Fields Churchyard, Westminster, London, United Kingdom",
+    "birth_coords": null,
+    "burial_coords": [
+      51.5074,
+      -0.1278
+    ],
+    "eponymous_terms": "Boyle's law",
+    "fields": "Thermodynamics",
+    "notes": ""
+  },
+  {
+    "name": "Robert Hooke",
+    "birth_year": 1635,
+    "death_year": 1703,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Freshwater, Isle of Wight, England, United Kingdom",
+    "burial": "Original grave lost (originally St Helen's Church, Bishopsgate, London)",
+    "birth_coords": [
+      50.6833,
+      -1.5167
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Hooke's law",
+    "fields": "Mechanics",
+    "notes": "In 1891, remains exhumed and transferred to common grave at City of London Cemetery, Wanstead. Precise location unknown."
+  },
+  {
+    "name": "Robert Ochsenfeld",
+    "birth_year": 1901,
+    "death_year": 1993,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Helberhausen, Germany (now part of Hilchenbach)",
+    "burial": "Location unknown",
+    "birth_coords": null,
+    "burial_coords": null,
+    "eponymous_terms": "Meissner effect",
+    "fields": "Superconductivity",
+    "notes": ""
+  },
+  {
+    "name": "Rolf Sievert",
+    "birth_year": 1896,
+    "death_year": 1966,
+    "still_alive": false,
+    "category": "SI Units",
+    "birthplace": "Stockholm, Sweden",
+    "burial": "Location uncertain (died at Karolinska Hospital, Stockholm)",
+    "birth_coords": [
+      59.3293,
+      18.0686
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Sievert (Sv)",
+    "fields": "Radiation physics",
+    "notes": "Known as \"Father of Radiation Protection.\" Specific cemetery documentation not found."
+  },
+  {
+    "name": "Rudolf Mössbauer",
+    "birth_year": 1929,
+    "death_year": 2011,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Munich, Germany",
+    "burial": "Waldfriedhof Grünwald, Grünwald, near Munich, Germany",
+    "birth_coords": [
+      48.1351,
+      11.582
+    ],
+    "burial_coords": [
+      48.1351,
+      11.582
+    ],
+    "eponymous_terms": "Mössbauer effect",
+    "fields": "Nuclear physics",
+    "notes": "Nobel Prize 1961."
+  },
+  {
+    "name": "Satyendra Nath Bose",
+    "birth_year": 1894,
+    "death_year": 1974,
+    "still_alive": false,
+    "category": "Particles/Theory",
+    "birthplace": "Calcutta (now Kolkata), India",
+    "burial": "Cremated (Hindu tradition), Calcutta, India",
+    "birth_coords": [
+      22.5726,
+      88.3639
+    ],
+    "burial_coords": [
+      22.5726,
+      88.3639
+    ],
+    "eponymous_terms": "Boson; Bose-Einstein condensate",
+    "fields": "Particle physics; Quantum mechanics",
+    "notes": "Bosons named after him."
+  },
+  {
+    "name": "Siméon Denis Poisson",
+    "birth_year": 1781,
+    "death_year": 1840,
+    "still_alive": false,
+    "category": "Equations",
+    "birthplace": "Pithiviers, France",
+    "burial": "Père Lachaise Cemetery (Division 19), Paris, France",
+    "birth_coords": [
+      48.1719,
+      2.2522
+    ],
+    "burial_coords": [
+      48.8566,
+      2.3522
+    ],
+    "eponymous_terms": "Poisson equation",
+    "fields": "Electrostatics",
+    "notes": "Elevated to Baron in 1821 but never used the title."
+  },
+  {
+    "name": "Sin-Itiro Tomonaga",
+    "birth_year": 1906,
+    "death_year": 1979,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Tokyo, Japan",
+    "burial": "Tama Cemetery (Tama Reien), Fuchu City, Tokyo, Japan",
+    "birth_coords": [
+      35.6762,
+      139.6503
+    ],
+    "burial_coords": [
+      35.6762,
+      139.6503
+    ],
+    "eponymous_terms": "Lamb-Retherford effect",
+    "fields": "Quantum electrodynamics",
+    "notes": "Nobel Prize winner. Grave near Yoshio Nishina, \"Father of Japanese Nuclear Physics.\""
+  },
+  {
+    "name": "Stephen Hawking",
+    "birth_year": 1942,
+    "death_year": 2018,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Oxford, England, United Kingdom",
+    "burial": "Westminster Abbey (ashes interred in Scientists' Corner), London, United Kingdom",
+    "birth_coords": [
+      51.752,
+      -1.2577
+    ],
+    "burial_coords": [
+      51.5074,
+      -0.1278
+    ],
+    "eponymous_terms": "Hawking radiation",
+    "fields": "Quantum gravity",
+    "notes": "Ashes placed between Newton and Darwin. Memorial stone bears his entropy equation."
+  },
+  {
+    "name": "Subrahmanyan Chandrasekhar",
+    "birth_year": 1910,
+    "death_year": 1995,
+    "still_alive": false,
+    "category": "Physical Constants",
+    "birthplace": "Lahore, British India (now Pakistan)",
+    "burial": "Cremated (location of ashes unknown)",
+    "birth_coords": [
+      31.5497,
+      74.3436
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Chandrasekhar limit (MCh)",
+    "fields": "Astrophysics",
+    "notes": "Nobel Prize 1983. Died in Chicago of heart attack."
+  },
+  {
+    "name": "Svante Arrhenius",
+    "birth_year": 1859,
+    "death_year": 1927,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "Vik (Wik Castle), near Uppsala, Sweden",
+    "burial": "Uppsala Old Cemetery (Uppsala Gamla kyrkogård), Uppsala, Sweden",
+    "birth_coords": [
+      59.8586,
+      17.6389
+    ],
+    "burial_coords": [
+      59.8586,
+      17.6389
+    ],
+    "eponymous_terms": "Arrhenius (â€”)",
+    "fields": "Chemical kinetics",
+    "notes": "Died in Stockholm but buried in Uppsala as he wished."
+  },
+  {
+    "name": "Theodore von Kármán",
+    "birth_year": 1881,
+    "death_year": 1963,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Budapest, Hungary",
+    "burial": "Hollywood Forever Cemetery (Beth Olam Mausoleum), Los Angeles, California, United States",
+    "birth_coords": [
+      47.4979,
+      19.0402
+    ],
+    "burial_coords": [
+      34.0522,
+      -118.2437
+    ],
+    "eponymous_terms": "Kármán vortex street",
+    "fields": "Fluid dynamics",
+    "notes": "Died in Aachen visiting friends; body flown to California. First National Medal of Science recipient."
+  },
+  {
+    "name": "Thomas Graham",
+    "birth_year": 1805,
+    "death_year": 1869,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Glasgow, Scotland, United Kingdom",
+    "burial": "Glasgow Cathedral burial ground, Glasgow, Scotland, United Kingdom",
+    "birth_coords": [
+      55.8642,
+      -4.2518
+    ],
+    "burial_coords": [
+      55.8642,
+      -4.2518
+    ],
+    "eponymous_terms": "Graham's law",
+    "fields": "Thermodynamics",
+    "notes": "\"Father of colloid chemistry.\" Body returned to Glasgow from London."
+  },
+  {
+    "name": "Thomas Seebeck",
+    "birth_year": 1770,
+    "death_year": 1831,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Reval (now Tallinn), Estonia",
+    "burial": "Location unknown (died in Berlin)",
+    "birth_coords": [
+      59.437,
+      24.7536
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Seebeck effect",
+    "fields": "Thermoelectricity",
+    "notes": ""
+  },
+  {
+    "name": "Thomas Young",
+    "birth_year": 1773,
+    "death_year": 1829,
+    "still_alive": false,
+    "category": "Equations",
+    "birthplace": "Milverton, Somerset, England, United Kingdom",
+    "burial": "St. Giles' Church Cemetery, Farnborough, Kent, England, United Kingdom",
+    "birth_coords": [
+      51.0333,
+      -3.25
+    ],
+    "burial_coords": [
+      51.2956,
+      0.0778
+    ],
+    "eponymous_terms": "Young-Laplace equation",
+    "fields": "Surface physics",
+    "notes": "Memorial tablet at Westminster Abbey, but body buried at Farnborough."
+  },
+  {
+    "name": "Walter Schottky",
+    "birth_year": 1886,
+    "death_year": 1976,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Zürich, Switzerland",
+    "burial": "Location not documented (died in Pretzfeld, Germany)",
+    "birth_coords": [
+      47.3769,
+      8.5417
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Schottky effect",
+    "fields": "Semiconductor physics",
+    "notes": ""
+  },
+  {
+    "name": "Walther Meissner",
+    "birth_year": 1882,
+    "death_year": 1974,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Berlin, Germany",
+    "burial": "Location unknown (died in Munich)",
+    "birth_coords": [
+      52.52,
+      13.405
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Meissner effect",
+    "fields": "Superconductivity",
+    "notes": "Spent final years alone with his dogs."
+  },
+  {
+    "name": "Walther Nernst",
+    "birth_year": 1864,
+    "death_year": 1941,
+    "still_alive": false,
+    "category": "Effects/Phenomena",
+    "birthplace": "Briesen, West Prussia (now Wąbrzeźno, Poland)",
+    "burial": "Stadtfriedhof Göttingen, Göttingen, Germany",
+    "birth_coords": [
+      53.2833,
+      18.95
+    ],
+    "burial_coords": [
+      51.5413,
+      9.9158
+    ],
+    "eponymous_terms": "Ettingshausen-Nernst effect; Nernst equation",
+    "fields": "Electrochemistry; Solid state physics",
+    "notes": "Buried near Planck, Hahn, and von Laue. Nobel Prize 1920 (Chemistry)."
+  },
+  {
+    "name": "Werner Heisenberg",
+    "birth_year": 1901,
+    "death_year": 1976,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Würzburg, Germany",
+    "burial": "Waldfriedhof München (Munich Forest Cemetery), Munich, Germany",
+    "birth_coords": [
+      49.7913,
+      9.9534
+    ],
+    "burial_coords": [
+      48.1351,
+      11.582
+    ],
+    "eponymous_terms": "Heisenberg uncertainty principle",
+    "fields": "Quantum mechanics",
+    "notes": "Died of kidney cancer."
+  },
+  {
+    "name": "Werner von Siemens",
+    "birth_year": 1816,
+    "death_year": 1892,
+    "still_alive": false,
+    "category": "SI Units",
+    "birthplace": "Lenthe (now part of Gehrden), Lower Saxony, Germany",
+    "burial": "Südwestkirchhof Stahnsdorf, Stahnsdorf, Brandenburg, Germany",
+    "birth_coords": [
+      52.3117,
+      9.6008
+    ],
+    "burial_coords": [
+      52.3833,
+      13.2167
+    ],
+    "eponymous_terms": "Siemens (S)",
+    "fields": "Electromagnetism",
+    "notes": "Raised to nobility in 1888 (adding \"von\" to his name). Died of pneumonia."
+  },
+  {
+    "name": "Wilhelm Eduard Weber",
+    "birth_year": 1804,
+    "death_year": 1891,
+    "still_alive": false,
+    "category": "SI Units",
+    "birthplace": "Wittenberg, Saxony-Anhalt, Germany",
+    "burial": "Stadtfriedhof Göttingen, Göttingen, Germany",
+    "birth_coords": [
+      51.8671,
+      12.6484
+    ],
+    "burial_coords": [
+      51.5413,
+      9.9158
+    ],
+    "eponymous_terms": "Weber (Wb)",
+    "fields": "Electromagnetism",
+    "notes": "One of the \"Göttingen Seven\" dismissed in 1837 for protesting constitutional changes."
+  },
+  {
+    "name": "Wilhelm Röntgen",
+    "birth_year": 1845,
+    "death_year": 1923,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "Lennep (now part of Remscheid), Germany",
+    "burial": "Alter Friedhof (Old Cemetery), Giessen, Germany",
+    "birth_coords": [
+      51.1787,
+      7.1896
+    ],
+    "burial_coords": [
+      50.584,
+      8.6784
+    ],
+    "eponymous_terms": "Röntgen (R)",
+    "fields": "Radiation physics",
+    "notes": "First Nobel Prize in Physics recipient (1901). Buried with parents per his wishes."
+  },
+  {
+    "name": "Wilhelm Wien",
+    "birth_year": 1864,
+    "death_year": 1928,
+    "still_alive": false,
+    "category": "Physical Constants",
+    "birthplace": "Gaffken, East Prussia (now Parusnoye, Kaliningrad Oblast, Russia)",
+    "burial": "Waldfriedhof München (Munich Forest Cemetery), Munich, Germany",
+    "birth_coords": [
+      54.7104,
+      20.4522
+    ],
+    "burial_coords": [
+      48.1351,
+      11.582
+    ],
+    "eponymous_terms": "Wien displacement constant (b); Wien's displacement law",
+    "fields": "Thermal radiation; Thermodynamics",
+    "notes": "Birthplace now in Russian territory."
+  },
+  {
+    "name": "Willebrord Snell",
+    "birth_year": 1580,
+    "death_year": 1626,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Leiden, Netherlands",
+    "burial": "Pieterskerk (St. Peter's Church), Leiden, Netherlands",
+    "birth_coords": [
+      52.1601,
+      4.497
+    ],
+    "burial_coords": [
+      52.1601,
+      4.497
+    ],
+    "eponymous_terms": "Snell's law",
+    "fields": "Optics",
+    "notes": "Twenty students carried his coffin."
+  },
+  {
+    "name": "William Gilbert",
+    "birth_year": 1544,
+    "death_year": 1603,
+    "still_alive": false,
+    "category": "Non-SI Units",
+    "birthplace": "Colchester, Essex, England, United Kingdom",
+    "burial": "Holy Trinity Church, Colchester, England, United Kingdom",
+    "birth_coords": [
+      51.8959,
+      0.8919
+    ],
+    "burial_coords": [
+      51.8959,
+      0.8919
+    ],
+    "eponymous_terms": "Gilbert (Gi)",
+    "fields": "Electromagnetism",
+    "notes": "Died of bubonic plague during 1603 epidemic. Personal physician to Queen Elizabeth I."
+  },
+  {
+    "name": "William Henry",
+    "birth_year": 1774,
+    "death_year": 1836,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Manchester, England, United Kingdom",
+    "burial": "Cross Street Unitarian Chapel burial ground, Manchester, United Kingdom",
+    "birth_coords": [
+      53.4808,
+      -2.2426
+    ],
+    "burial_coords": [
+      53.4808,
+      -2.2426
+    ],
+    "eponymous_terms": "Henry's law",
+    "fields": "Thermodynamics",
+    "notes": "Took his own life due to chronic ill health."
+  },
+  {
+    "name": "William Lawrence Bragg",
+    "birth_year": 1890,
+    "death_year": 1971,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "North Adelaide, South Australia, Australia",
+    "burial": "Trinity College Chapel, Cambridge, England, United Kingdom",
+    "birth_coords": [
+      -34.9072,
+      138.5952
+    ],
+    "burial_coords": [
+      52.2053,
+      0.1218
+    ],
+    "eponymous_terms": "Bragg's law",
+    "fields": "Crystallography",
+    "notes": "Youngest-ever Nobel laureate in physics (age 25, shared with his father)."
+  },
+  {
+    "name": "William Thomson, Lord Kelvin",
+    "birth_year": 1824,
+    "death_year": 1907,
+    "still_alive": false,
+    "category": "SI Units",
+    "birthplace": "Belfast, Northern Ireland, United Kingdom",
+    "burial": "Westminster Abbey (nave), London, England, United Kingdom",
+    "birth_coords": [
+      54.5973,
+      -5.9301
+    ],
+    "burial_coords": [
+      51.5074,
+      -0.1278
+    ],
+    "eponymous_terms": "Kelvin (K); Thomson effect; Joule-Thomson effect",
+    "fields": "Thermodynamics; Thermoelectricity",
+    "notes": "Interred near Isaac Newton's grave; a commemorative stained glass window was erected in 1913."
+  },
+  {
+    "name": "Wolfgang Pauli",
+    "birth_year": 1900,
+    "death_year": 1958,
+    "still_alive": false,
+    "category": "Laws of Physics",
+    "birthplace": "Vienna, Austria",
+    "burial": "Friedhof Zollikon Dorf, Zollikon, Switzerland",
+    "birth_coords": [
+      48.2082,
+      16.3738
+    ],
+    "burial_coords": [
+      47.3333,
+      8.5833
+    ],
+    "eponymous_terms": "Pauli exclusion principle",
+    "fields": "Quantum mechanics",
+    "notes": "Hospital room number was **137**, significant as the fine-structure constant approximates 1/137."
+  },
+  {
+    "name": "Yakir Aharonov",
+    "birth_year": 1932,
+    "death_year": null,
+    "still_alive": true,
+    "category": "Effects/Phenomena",
+    "birthplace": "Haifa, British Mandate of Palestine (now Israel)",
+    "burial": "Still Living",
+    "birth_coords": [
+      32.794,
+      34.9896
+    ],
+    "burial_coords": null,
+    "eponymous_terms": "Aharonov-Bohm effect",
+    "fields": "Quantum mechanics",
+    "notes": "Elected to Royal Society in June 2024. Professor at Chapman University."
+  }
+]
