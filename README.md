@@ -10,7 +10,7 @@ An interactive map visualizing the birthplaces and final resting places of 164 p
 
 From Newton's birthplace in rural Lincolnshire to Einstein's ashes scattered in the Delaware River, this project maps the geographic footprint of the scientists whose names became synonymous with the fundamental concepts of physics.
 
-**Live Demo:** [View the Map](https://yourusername.github.io/cartography-of-physics/)
+**Live Demo:** [View the Map](https://janalexanderzak.github.io/physicists-map)
 
 ## Features
 
