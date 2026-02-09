@@ -776,13 +776,146 @@
             border-radius: 3px;
         }
         
+        /* Mobile menu toggle button */
+        .mobile-menu-toggle {
+            display: none;
+            position: fixed;
+            top: 1rem;
+            left: 1rem;
+            z-index: 1001;
+            width: 44px;
+            height: 44px;
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            color: var(--text-primary);
+            cursor: pointer;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .mobile-menu-toggle svg {
+            width: 24px;
+            height: 24px;
+        }
+        
+        .mobile-menu-toggle.active {
+            background: var(--accent-gold);
+            color: var(--bg-primary);
+        }
+        
         @media (max-width: 768px) {
-            .header { padding: 1rem; }
-            .title-group h1 { font-size: 1.2rem; }
-            .control-panel { left: 1rem; width: 220px; padding: 1rem; }
-            .legend { right: 1rem; bottom: 160px; }
-            .timeline-panel { padding: 2rem 1rem 1rem; }
+            .header { 
+                padding: 0.75rem 1rem 2rem;
+                padding-left: 60px;
+            }
+            .header-content {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 0.25rem;
+            }
+            .title-group h1 { font-size: 1rem; letter-spacing: 0.1em; }
+            .title-group .subtitle { font-size: 0.8rem; }
+            .stats-display { 
+                text-align: left; 
+                font-size: 0.65rem;
+                display: none;
+            }
+            
+            /* Collapsible control panel */
+            .mobile-menu-toggle { display: flex; }
+            
+            .control-panel { 
+                left: 0;
+                top: 0;
+                width: 280px;
+                height: 100vh;
+                max-height: 100vh;
+                border-radius: 0;
+                border-left: none;
+                border-top: none;
+                border-bottom: none;
+                padding: 4.5rem 1rem 1rem;
+                transform: translateX(-100%);
+                transition: transform 0.3s ease;
+                overflow-y: auto;
+            }
+            
+            .control-panel.open {
+                transform: translateX(0);
+            }
+            
+            .control-section { margin-bottom: 1rem; }
+            .control-label { font-size: 0.6rem; margin-bottom: 0.5rem; }
+            .search-input { padding: 0.6rem 0.8rem 0.6rem 2rem; font-size: 0.9rem; }
+            .toggle-btn { padding: 0.5rem; font-size: 0.8rem; }
+            .category-name { font-size: 0.8rem; }
+            .category-count { font-size: 0.65rem; }
+            .paths-toggle-label { font-size: 0.8rem; }
+            
+            /* Compact legend */
+            .legend { 
+                right: 0.5rem; 
+                bottom: 140px;
+                padding: 0.6rem 0.8rem;
+            }
+            .legend-item { gap: 0.4rem; margin-bottom: 0.3rem; }
+            .legend-marker { width: 10px; height: 10px; }
+            .legend-marker.path { width: 16px; }
+            .legend-text { font-size: 0.7rem; }
+            
+            /* Compact timeline */
+            .timeline-panel { 
+                padding: 1.5rem 0.75rem 0.75rem;
+            }
+            .timeline-header {
+                flex-wrap: wrap;
+                gap: 0.5rem;
+            }
+            .timeline-controls { gap: 0.5rem; }
+            .timeline-btn { width: 32px; height: 32px; }
+            .timeline-btn svg { width: 14px; height: 14px; }
+            .current-year { font-size: 1.5rem; }
+            .year-range-text { font-size: 0.6rem; }
+            .timeline-info { display: none; }
             .timeline-mode-toggle { display: none; }
+            .timeline-ticks { font-size: 0.55rem; padding: 0 5px; }
+            .timeline-slider::-webkit-slider-thumb {
+                width: 24px;
+                height: 24px;
+            }
+            .timeline-slider::-moz-range-thumb {
+                width: 24px;
+                height: 24px;
+            }
+            
+            /* Tooltip adjustments */
+            .physicist-tooltip { max-width: 280px !important; }
+            .tooltip-content { padding: 0.75rem 1rem; }
+            .tooltip-name { font-size: 1rem; }
+            .tooltip-years { font-size: 0.65rem; }
+            .tooltip-category { font-size: 0.6rem; }
+            .tooltip-location { font-size: 0.85rem; margin-bottom: 0.5rem; }
+            .tooltip-terms { font-size: 0.8rem; }
+            .tooltip-fields { font-size: 0.65rem; }
+        }
+        
+        @media (max-width: 480px) {
+            .header { padding-left: 55px; }
+            .title-group h1 { font-size: 0.9rem; }
+            .title-group .subtitle { font-size: 0.7rem; }
+            
+            .control-panel { width: 100%; }
+            
+            .legend { 
+                bottom: 130px;
+                right: 0.25rem;
+                padding: 0.5rem 0.6rem;
+            }
+            
+            .timeline-panel { padding: 1rem 0.5rem 0.5rem; }
+            .current-year { font-size: 1.3rem; }
+            .timeline-ticks { display: none; }
         }
     </style>
 </head>
@@ -790,6 +923,16 @@
     <div class="loading-overlay" id="loading">
         <div class="loading-text">Mapping the Universe of Physics</div>
     </div>
+    
+    <!-- Mobile menu toggle -->
+    <button class="mobile-menu-toggle" id="mobile-menu-toggle" aria-label="Toggle menu">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" id="menu-icon">
+            <path d="M3 12h18M3 6h18M3 18h18"/>
+        </svg>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" id="close-icon" style="display: none;">
+            <path d="M18 6L6 18M6 6l12 12"/>
+        </svg>
+    </button>
     
     <header class="header">
         <div class="header-content">
@@ -1404,6 +1547,28 @@
             }
         }
         
+        function initMobileMenu() {
+            const toggle = document.getElementById('mobile-menu-toggle');
+            const controlPanel = document.querySelector('.control-panel');
+            const menuIcon = document.getElementById('menu-icon');
+            const closeIcon = document.getElementById('close-icon');
+            
+            toggle.addEventListener('click', () => {
+                const isOpen = controlPanel.classList.toggle('open');
+                toggle.classList.toggle('active', isOpen);
+                menuIcon.style.display = isOpen ? 'none' : 'block';
+                closeIcon.style.display = isOpen ? 'block' : 'none';
+            });
+            
+            // Close menu when clicking on the map
+            document.getElementById('map').addEventListener('click', () => {
+                controlPanel.classList.remove('open');
+                toggle.classList.remove('active');
+                menuIcon.style.display = 'block';
+                closeIcon.style.display = 'none';
+            });
+        }
+        
         function initSearch() {
             const input = document.getElementById('search-input');
             const results = document.getElementById('search-results');
@@ -1610,6 +1775,8 @@
                 console.log('Timeline initialized');
                 initSearch();
                 console.log('Search initialized');
+                initMobileMenu();
+                console.log('Mobile menu initialized');
                 updateMarkers();
                 console.log('Markers updated');
                 setTimeout(() => document.getElementById('loading').classList.add('hidden'), 500);
