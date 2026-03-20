@@ -14,7 +14,18 @@
     "burial_coords": null,
     "eponymous_terms": "Fick's law",
     "fields": "Thermodynamics",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q76691",
+      "birth_year": "https://www.wikidata.org/wiki/Q76691",
+      "death_year": "https://www.wikidata.org/wiki/Q76691",
+      "birthplace": "https://www.wikidata.org/wiki/Q76691",
+      "birth_coords": "https://www.wikidata.org/wiki/Q76691",
+      "burial": "https://www.wikidata.org/wiki/Q76691",
+      "burial_coords": "https://www.wikidata.org/wiki/Q76691",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Adolf_Eugen_Fick",
+      "fields": "https://en.wikipedia.org/wiki/Adolf_Eugen_Fick"
+    }
   },
   {
     "name": "Albert Einstein",
@@ -34,7 +45,18 @@
     ],
     "eponymous_terms": "Einstein (E); General relativity; Special relativity; Photoelectric effect; Bose-Einstein condensate; Einstein solid",
     "fields": "Gravitation; Photochemistry; Quantum mechanics; Relativity; Solid state physics",
-    "notes": "Cremated same day he died to prevent grave becoming pilgrimage site. Brain removed during autopsy; portions now at Mütter Museum, Philadelphia."
+    "notes": "Cremated same day he died to prevent grave becoming pilgrimage site. Brain removed during autopsy; portions now at Mütter Museum, Philadelphia.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q937",
+      "birth_year": "https://www.wikidata.org/wiki/Q937",
+      "death_year": "https://www.wikidata.org/wiki/Q937",
+      "birthplace": "https://www.wikidata.org/wiki/Q937",
+      "birth_coords": "https://www.wikidata.org/wiki/Q937",
+      "burial": "https://www.wikidata.org/wiki/Q937",
+      "burial_coords": "https://www.wikidata.org/wiki/Q937",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Albert_Einstein",
+      "fields": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    }
   },
   {
     "name": "Albert von Ettingshausen",
@@ -51,7 +73,18 @@
     "burial_coords": null,
     "eponymous_terms": "Ettingshausen-Nernst effect",
     "fields": "Solid state physics",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q90308",
+      "birth_year": "https://www.wikidata.org/wiki/Q90308",
+      "death_year": "https://www.wikidata.org/wiki/Q90308",
+      "birthplace": "https://www.wikidata.org/wiki/Q90308",
+      "birth_coords": "https://www.wikidata.org/wiki/Q90308",
+      "burial": "https://www.wikidata.org/wiki/Q90308",
+      "burial_coords": "https://www.wikidata.org/wiki/Q90308",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Albert_von_Ettingshausen",
+      "fields": "https://en.wikipedia.org/wiki/Albert_von_Ettingshausen"
+    }
   },
   {
     "name": "Aleksandr Stoletov",
@@ -71,7 +104,18 @@
     ],
     "eponymous_terms": "Stoletov's effect",
     "fields": "Electromagnetism",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q983607",
+      "birth_year": "https://www.wikidata.org/wiki/Q983607",
+      "death_year": "https://www.wikidata.org/wiki/Q983607",
+      "birthplace": "https://www.wikidata.org/wiki/Q983607",
+      "birth_coords": "https://www.wikidata.org/wiki/Q983607",
+      "burial": "https://www.wikidata.org/wiki/Q983607",
+      "burial_coords": "https://www.wikidata.org/wiki/Q983607",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Aleksandr_Stoletov",
+      "fields": "https://en.wikipedia.org/wiki/Aleksandr_Stoletov"
+    }
   },
   {
     "name": "Alessandro Volta",
@@ -91,7 +135,18 @@
     ],
     "eponymous_terms": "Volt (V)",
     "fields": "Electromagnetism",
-    "notes": "The village was renamed \"Camnago Volta\" in his honor. Neoclassical mausoleum completed in 1831."
+    "notes": "The village was renamed \"Camnago Volta\" in his honor. Neoclassical mausoleum completed in 1831.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q680",
+      "birth_year": "https://www.wikidata.org/wiki/Q680",
+      "death_year": "https://www.wikidata.org/wiki/Q680",
+      "birthplace": "https://www.wikidata.org/wiki/Q680",
+      "birth_coords": "https://www.wikidata.org/wiki/Q680",
+      "burial": "https://www.wikidata.org/wiki/Q680",
+      "burial_coords": "https://www.wikidata.org/wiki/Q680",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Alessandro_Volta",
+      "fields": "https://en.wikipedia.org/wiki/Alessandro_Volta"
+    }
   },
   {
     "name": "Alexander Graham Bell",
@@ -111,7 +166,18 @@
     ],
     "eponymous_terms": "Bel/Decibel (B/dB)",
     "fields": "Acoustics",
-    "notes": "Private grave on mountain peak overlooking Bras d'Or Lake. Not open to public."
+    "notes": "Private grave on mountain peak overlooking Bras d'Or Lake. Not open to public.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q34286",
+      "birth_year": "https://www.wikidata.org/wiki/Q34286",
+      "death_year": "https://www.wikidata.org/wiki/Q34286",
+      "birthplace": "https://www.wikidata.org/wiki/Q34286",
+      "birth_coords": "https://www.wikidata.org/wiki/Q34286",
+      "burial": "https://www.wikidata.org/wiki/Q34286",
+      "burial_coords": "https://www.wikidata.org/wiki/Q34286",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell",
+      "fields": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell"
+    }
   },
   {
     "name": "Amedeo Avogadro",
@@ -131,7 +197,18 @@
     ],
     "eponymous_terms": "Avogadro constant (NA); Avogadro's law",
     "fields": "Chemistry; Thermodynamics",
-    "notes": "Full name: Lorenzo Romano Amedeo Carlo Avogadro, Conte di Quaregna e di Cerreto."
+    "notes": "Full name: Lorenzo Romano Amedeo Carlo Avogadro, Conte di Quaregna e di Cerreto.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q43476",
+      "birth_year": "https://www.wikidata.org/wiki/Q43476",
+      "death_year": "https://www.wikidata.org/wiki/Q43476",
+      "birthplace": "https://www.wikidata.org/wiki/Q43476",
+      "birth_coords": "https://www.wikidata.org/wiki/Q43476",
+      "burial": "https://www.wikidata.org/wiki/Q43476",
+      "burial_coords": "https://www.wikidata.org/wiki/Q43476",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Amedeo_Avogadro",
+      "fields": "https://en.wikipedia.org/wiki/Amedeo_Avogadro"
+    }
   },
   {
     "name": "Anatoly Vlasov",
@@ -151,7 +228,18 @@
     ],
     "eponymous_terms": "Vlasov equation",
     "fields": "Plasma physics",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q487602",
+      "birth_year": "https://www.wikidata.org/wiki/Q487602",
+      "death_year": "https://www.wikidata.org/wiki/Q487602",
+      "birthplace": "https://www.wikidata.org/wiki/Q487602",
+      "birth_coords": "https://www.wikidata.org/wiki/Q487602",
+      "burial": "https://www.wikidata.org/wiki/Q487602",
+      "burial_coords": "https://www.wikidata.org/wiki/Q487602",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Anatoly_Vlasov",
+      "fields": "https://en.wikipedia.org/wiki/Anatoly_Vlasov"
+    }
   },
   {
     "name": "Anders Celsius",
@@ -171,7 +259,18 @@
     ],
     "eponymous_terms": "Degree Celsius (Â°C)",
     "fields": "Thermodynamics",
-    "notes": "Buried beneath the church floor near ancient royal mounds. Died of tuberculosis at age 42."
+    "notes": "Buried beneath the church floor near ancient royal mounds. Died of tuberculosis at age 42.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q81130",
+      "birth_year": "https://www.wikidata.org/wiki/Q81130",
+      "death_year": "https://www.wikidata.org/wiki/Q81130",
+      "birthplace": "https://www.wikidata.org/wiki/Q81130",
+      "birth_coords": "https://www.wikidata.org/wiki/Q81130",
+      "burial": "https://www.wikidata.org/wiki/Q81130",
+      "burial_coords": "https://www.wikidata.org/wiki/Q81130",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Anders_Celsius",
+      "fields": "https://en.wikipedia.org/wiki/Anders_Celsius"
+    }
   },
   {
     "name": "Anders Jonas Ångström",
@@ -191,7 +290,18 @@
     ],
     "eponymous_terms": "Ångström (Å)",
     "fields": "Spectroscopy",
-    "notes": "Black polished granite tomb erected in 1883."
+    "notes": "Black polished granite tomb erected in 1883.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q187258",
+      "birth_year": "https://www.wikidata.org/wiki/Q187258",
+      "death_year": "https://www.wikidata.org/wiki/Q187258",
+      "birthplace": "https://www.wikidata.org/wiki/Q187258",
+      "birth_coords": "https://www.wikidata.org/wiki/Q187258",
+      "burial": "https://www.wikidata.org/wiki/Q187258",
+      "burial_coords": "https://www.wikidata.org/wiki/Q187258",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Anders_Jonas_Ångström",
+      "fields": "https://en.wikipedia.org/wiki/Anders_Jonas_Ångström"
+    }
   },
   {
     "name": "André-Marie Ampère",
@@ -211,7 +321,18 @@
     ],
     "eponymous_terms": "Ampere (A); Ampère's circuital law",
     "fields": "Electromagnetism",
-    "notes": "Initially buried in Marseille; remains later transferred to Paris alongside his son Jean-Jacques Ampère."
+    "notes": "Initially buried in Marseille; remains later transferred to Paris alongside his son Jean-Jacques Ampère.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q675",
+      "birth_year": "https://www.wikidata.org/wiki/Q675",
+      "death_year": "https://www.wikidata.org/wiki/Q675",
+      "birthplace": "https://www.wikidata.org/wiki/Q675",
+      "birth_coords": "https://www.wikidata.org/wiki/Q675",
+      "burial": "https://www.wikidata.org/wiki/Q675",
+      "burial_coords": "https://www.wikidata.org/wiki/Q675",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/André-Marie_Ampère",
+      "fields": "https://en.wikipedia.org/wiki/André-Marie_Ampère"
+    }
   },
   {
     "name": "Antoine Baumé",
@@ -228,7 +349,18 @@
     "burial_coords": null,
     "eponymous_terms": "Degree Baumé (°Bé)",
     "fields": "Chemistry",
-    "notes": "Invented the Baumé scale hydrometer. Lost fortune during French Revolution."
+    "notes": "Invented the Baumé scale hydrometer. Lost fortune during French Revolution.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q503022",
+      "birth_year": "https://www.wikidata.org/wiki/Q503022",
+      "death_year": "https://www.wikidata.org/wiki/Q503022",
+      "birthplace": "https://www.wikidata.org/wiki/Q503022",
+      "birth_coords": "https://www.wikidata.org/wiki/Q503022",
+      "burial": "https://www.wikidata.org/wiki/Q503022",
+      "burial_coords": "https://www.wikidata.org/wiki/Q503022",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Antoine_Baumé",
+      "fields": "https://en.wikipedia.org/wiki/Antoine_Baumé"
+    }
   },
   {
     "name": "Archimedes",
@@ -245,7 +377,18 @@
     "burial_coords": null,
     "eponymous_terms": "Archimedes' principle",
     "fields": "Fluid statics",
-    "notes": "Killed by Roman soldier during siege of Syracuse. Cicero found the overgrown tomb in 75 BC, but it has been lost since antiquity."
+    "notes": "Killed by Roman soldier during siege of Syracuse. Cicero found the overgrown tomb in 75 BC, but it has been lost since antiquity.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q776475",
+      "birth_year": "https://www.wikidata.org/wiki/Q776475",
+      "death_year": "https://www.wikidata.org/wiki/Q776475",
+      "birthplace": "https://www.wikidata.org/wiki/Q776475",
+      "birth_coords": "https://www.wikidata.org/wiki/Q776475",
+      "burial": "https://www.wikidata.org/wiki/Q776475",
+      "burial_coords": "https://www.wikidata.org/wiki/Q776475",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Archimedes_(bryozoan)",
+      "fields": "https://en.wikipedia.org/wiki/Archimedes_(bryozoan)"
+    }
   },
   {
     "name": "Arnold Sommerfeld",
@@ -265,7 +408,18 @@
     ],
     "eponymous_terms": "Fine-structure constant (Î±)",
     "fields": "Quantum electrodynamics",
-    "notes": "Killed in traffic accident while walking with grandchildren; struck by truck he didn't hear due to near-deafness."
+    "notes": "Killed in traffic accident while walking with grandchildren; struck by truck he didn't hear due to near-deafness.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q77078",
+      "birth_year": "https://www.wikidata.org/wiki/Q77078",
+      "death_year": "https://www.wikidata.org/wiki/Q77078",
+      "birthplace": "https://www.wikidata.org/wiki/Q77078",
+      "birth_coords": "https://www.wikidata.org/wiki/Q77078",
+      "burial": "https://www.wikidata.org/wiki/Q77078",
+      "burial_coords": "https://www.wikidata.org/wiki/Q77078",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Arnold_Sommerfeld",
+      "fields": "https://en.wikipedia.org/wiki/Arnold_Sommerfeld"
+    }
   },
   {
     "name": "Arthur Compton",
@@ -285,7 +439,18 @@
     ],
     "eponymous_terms": "Compton wavelength (Î»C); Compton scattering",
     "fields": "Quantum mechanics",
-    "notes": "Though he died in Berkeley, California, he was returned to his hometown."
+    "notes": "Though he died in Berkeley, California, he was returned to his hometown.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q127944",
+      "birth_year": "https://www.wikidata.org/wiki/Q127944",
+      "death_year": "https://www.wikidata.org/wiki/Q127944",
+      "birthplace": "https://www.wikidata.org/wiki/Q127944",
+      "birth_coords": "https://www.wikidata.org/wiki/Q127944",
+      "burial": "https://www.wikidata.org/wiki/Q127944",
+      "burial_coords": "https://www.wikidata.org/wiki/Q127944",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Arthur_Compton",
+      "fields": "https://en.wikipedia.org/wiki/Arthur_Compton"
+    }
   },
   {
     "name": "August Beer",
@@ -305,7 +470,18 @@
     ],
     "eponymous_terms": "Beer-Lambert law",
     "fields": "Optics",
-    "notes": "Died at age 38."
+    "notes": "Died at age 38.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q62990",
+      "birth_year": "https://www.wikidata.org/wiki/Q62990",
+      "death_year": "https://www.wikidata.org/wiki/Q62990",
+      "birthplace": "https://www.wikidata.org/wiki/Q62990",
+      "birth_coords": "https://www.wikidata.org/wiki/Q62990",
+      "burial": "https://www.wikidata.org/wiki/Q62990",
+      "burial_coords": "https://www.wikidata.org/wiki/Q62990",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/August_Beer",
+      "fields": "https://en.wikipedia.org/wiki/August_Beer"
+    }
   },
   {
     "name": "Augustin Fresnel",
@@ -325,7 +501,18 @@
     ],
     "eponymous_terms": "Huygens-Fresnel principle",
     "fields": "Optics",
-    "notes": "Died of tuberculosis at age 39."
+    "notes": "Died of tuberculosis at age 39.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q187241",
+      "birth_year": "https://www.wikidata.org/wiki/Q187241",
+      "death_year": "https://www.wikidata.org/wiki/Q187241",
+      "birthplace": "https://www.wikidata.org/wiki/Q187241",
+      "birth_coords": "https://www.wikidata.org/wiki/Q187241",
+      "burial": "https://www.wikidata.org/wiki/Q187241",
+      "burial_coords": "https://www.wikidata.org/wiki/Q187241",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel",
+      "fields": "https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel"
+    }
   },
   {
     "name": "Blaise Pascal",
@@ -345,7 +532,18 @@
     ],
     "eponymous_terms": "Pascal (Pa); Pascal's law",
     "fields": "Fluid mechanics",
-    "notes": "Grave suffered some desecration during the French Revolution in 1793."
+    "notes": "Grave suffered some desecration during the French Revolution in 1793.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q1290",
+      "birth_year": "https://www.wikidata.org/wiki/Q1290",
+      "death_year": "https://www.wikidata.org/wiki/Q1290",
+      "birthplace": "https://www.wikidata.org/wiki/Q1290",
+      "birth_coords": "https://www.wikidata.org/wiki/Q1290",
+      "burial": "https://www.wikidata.org/wiki/Q1290",
+      "burial_coords": "https://www.wikidata.org/wiki/Q1290",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Blaise_Pascal",
+      "fields": "https://en.wikipedia.org/wiki/Blaise_Pascal"
+    }
   },
   {
     "name": "Brian Josephson",
@@ -359,7 +557,18 @@
     "burial_coords": null,
     "eponymous_terms": "Josephson constant (KJ); Josephson effect",
     "fields": "Superconductivity",
-    "notes": "Nobel Prize 1973. Emeritus Professor at Cambridge; directs Mind-Matter Unification Project."
+    "notes": "Nobel Prize 1973. Emeritus Professor at Cambridge; directs Mind-Matter Unification Project.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q135291253",
+      "birth_year": "https://www.wikidata.org/wiki/Q135291253",
+      "death_year": "https://www.wikidata.org/wiki/Q135291253",
+      "birthplace": "https://www.wikidata.org/wiki/Q135291253",
+      "birth_coords": "https://www.wikidata.org/wiki/Q135291253",
+      "burial": "https://www.wikidata.org/wiki/Q135291253",
+      "burial_coords": "https://www.wikidata.org/wiki/Q135291253",
+      "eponymous_terms": "https://www.wikidata.org/wiki/Q135291253",
+      "fields": "https://www.wikidata.org/wiki/Q135291253"
+    }
   },
   {
     "name": "C.V. Raman",
@@ -379,7 +588,18 @@
     ],
     "eponymous_terms": "Raman scattering",
     "fields": "Spectroscopy",
-    "notes": "First Asian Nobel laureate in Physics (1930). Requested \"simple cremation, no mumbo-jumbo.\""
+    "notes": "First Asian Nobel laureate in Physics (1930). Requested \"simple cremation, no mumbo-jumbo.\"",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q117036301",
+      "birth_year": "https://www.wikidata.org/wiki/Q117036301",
+      "death_year": "https://www.wikidata.org/wiki/Q117036301",
+      "birthplace": "https://www.wikidata.org/wiki/Q117036301",
+      "birth_coords": "https://www.wikidata.org/wiki/Q117036301",
+      "burial": "https://www.wikidata.org/wiki/Q117036301",
+      "burial_coords": "https://www.wikidata.org/wiki/Q117036301",
+      "eponymous_terms": "https://www.wikidata.org/wiki/Q117036301",
+      "fields": "https://www.wikidata.org/wiki/Q117036301"
+    }
   },
   {
     "name": "Carl Friedrich Gauss",
@@ -399,7 +619,18 @@
     ],
     "eponymous_terms": "Gauss (G); Gauss's law; Gauss's law for magnetism",
     "fields": "Electromagnetism; Magnetism",
-    "notes": "Cemetery now part of Cheltenhampark. Grave frequently visited."
+    "notes": "Cemetery now part of Cheltenhampark. Grave frequently visited.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q6722",
+      "birth_year": "https://www.wikidata.org/wiki/Q6722",
+      "death_year": "https://www.wikidata.org/wiki/Q6722",
+      "birthplace": "https://www.wikidata.org/wiki/Q6722",
+      "birth_coords": "https://www.wikidata.org/wiki/Q6722",
+      "burial": "https://www.wikidata.org/wiki/Q6722",
+      "burial_coords": "https://www.wikidata.org/wiki/Q6722",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss",
+      "fields": "https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss"
+    }
   },
   {
     "name": "Carlo Marangoni",
@@ -416,7 +647,18 @@
     "burial_coords": null,
     "eponymous_terms": "BÃ©nard-Marangoni convection",
     "fields": "Fluid dynamics",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q124714096",
+      "birth_year": "https://www.wikidata.org/wiki/Q124714096",
+      "death_year": "https://www.wikidata.org/wiki/Q124714096",
+      "birthplace": "https://www.wikidata.org/wiki/Q124714096",
+      "birth_coords": "https://www.wikidata.org/wiki/Q124714096",
+      "burial": "https://www.wikidata.org/wiki/Q124714096",
+      "burial_coords": "https://www.wikidata.org/wiki/Q124714096",
+      "eponymous_terms": "https://www.wikidata.org/wiki/Q124714096",
+      "fields": "https://www.wikidata.org/wiki/Q124714096"
+    }
   },
   {
     "name": "Charles-Augustin de Coulomb",
@@ -436,7 +678,18 @@
     ],
     "eponymous_terms": "Coulomb (C); Coulomb constant (ke); Coulomb's law",
     "fields": "Electromagnetism; Electrostatics",
-    "notes": "His name is inscribed on the Eiffel Tower."
+    "notes": "His name is inscribed on the Eiffel Tower.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q81716",
+      "birth_year": "https://www.wikidata.org/wiki/Q81716",
+      "death_year": "https://www.wikidata.org/wiki/Q81716",
+      "birthplace": "https://www.wikidata.org/wiki/Q81716",
+      "birth_coords": "https://www.wikidata.org/wiki/Q81716",
+      "burial": "https://www.wikidata.org/wiki/Q81716",
+      "burial_coords": "https://www.wikidata.org/wiki/Q81716",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Charles-Augustin_de_Coulomb",
+      "fields": "https://en.wikipedia.org/wiki/Charles-Augustin_de_Coulomb"
+    }
   },
   {
     "name": "Christiaan Huygens",
@@ -456,7 +709,18 @@
     ],
     "eponymous_terms": "Huygens-Fresnel principle",
     "fields": "Optics",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q39599",
+      "birth_year": "https://www.wikidata.org/wiki/Q39599",
+      "death_year": "https://www.wikidata.org/wiki/Q39599",
+      "birthplace": "https://www.wikidata.org/wiki/Q39599",
+      "birth_coords": "https://www.wikidata.org/wiki/Q39599",
+      "burial": "https://www.wikidata.org/wiki/Q39599",
+      "burial_coords": "https://www.wikidata.org/wiki/Q39599",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Christiaan_Huygens",
+      "fields": "https://en.wikipedia.org/wiki/Christiaan_Huygens"
+    }
   },
   {
     "name": "Christian Doppler",
@@ -476,7 +740,18 @@
     ],
     "eponymous_terms": "Doppler effect",
     "fields": "Wave physics",
-    "notes": "Died of tuberculosis. Venice was part of Austrian Empire at the time."
+    "notes": "Died of tuberculosis. Venice was part of Austrian Empire at the time.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q84284",
+      "birth_year": "https://www.wikidata.org/wiki/Q84284",
+      "death_year": "https://www.wikidata.org/wiki/Q84284",
+      "birthplace": "https://www.wikidata.org/wiki/Q84284",
+      "birth_coords": "https://www.wikidata.org/wiki/Q84284",
+      "burial": "https://www.wikidata.org/wiki/Q84284",
+      "burial_coords": "https://www.wikidata.org/wiki/Q84284",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Christian_Doppler",
+      "fields": "https://en.wikipedia.org/wiki/Christian_Doppler"
+    }
   },
   {
     "name": "Clarence Zener",
@@ -493,7 +768,18 @@
     "burial_coords": null,
     "eponymous_terms": "Zener effect",
     "fields": "Semiconductor physics",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q247486",
+      "birth_year": "https://www.wikidata.org/wiki/Q247486",
+      "death_year": "https://www.wikidata.org/wiki/Q247486",
+      "birthplace": "https://www.wikidata.org/wiki/Q247486",
+      "birth_coords": "https://www.wikidata.org/wiki/Q247486",
+      "burial": "https://www.wikidata.org/wiki/Q247486",
+      "burial_coords": "https://www.wikidata.org/wiki/Q247486",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Clarence_Zener",
+      "fields": "https://en.wikipedia.org/wiki/Clarence_Zener"
+    }
   },
   {
     "name": "Claude-Louis Navier",
@@ -513,7 +799,18 @@
     ],
     "eponymous_terms": "Navier-Stokes equations",
     "fields": "Fluid dynamics",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q313512",
+      "birth_year": "https://www.wikidata.org/wiki/Q313512",
+      "death_year": "https://www.wikidata.org/wiki/Q313512",
+      "birthplace": "https://www.wikidata.org/wiki/Q313512",
+      "birth_coords": "https://www.wikidata.org/wiki/Q313512",
+      "burial": "https://www.wikidata.org/wiki/Q313512",
+      "burial_coords": "https://www.wikidata.org/wiki/Q313512",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Claude-Louis_Navier",
+      "fields": "https://en.wikipedia.org/wiki/Claude-Louis_Navier"
+    }
   },
   {
     "name": "Daniel Bernoulli",
@@ -533,7 +830,18 @@
     ],
     "eponymous_terms": "Bernoulli's principle; Bernoulli effect",
     "fields": "Fluid dynamics; Fluid mechanics",
-    "notes": "Family moved to Basel when he was 5 years old."
+    "notes": "Family moved to Basel when he was 5 years old.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q122366",
+      "birth_year": "https://www.wikidata.org/wiki/Q122366",
+      "death_year": "https://www.wikidata.org/wiki/Q122366",
+      "birthplace": "https://www.wikidata.org/wiki/Q122366",
+      "birth_coords": "https://www.wikidata.org/wiki/Q122366",
+      "burial": "https://www.wikidata.org/wiki/Q122366",
+      "burial_coords": "https://www.wikidata.org/wiki/Q122366",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Daniel_Bernoulli",
+      "fields": "https://en.wikipedia.org/wiki/Daniel_Bernoulli"
+    }
   },
   {
     "name": "David Bohm",
@@ -547,7 +855,18 @@
     "burial_coords": null,
     "eponymous_terms": "Aharonov-Bohm effect",
     "fields": "Quantum mechanics",
-    "notes": "Died in London of heart failure."
+    "notes": "Died in London of heart failure.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q310765",
+      "birth_year": "https://www.wikidata.org/wiki/Q310765",
+      "death_year": "https://www.wikidata.org/wiki/Q310765",
+      "birthplace": "https://www.wikidata.org/wiki/Q310765",
+      "birth_coords": "https://www.wikidata.org/wiki/Q310765",
+      "burial": "https://www.wikidata.org/wiki/Q310765",
+      "burial_coords": "https://www.wikidata.org/wiki/Q310765",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/David_Bohm",
+      "fields": "https://en.wikipedia.org/wiki/David_Bohm"
+    }
   },
   {
     "name": "David Brewster",
@@ -567,7 +886,18 @@
     ],
     "eponymous_terms": "Brewster's law",
     "fields": "Optics",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q15442692",
+      "birth_year": "https://www.wikidata.org/wiki/Q15442692",
+      "death_year": "https://www.wikidata.org/wiki/Q15442692",
+      "birthplace": "https://www.wikidata.org/wiki/Q15442692",
+      "birth_coords": "https://www.wikidata.org/wiki/Q15442692",
+      "burial": "https://www.wikidata.org/wiki/Q15442692",
+      "burial_coords": "https://www.wikidata.org/wiki/Q15442692",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/David_Brewster_(journalist)",
+      "fields": "https://en.wikipedia.org/wiki/David_Brewster_(journalist)"
+    }
   },
   {
     "name": "Edwin Hall",
@@ -587,7 +917,18 @@
     ],
     "eponymous_terms": "Hall effect",
     "fields": "Solid state physics",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q535860",
+      "birth_year": "https://www.wikidata.org/wiki/Q535860",
+      "death_year": "https://www.wikidata.org/wiki/Q535860",
+      "birthplace": "https://www.wikidata.org/wiki/Q535860",
+      "birth_coords": "https://www.wikidata.org/wiki/Q535860",
+      "burial": "https://www.wikidata.org/wiki/Q535860",
+      "burial_coords": "https://www.wikidata.org/wiki/Q535860",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Edwin_Hall",
+      "fields": "https://en.wikipedia.org/wiki/Edwin_Hall"
+    }
   },
   {
     "name": "Edwin Hubble",
@@ -604,7 +945,18 @@
     "burial_coords": null,
     "eponymous_terms": "Hubble constant (Hâ‚€)",
     "fields": "Cosmology",
-    "notes": "His wife Grace never revealed where his remains were buried or scattered. No funeral was held."
+    "notes": "His wife Grace never revealed where his remains were buried or scattered. No funeral was held.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q43027",
+      "birth_year": "https://www.wikidata.org/wiki/Q43027",
+      "death_year": "https://www.wikidata.org/wiki/Q43027",
+      "birthplace": "https://www.wikidata.org/wiki/Q43027",
+      "birth_coords": "https://www.wikidata.org/wiki/Q43027",
+      "burial": "https://www.wikidata.org/wiki/Q43027",
+      "burial_coords": "https://www.wikidata.org/wiki/Q43027",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Edwin_Hubble",
+      "fields": "https://en.wikipedia.org/wiki/Edwin_Hubble"
+    }
   },
   {
     "name": "Emmy Noether",
@@ -624,7 +976,18 @@
     ],
     "eponymous_terms": "Noether's theorem",
     "fields": "Theoretical physics",
-    "notes": "Cremated; urn buried under inconspicuous cement slab marked only \"E.N.\""
+    "notes": "Cremated; urn buried under inconspicuous cement slab marked only \"E.N.\"",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q7099",
+      "birth_year": "https://www.wikidata.org/wiki/Q7099",
+      "death_year": "https://www.wikidata.org/wiki/Q7099",
+      "birthplace": "https://www.wikidata.org/wiki/Q7099",
+      "birth_coords": "https://www.wikidata.org/wiki/Q7099",
+      "burial": "https://www.wikidata.org/wiki/Q7099",
+      "burial_coords": "https://www.wikidata.org/wiki/Q7099",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Emmy_Noether",
+      "fields": "https://en.wikipedia.org/wiki/Emmy_Noether"
+    }
   },
   {
     "name": "Enrico Fermi",
@@ -644,7 +1007,18 @@
     ],
     "eponymous_terms": "Fermi (fm); Fermion; Fermi gas; Fermi surface; Fermi energy",
     "fields": "Condensed matter; Nuclear physics; Particle physics; Solid state physics; Statistical mechanics",
-    "notes": "Died of stomach cancer. Remains in Chicago despite efforts to transfer to Florence."
+    "notes": "Died of stomach cancer. Remains in Chicago despite efforts to transfer to Florence.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q8753",
+      "birth_year": "https://www.wikidata.org/wiki/Q8753",
+      "death_year": "https://www.wikidata.org/wiki/Q8753",
+      "birthplace": "https://www.wikidata.org/wiki/Q8753",
+      "birth_coords": "https://www.wikidata.org/wiki/Q8753",
+      "burial": "https://www.wikidata.org/wiki/Q8753",
+      "burial_coords": "https://www.wikidata.org/wiki/Q8753",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Enrico_Fermi",
+      "fields": "https://en.wikipedia.org/wiki/Enrico_Fermi"
+    }
   },
   {
     "name": "Ernest Rutherford",
@@ -664,7 +1038,18 @@
     ],
     "eponymous_terms": "Rutherford (Rd); Rutherford scattering",
     "fields": "Nuclear physics",
-    "notes": "Ashes buried near Newton and Kelvin. \"Father of nuclear physics.\""
+    "notes": "Ashes buried near Newton and Kelvin. \"Father of nuclear physics.\"",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q9123",
+      "birth_year": "https://www.wikidata.org/wiki/Q9123",
+      "death_year": "https://www.wikidata.org/wiki/Q9123",
+      "birthplace": "https://www.wikidata.org/wiki/Q9123",
+      "birth_coords": "https://www.wikidata.org/wiki/Q9123",
+      "burial": "https://www.wikidata.org/wiki/Q9123",
+      "burial_coords": "https://www.wikidata.org/wiki/Q9123",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Ernest_Rutherford",
+      "fields": "https://en.wikipedia.org/wiki/Ernest_Rutherford"
+    }
   },
   {
     "name": "Erwin Schrödinger",
@@ -684,7 +1069,18 @@
     ],
     "eponymous_terms": "Schrödinger equation",
     "fields": "Quantum mechanics",
-    "notes": "Though not Catholic, buried in Catholic cemetery as a member of Pontifical Academy of Sciences. Gravestone bears his wave equation."
+    "notes": "Though not Catholic, buried in Catholic cemetery as a member of Pontifical Academy of Sciences. Gravestone bears his wave equation.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q9130",
+      "birth_year": "https://www.wikidata.org/wiki/Q9130",
+      "death_year": "https://www.wikidata.org/wiki/Q9130",
+      "birthplace": "https://www.wikidata.org/wiki/Q9130",
+      "birth_coords": "https://www.wikidata.org/wiki/Q9130",
+      "burial": "https://www.wikidata.org/wiki/Q9130",
+      "burial_coords": "https://www.wikidata.org/wiki/Q9130",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Erwin_Schrödinger",
+      "fields": "https://en.wikipedia.org/wiki/Erwin_Schrödinger"
+    }
   },
   {
     "name": "Ettore Majorana",
@@ -701,7 +1097,18 @@
     "burial_coords": null,
     "eponymous_terms": "Majorana fermion",
     "fields": "Particle physics",
-    "notes": "Vanished March 25, 1938 after boarding ship from Palermo to Naples. One of physics' greatest mysteries. Italian court declared presumed death in January 2025. Investigators believe he may have lived in Venezuela under alias \"Bini\" from 1955-1959."
+    "notes": "Vanished March 25, 1938 after boarding ship from Palermo to Naples. One of physics' greatest mysteries. Italian court declared presumed death in January 2025. Investigators believe he may have lived in Venezuela under alias \"Bini\" from 1955-1959.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q367196",
+      "birth_year": "https://www.wikidata.org/wiki/Q367196",
+      "death_year": "https://www.wikidata.org/wiki/Q367196",
+      "birthplace": "https://www.wikidata.org/wiki/Q367196",
+      "birth_coords": "https://www.wikidata.org/wiki/Q367196",
+      "burial": "https://www.wikidata.org/wiki/Q367196",
+      "burial_coords": "https://www.wikidata.org/wiki/Q367196",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Ettore_Majorana",
+      "fields": "https://en.wikipedia.org/wiki/Ettore_Majorana"
+    }
   },
   {
     "name": "Evangelista Torricelli",
@@ -721,7 +1128,18 @@
     ],
     "eponymous_terms": "Torr (Torr); Torricelli's law",
     "fields": "Fluid dynamics; Fluid mechanics",
-    "notes": "Died of typhoid fever at age 39."
+    "notes": "Died of typhoid fever at age 39. Birthplace debated: Wikipedia cites Rome (family from Faenza); many traditional sources cite Faenza.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q102490",
+      "birth_year": "https://www.wikidata.org/wiki/Q102490",
+      "death_year": "https://www.wikidata.org/wiki/Q102490",
+      "birthplace": "https://www.wikidata.org/wiki/Q102490",
+      "birth_coords": "https://www.wikidata.org/wiki/Q102490",
+      "burial": "https://www.wikidata.org/wiki/Q102490",
+      "burial_coords": "https://www.wikidata.org/wiki/Q102490",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Evangelista_Torricelli",
+      "fields": "https://en.wikipedia.org/wiki/Evangelista_Torricelli"
+    }
   },
   {
     "name": "Frank Drake",
@@ -741,7 +1159,18 @@
     ],
     "eponymous_terms": "Drake equation",
     "fields": "Astrobiology",
-    "notes": "Creator of the Drake Equation for estimating extraterrestrial civilizations."
+    "notes": "Creator of the Drake Equation for estimating extraterrestrial civilizations.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q116486673",
+      "birth_year": "https://www.wikidata.org/wiki/Q116486673",
+      "death_year": "https://www.wikidata.org/wiki/Q116486673",
+      "birthplace": "https://www.wikidata.org/wiki/Q116486673",
+      "birth_coords": "https://www.wikidata.org/wiki/Q116486673",
+      "burial": "https://www.wikidata.org/wiki/Q116486673",
+      "burial_coords": "https://www.wikidata.org/wiki/Q116486673",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Frank_Drake_(rugby_league)",
+      "fields": "https://en.wikipedia.org/wiki/Frank_Drake_(rugby_league)"
+    }
   },
   {
     "name": "Friedrich Hund",
@@ -761,7 +1190,18 @@
     ],
     "eponymous_terms": "Hund's rules",
     "fields": "Atomic physics",
-    "notes": "Lived to age **101**, one of the longest-lived physicists."
+    "notes": "Lived to age **101**, one of the longest-lived physicists.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q61201",
+      "birth_year": "https://www.wikidata.org/wiki/Q61201",
+      "death_year": "https://www.wikidata.org/wiki/Q61201",
+      "birthplace": "https://www.wikidata.org/wiki/Q61201",
+      "birth_coords": "https://www.wikidata.org/wiki/Q61201",
+      "burial": "https://www.wikidata.org/wiki/Q61201",
+      "burial_coords": "https://www.wikidata.org/wiki/Q61201",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Friedrich_Hund",
+      "fields": "https://en.wikipedia.org/wiki/Friedrich_Hund"
+    }
   },
   {
     "name": "Friedrich Pockels",
@@ -781,7 +1221,18 @@
     ],
     "eponymous_terms": "Pockels effect",
     "fields": "Optics",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q61824",
+      "birth_year": "https://www.wikidata.org/wiki/Q61824",
+      "death_year": "https://www.wikidata.org/wiki/Q61824",
+      "birthplace": "https://www.wikidata.org/wiki/Q61824",
+      "birth_coords": "https://www.wikidata.org/wiki/Q61824",
+      "burial": "https://www.wikidata.org/wiki/Q61824",
+      "burial_coords": "https://www.wikidata.org/wiki/Q61824",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Friedrich_Carl_Alwin_Pockels",
+      "fields": "https://en.wikipedia.org/wiki/Friedrich_Carl_Alwin_Pockels"
+    }
   },
   {
     "name": "Félix Savart",
@@ -801,7 +1252,18 @@
     ],
     "eponymous_terms": "Biot-Savart law",
     "fields": "Electromagnetism",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q711509",
+      "birth_year": "https://www.wikidata.org/wiki/Q711509",
+      "death_year": "https://www.wikidata.org/wiki/Q711509",
+      "birthplace": "https://www.wikidata.org/wiki/Q711509",
+      "birth_coords": "https://www.wikidata.org/wiki/Q711509",
+      "burial": "https://www.wikidata.org/wiki/Q711509",
+      "burial_coords": "https://www.wikidata.org/wiki/Q711509",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Félix_Savart",
+      "fields": "https://en.wikipedia.org/wiki/Félix_Savart"
+    }
   },
   {
     "name": "Galileo Galilei",
@@ -821,7 +1283,18 @@
     ],
     "eponymous_terms": "Galileo (Gal)",
     "fields": "Gravimetry",
-    "notes": "Initially buried secretly in 1642 due to heresy conviction; moved to monumental tomb in 1737. Three fingers, a tooth, and a vertebra removed as relics."
+    "notes": "Initially buried secretly in 1642 due to heresy conviction; moved to monumental tomb in 1737. Three fingers, a tooth, and a vertebra removed as relics.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q307",
+      "birth_year": "https://www.wikidata.org/wiki/Q307",
+      "death_year": "https://www.wikidata.org/wiki/Q307",
+      "birthplace": "https://www.wikidata.org/wiki/Q307",
+      "birth_coords": "https://www.wikidata.org/wiki/Q307",
+      "burial": "https://www.wikidata.org/wiki/Q307",
+      "burial_coords": "https://www.wikidata.org/wiki/Q307",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Galileo_Galilei",
+      "fields": "https://en.wikipedia.org/wiki/Galileo_Galilei"
+    }
   },
   {
     "name": "Gaspard-Gustave de Coriolis",
@@ -841,7 +1314,18 @@
     ],
     "eponymous_terms": "Coriolis effect",
     "fields": "Mechanics",
-    "notes": "Name on Eiffel Tower."
+    "notes": "Name on Eiffel Tower.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q202827",
+      "birth_year": "https://www.wikidata.org/wiki/Q202827",
+      "death_year": "https://www.wikidata.org/wiki/Q202827",
+      "birthplace": "https://www.wikidata.org/wiki/Q202827",
+      "birth_coords": "https://www.wikidata.org/wiki/Q202827",
+      "burial": "https://www.wikidata.org/wiki/Q202827",
+      "burial_coords": "https://www.wikidata.org/wiki/Q202827",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Gaspard-Gustave_de_Coriolis",
+      "fields": "https://en.wikipedia.org/wiki/Gaspard-Gustave_de_Coriolis"
+    }
   },
   {
     "name": "Georg Simon Ohm",
@@ -861,7 +1345,18 @@
     ],
     "eponymous_terms": "Ohm (Î©); Ohm's law",
     "fields": "Electricity; Electromagnetism",
-    "notes": "Died after delivering a lecture; birthdate on gravestone incorrectly states 1787."
+    "notes": "Died after delivering a lecture; birthdate on gravestone incorrectly states 1787.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q1585",
+      "birth_year": "https://www.wikidata.org/wiki/Q1585",
+      "death_year": "https://www.wikidata.org/wiki/Q1585",
+      "birthplace": "https://www.wikidata.org/wiki/Q1585",
+      "birth_coords": "https://www.wikidata.org/wiki/Q1585",
+      "burial": "https://www.wikidata.org/wiki/Q1585",
+      "burial_coords": "https://www.wikidata.org/wiki/Q1585",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Georg_Ohm",
+      "fields": "https://en.wikipedia.org/wiki/Georg_Ohm"
+    }
   },
   {
     "name": "George Stokes",
@@ -881,7 +1376,18 @@
     ],
     "eponymous_terms": "Stokes (St); Stokes' law; Navier-Stokes equations",
     "fields": "Fluid dynamics",
-    "notes": "No visible grave marker; location documented in Sexton's grave book."
+    "notes": "No visible grave marker; location documented in Sexton's grave book.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q107427227",
+      "birth_year": "https://www.wikidata.org/wiki/Q107427227",
+      "death_year": "https://www.wikidata.org/wiki/Q107427227",
+      "birthplace": "https://www.wikidata.org/wiki/Q107427227",
+      "birth_coords": "https://www.wikidata.org/wiki/Q107427227",
+      "burial": "https://www.wikidata.org/wiki/Q107427227",
+      "burial_coords": "https://www.wikidata.org/wiki/Q107427227",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/George_Stokes_(Medal_of_Honor)",
+      "fields": "https://en.wikipedia.org/wiki/George_Stokes_(Medal_of_Honor)"
+    }
   },
   {
     "name": "Gerhard Borrmann",
@@ -895,7 +1401,18 @@
     "burial_coords": null,
     "eponymous_terms": "Borrmann effect",
     "fields": "Crystallography",
-    "notes": "Refused to join Nazi Party in 1938."
+    "notes": "Refused to join Nazi Party in 1938.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q95315",
+      "birth_year": "https://www.wikidata.org/wiki/Q95315",
+      "death_year": "https://www.wikidata.org/wiki/Q95315",
+      "birthplace": "https://www.wikidata.org/wiki/Q95315",
+      "birth_coords": "https://www.wikidata.org/wiki/Q95315",
+      "burial": "https://www.wikidata.org/wiki/Q95315",
+      "burial_coords": "https://www.wikidata.org/wiki/Q95315",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Gerhard_Borrmann",
+      "fields": "https://en.wikipedia.org/wiki/Gerhard_Borrmann"
+    }
   },
   {
     "name": "Germain Hess",
@@ -915,7 +1432,18 @@
     ],
     "eponymous_terms": "Hess's law",
     "fields": "Thermochemistry",
-    "notes": "Family moved to Russia when he was 3. Known there as German Ivanovich Gess."
+    "notes": "Family moved to Russia when he was 3. Known there as German Ivanovich Gess.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q115669",
+      "birth_year": "https://www.wikidata.org/wiki/Q115669",
+      "death_year": "https://www.wikidata.org/wiki/Q115669",
+      "birthplace": "https://www.wikidata.org/wiki/Q115669",
+      "birth_coords": "https://www.wikidata.org/wiki/Q115669",
+      "burial": "https://www.wikidata.org/wiki/Q115669",
+      "burial_coords": "https://www.wikidata.org/wiki/Q115669",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Germain_Henri_Hess",
+      "fields": "https://en.wikipedia.org/wiki/Germain_Henri_Hess"
+    }
   },
   {
     "name": "Guglielmo Marconi",
@@ -935,7 +1463,18 @@
     ],
     "eponymous_terms": "Marconi's law",
     "fields": "Radio physics",
-    "notes": "Town renamed in his honor in 1938."
+    "notes": "Town renamed in his honor in 1938.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q36488",
+      "birth_year": "https://www.wikidata.org/wiki/Q36488",
+      "death_year": "https://www.wikidata.org/wiki/Q36488",
+      "birthplace": "https://www.wikidata.org/wiki/Q36488",
+      "birth_coords": "https://www.wikidata.org/wiki/Q36488",
+      "burial": "https://www.wikidata.org/wiki/Q36488",
+      "burial_coords": "https://www.wikidata.org/wiki/Q36488",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Guglielmo_Marconi",
+      "fields": "https://en.wikipedia.org/wiki/Guglielmo_Marconi"
+    }
   },
   {
     "name": "Gustav Kirchhoff",
@@ -955,7 +1494,18 @@
     ],
     "eponymous_terms": "Kirchhoff's circuit laws; Kirchhoff's law of radiation",
     "fields": "Electricity; Thermal radiation",
-    "notes": "Grave near the Brothers Grimm and Leopold Kronecker."
+    "notes": "Grave near the Brothers Grimm and Leopold Kronecker.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q60052",
+      "birth_year": "https://www.wikidata.org/wiki/Q60052",
+      "death_year": "https://www.wikidata.org/wiki/Q60052",
+      "birthplace": "https://www.wikidata.org/wiki/Q60052",
+      "birth_coords": "https://www.wikidata.org/wiki/Q60052",
+      "burial": "https://www.wikidata.org/wiki/Q60052",
+      "burial_coords": "https://www.wikidata.org/wiki/Q60052",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Gustav_Kirchhoff",
+      "fields": "https://en.wikipedia.org/wiki/Gustav_Kirchhoff"
+    }
   },
   {
     "name": "Gustav Mie",
@@ -972,7 +1522,18 @@
     "burial_coords": null,
     "eponymous_terms": "Mie scattering",
     "fields": "Optics",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q67020",
+      "birth_year": "https://www.wikidata.org/wiki/Q67020",
+      "death_year": "https://www.wikidata.org/wiki/Q67020",
+      "birthplace": "https://www.wikidata.org/wiki/Q67020",
+      "birth_coords": "https://www.wikidata.org/wiki/Q67020",
+      "burial": "https://www.wikidata.org/wiki/Q67020",
+      "burial_coords": "https://www.wikidata.org/wiki/Q67020",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Gustav_Mie",
+      "fields": "https://en.wikipedia.org/wiki/Gustav_Mie"
+    }
   },
   {
     "name": "Hans Christian Ørsted",
@@ -992,7 +1553,18 @@
     ],
     "eponymous_terms": "Oersted (Oe)",
     "fields": "Electromagnetism",
-    "notes": "Same cemetery as Hans Christian Andersen and Søren Kierkegaard."
+    "notes": "Same cemetery as Hans Christian Andersen and Søren Kierkegaard.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q44412",
+      "birth_year": "https://www.wikidata.org/wiki/Q44412",
+      "death_year": "https://www.wikidata.org/wiki/Q44412",
+      "birthplace": "https://www.wikidata.org/wiki/Q44412",
+      "birth_coords": "https://www.wikidata.org/wiki/Q44412",
+      "burial": "https://www.wikidata.org/wiki/Q44412",
+      "burial_coords": "https://www.wikidata.org/wiki/Q44412",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Hans_Christian_Ørsted",
+      "fields": "https://en.wikipedia.org/wiki/Hans_Christian_Ørsted"
+    }
   },
   {
     "name": "Heike Kamerlingh Onnes",
@@ -1012,7 +1584,18 @@
     ],
     "eponymous_terms": "Superconductivity",
     "fields": "Condensed matter",
-    "notes": "Nobel Prize 1913 for liquefying helium."
+    "notes": "Nobel Prize 1913 for liquefying helium.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q62891",
+      "birth_year": "https://www.wikidata.org/wiki/Q62891",
+      "death_year": "https://www.wikidata.org/wiki/Q62891",
+      "birthplace": "https://www.wikidata.org/wiki/Q62891",
+      "birth_coords": "https://www.wikidata.org/wiki/Q62891",
+      "burial": "https://www.wikidata.org/wiki/Q62891",
+      "burial_coords": "https://www.wikidata.org/wiki/Q62891",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Heike_Kamerlingh_Onnes",
+      "fields": "https://en.wikipedia.org/wiki/Heike_Kamerlingh_Onnes"
+    }
   },
   {
     "name": "Heinrich Lenz",
@@ -1032,7 +1615,18 @@
     ],
     "eponymous_terms": "Lenz's law",
     "fields": "Electromagnetism",
-    "notes": "Baltic German origin. Traveled to Italy for medical treatment and died there."
+    "notes": "Baltic German origin. Traveled to Italy for medical treatment and died there.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q21392393",
+      "birth_year": "https://www.wikidata.org/wiki/Q21392393",
+      "death_year": "https://www.wikidata.org/wiki/Q21392393",
+      "birthplace": "https://www.wikidata.org/wiki/Q21392393",
+      "birth_coords": "https://www.wikidata.org/wiki/Q21392393",
+      "burial": "https://www.wikidata.org/wiki/Q21392393",
+      "burial_coords": "https://www.wikidata.org/wiki/Q21392393",
+      "eponymous_terms": "https://www.wikidata.org/wiki/Q21392393",
+      "fields": "https://www.wikidata.org/wiki/Q21392393"
+    }
   },
   {
     "name": "Heinrich Magnus",
@@ -1052,7 +1646,18 @@
     ],
     "eponymous_terms": "Magnus effect",
     "fields": "Fluid dynamics",
-    "notes": "Same cemetery as Hegel, Fichte, and Brecht."
+    "notes": "Same cemetery as Hegel, Fichte, and Brecht.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q44318",
+      "birth_year": "https://www.wikidata.org/wiki/Q44318",
+      "death_year": "https://www.wikidata.org/wiki/Q44318",
+      "birthplace": "https://www.wikidata.org/wiki/Q44318",
+      "birth_coords": "https://www.wikidata.org/wiki/Q44318",
+      "burial": "https://www.wikidata.org/wiki/Q44318",
+      "burial_coords": "https://www.wikidata.org/wiki/Q44318",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Heinrich_Gustav_Magnus",
+      "fields": "https://en.wikipedia.org/wiki/Heinrich_Gustav_Magnus"
+    }
   },
   {
     "name": "Heinrich Rudolf Hertz",
@@ -1072,7 +1677,18 @@
     ],
     "eponymous_terms": "Hertz (Hz)",
     "fields": "Electromagnetism",
-    "notes": "Died at age 36 in Bonn; remains returned to his hometown."
+    "notes": "Died at age 36 in Bonn; remains returned to his hometown.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q52411059",
+      "birth_year": "https://www.wikidata.org/wiki/Q52411059",
+      "death_year": "https://www.wikidata.org/wiki/Q52411059",
+      "birthplace": "https://www.wikidata.org/wiki/Q52411059",
+      "birth_coords": "https://www.wikidata.org/wiki/Q52411059",
+      "burial": "https://www.wikidata.org/wiki/Q52411059",
+      "burial_coords": "https://www.wikidata.org/wiki/Q52411059",
+      "eponymous_terms": "https://www.wikidata.org/wiki/Q52411059",
+      "fields": "https://www.wikidata.org/wiki/Q52411059"
+    }
   },
   {
     "name": "Hendrik Casimir",
@@ -1089,7 +1705,18 @@
     "burial_coords": null,
     "eponymous_terms": "Casimir effect",
     "fields": "Quantum field theory",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q535748",
+      "birth_year": "https://www.wikidata.org/wiki/Q535748",
+      "death_year": "https://www.wikidata.org/wiki/Q535748",
+      "birthplace": "https://www.wikidata.org/wiki/Q535748",
+      "birth_coords": "https://www.wikidata.org/wiki/Q535748",
+      "burial": "https://www.wikidata.org/wiki/Q535748",
+      "burial_coords": "https://www.wikidata.org/wiki/Q535748",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Hendrik_Casimir",
+      "fields": "https://en.wikipedia.org/wiki/Hendrik_Casimir"
+    }
   },
   {
     "name": "Hendrik Lorentz",
@@ -1109,7 +1736,18 @@
     ],
     "eponymous_terms": "Lorentz transformation",
     "fields": "Special relativity",
-    "notes": "Funeral attended by Einstein, Marie Curie, and Rutherford. Dutch telegraph services suspended for three minutes during funeral."
+    "notes": "Funeral attended by Einstein, Marie Curie, and Rutherford. Dutch telegraph services suspended for three minutes during funeral.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q41688",
+      "birth_year": "https://www.wikidata.org/wiki/Q41688",
+      "death_year": "https://www.wikidata.org/wiki/Q41688",
+      "birthplace": "https://www.wikidata.org/wiki/Q41688",
+      "birth_coords": "https://www.wikidata.org/wiki/Q41688",
+      "burial": "https://www.wikidata.org/wiki/Q41688",
+      "burial_coords": "https://www.wikidata.org/wiki/Q41688",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Hendrik_Lorentz",
+      "fields": "https://en.wikipedia.org/wiki/Hendrik_Lorentz"
+    }
   },
   {
     "name": "Henri Becquerel",
@@ -1118,18 +1756,29 @@
     "still_alive": false,
     "category": "SI Units",
     "birthplace": "Paris, France",
-    "burial": "Villa Pen-Castel (family property), Le Croisic, Loire-Atlantique, France",
+    "burial": "Family tomb, Châtillon-Coligny, Loiret, France",
     "birth_coords": [
       48.8566,
       2.3522
     ],
     "burial_coords": [
-      47.2906,
-      -2.5094
+      47.8222,
+      2.8456
     ],
     "eponymous_terms": "Becquerel (Bq)",
     "fields": "Nuclear physics",
-    "notes": "Nobel Prize winner 1903 for discovering radioactivity. Died at his vacation home."
+    "notes": "Nobel Prize winner 1903 for discovering radioactivity. Died at Le Croisic; buried in family tomb at Châtillon-Coligny.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q41269",
+      "birth_year": "https://www.wikidata.org/wiki/Q41269",
+      "death_year": "https://www.wikidata.org/wiki/Q41269",
+      "birthplace": "https://www.wikidata.org/wiki/Q41269",
+      "birth_coords": "https://www.wikidata.org/wiki/Q41269",
+      "burial": "https://www.wikidata.org/wiki/Q41269",
+      "burial_coords": "https://www.wikidata.org/wiki/Q41269",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Henri_Becquerel",
+      "fields": "https://en.wikipedia.org/wiki/Henri_Becquerel"
+    }
   },
   {
     "name": "Henri Bénard",
@@ -1146,7 +1795,18 @@
     "burial_coords": null,
     "eponymous_terms": "Bénard-Marangoni convection",
     "fields": "Fluid dynamics",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q3088167",
+      "birth_year": "https://www.wikidata.org/wiki/Q3088167",
+      "death_year": "https://www.wikidata.org/wiki/Q3088167",
+      "birthplace": "https://www.wikidata.org/wiki/Q3088167",
+      "birth_coords": "https://www.wikidata.org/wiki/Q3088167",
+      "burial": "https://www.wikidata.org/wiki/Q3088167",
+      "burial_coords": "https://www.wikidata.org/wiki/Q3088167",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Henri_Bénard",
+      "fields": "https://en.wikipedia.org/wiki/Henri_Bénard"
+    }
   },
   {
     "name": "Henry Darcy",
@@ -1166,7 +1826,18 @@
     ],
     "eponymous_terms": "Darcy's law",
     "fields": "Fluid mechanics",
-    "notes": "Died of pneumonia while traveling. Day after burial, main square renamed \"Place Darcy.\""
+    "notes": "Died of pneumonia while traveling. Day after burial, main square renamed \"Place Darcy.\"",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q438507",
+      "birth_year": "https://www.wikidata.org/wiki/Q438507",
+      "death_year": "https://www.wikidata.org/wiki/Q438507",
+      "birthplace": "https://www.wikidata.org/wiki/Q438507",
+      "birth_coords": "https://www.wikidata.org/wiki/Q438507",
+      "burial": "https://www.wikidata.org/wiki/Q438507",
+      "burial_coords": "https://www.wikidata.org/wiki/Q438507",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Henry_Darcy",
+      "fields": "https://en.wikipedia.org/wiki/Henry_Darcy"
+    }
   },
   {
     "name": "Hermann Kopp",
@@ -1183,7 +1854,18 @@
     "burial_coords": null,
     "eponymous_terms": "Kopp's law",
     "fields": "Thermodynamics",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q874427",
+      "birth_year": "https://www.wikidata.org/wiki/Q874427",
+      "death_year": "https://www.wikidata.org/wiki/Q874427",
+      "birthplace": "https://www.wikidata.org/wiki/Q874427",
+      "birth_coords": "https://www.wikidata.org/wiki/Q874427",
+      "burial": "https://www.wikidata.org/wiki/Q874427",
+      "burial_coords": "https://www.wikidata.org/wiki/Q874427",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Hermann_Kopp",
+      "fields": "https://en.wikipedia.org/wiki/Hermann_Kopp"
+    }
   },
   {
     "name": "Hermann Weyl",
@@ -1200,7 +1882,18 @@
     ],
     "eponymous_terms": "Weyl fermion",
     "fields": "Particle physics",
-    "notes": "Died unexpectedly in Zürich while mailing a letter. Buried in Princeton where he worked at IAS."
+    "notes": "Died unexpectedly in Zürich while mailing a letter. Buried in Princeton where he worked at IAS.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q1613064",
+      "birth_year": "https://www.wikidata.org/wiki/Q1613064",
+      "death_year": "https://www.wikidata.org/wiki/Q1613064",
+      "birthplace": "https://www.wikidata.org/wiki/Q1613064",
+      "birth_coords": "https://www.wikidata.org/wiki/Q1613064",
+      "burial": "https://www.wikidata.org/wiki/Q1613064",
+      "burial_coords": "https://www.wikidata.org/wiki/Q1613064",
+      "eponymous_terms": "https://www.wikidata.org/wiki/Q1613064",
+      "fields": "https://www.wikidata.org/wiki/Q1613064"
+    }
   },
   {
     "name": "Hermann von Helmholtz",
@@ -1217,7 +1910,18 @@
     ],
     "eponymous_terms": "Gibbs-Helmholtz equation; Helmholtz equation",
     "fields": "Thermodynamics; Wave physics",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q60024",
+      "birth_year": "https://www.wikidata.org/wiki/Q60024",
+      "death_year": "https://www.wikidata.org/wiki/Q60024",
+      "birthplace": "https://www.wikidata.org/wiki/Q60024",
+      "birth_coords": "https://www.wikidata.org/wiki/Q60024",
+      "burial": "https://www.wikidata.org/wiki/Q60024",
+      "burial_coords": "https://www.wikidata.org/wiki/Q60024",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Hermann_von_Helmholtz",
+      "fields": "https://en.wikipedia.org/wiki/Hermann_von_Helmholtz"
+    }
   },
   {
     "name": "Irving Langmuir",
@@ -1234,7 +1938,18 @@
     "burial_coords": null,
     "eponymous_terms": "Langmuir equation",
     "fields": "Surface chemistry",
-    "notes": "Died at nephew's summer home in Woods Hole, Massachusetts."
+    "notes": "Died at nephew's summer home in Woods Hole, Massachusetts.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q184286",
+      "birth_year": "https://www.wikidata.org/wiki/Q184286",
+      "death_year": "https://www.wikidata.org/wiki/Q184286",
+      "birthplace": "https://www.wikidata.org/wiki/Q184286",
+      "birth_coords": "https://www.wikidata.org/wiki/Q184286",
+      "burial": "https://www.wikidata.org/wiki/Q184286",
+      "burial_coords": "https://www.wikidata.org/wiki/Q184286",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Irving_Langmuir",
+      "fields": "https://en.wikipedia.org/wiki/Irving_Langmuir"
+    }
   },
   {
     "name": "Isaac Newton",
@@ -1254,7 +1969,18 @@
     ],
     "eponymous_terms": "Newton (N); Newton's laws of motion; Law of universal gravitation",
     "fields": "Classical mechanics; Gravitation",
-    "notes": "First scientist buried in Westminster Abbey. Monument completed 1731; Latin epitaph reads \"Here lies that which was mortal of Isaac Newton.\""
+    "notes": "First scientist buried in Westminster Abbey. Monument completed 1731; Latin epitaph reads \"Here lies that which was mortal of Isaac Newton.\"",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q935",
+      "birth_year": "https://www.wikidata.org/wiki/Q935",
+      "death_year": "https://www.wikidata.org/wiki/Q935",
+      "birthplace": "https://www.wikidata.org/wiki/Q935",
+      "birth_coords": "https://www.wikidata.org/wiki/Q935",
+      "burial": "https://www.wikidata.org/wiki/Q935",
+      "burial_coords": "https://www.wikidata.org/wiki/Q935",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Isaac_Newton",
+      "fields": "https://en.wikipedia.org/wiki/Isaac_Newton"
+    }
   },
   {
     "name": "J.J. Thomson",
@@ -1265,7 +1991,7 @@
     "birthplace": "Cheetham Hill, Manchester, England, United Kingdom",
     "burial": "Westminster Abbey (ashes interred in nave), London, United Kingdom",
     "birth_coords": [
-      53.50,
+      53.5,
       -2.24
     ],
     "burial_coords": [
@@ -1274,7 +2000,18 @@
     ],
     "eponymous_terms": "Thomson scattering",
     "fields": "Electromagnetism",
-    "notes": "Ashes near Newton and Rutherford."
+    "notes": "Ashes near Newton and Rutherford.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q47285",
+      "birth_year": "https://www.wikidata.org/wiki/Q47285",
+      "death_year": "https://www.wikidata.org/wiki/Q47285",
+      "birthplace": "https://www.wikidata.org/wiki/Q47285",
+      "birth_coords": "https://www.wikidata.org/wiki/Q47285",
+      "burial": "https://www.wikidata.org/wiki/Q47285",
+      "burial_coords": "https://www.wikidata.org/wiki/Q47285",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/J._J._Thomson",
+      "fields": "https://en.wikipedia.org/wiki/J._J._Thomson"
+    }
   },
   {
     "name": "Jacob Bekenstein",
@@ -1291,7 +2028,18 @@
     "burial_coords": null,
     "eponymous_terms": "Bekenstein-Hawking entropy",
     "fields": "Quantum gravity",
-    "notes": "Died in Helsinki from heart attack. As a religious Jew, buried in Israel per tradition."
+    "notes": "Died in Helsinki from heart attack. As a religious Jew, buried in Israel per tradition.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q504448",
+      "birth_year": "https://www.wikidata.org/wiki/Q504448",
+      "death_year": "https://www.wikidata.org/wiki/Q504448",
+      "birthplace": "https://www.wikidata.org/wiki/Q504448",
+      "birth_coords": "https://www.wikidata.org/wiki/Q504448",
+      "burial": "https://www.wikidata.org/wiki/Q504448",
+      "burial_coords": "https://www.wikidata.org/wiki/Q504448",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Jacob_Bekenstein",
+      "fields": "https://en.wikipedia.org/wiki/Jacob_Bekenstein"
+    }
   },
   {
     "name": "Jacques Charles",
@@ -1311,7 +2059,18 @@
     ],
     "eponymous_terms": "Charles's law",
     "fields": "Thermodynamics",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q332105",
+      "birth_year": "https://www.wikidata.org/wiki/Q332105",
+      "death_year": "https://www.wikidata.org/wiki/Q332105",
+      "birthplace": "https://www.wikidata.org/wiki/Q332105",
+      "birth_coords": "https://www.wikidata.org/wiki/Q332105",
+      "burial": "https://www.wikidata.org/wiki/Q332105",
+      "burial_coords": "https://www.wikidata.org/wiki/Q332105",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Jacques_Charles",
+      "fields": "https://en.wikipedia.org/wiki/Jacques_Charles"
+    }
   },
   {
     "name": "James Clerk Maxwell",
@@ -1331,7 +2090,18 @@
     ],
     "eponymous_terms": "Maxwell (Mx); Maxwell's equations",
     "fields": "Electromagnetism",
-    "notes": "Buried with parents and wife in church ruins near family estate at Glenlair. Memorial stone at Westminster Abbey."
+    "notes": "Buried with parents and wife in church ruins near family estate at Glenlair. Memorial stone at Westminster Abbey.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q9095",
+      "birth_year": "https://www.wikidata.org/wiki/Q9095",
+      "death_year": "https://www.wikidata.org/wiki/Q9095",
+      "birthplace": "https://www.wikidata.org/wiki/Q9095",
+      "birth_coords": "https://www.wikidata.org/wiki/Q9095",
+      "burial": "https://www.wikidata.org/wiki/Q9095",
+      "burial_coords": "https://www.wikidata.org/wiki/Q9095",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/James_Clerk_Maxwell",
+      "fields": "https://en.wikipedia.org/wiki/James_Clerk_Maxwell"
+    }
   },
   {
     "name": "James Early",
@@ -1348,7 +2118,18 @@
     "burial_coords": null,
     "eponymous_terms": "Early effect",
     "fields": "Electronics",
-    "notes": "Known for the Early effect in transistors."
+    "notes": "Known for the Early effect in transistors.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q103061751",
+      "birth_year": "https://www.wikidata.org/wiki/Q103061751",
+      "death_year": "https://www.wikidata.org/wiki/Q103061751",
+      "birthplace": "https://www.wikidata.org/wiki/Q103061751",
+      "birth_coords": "https://www.wikidata.org/wiki/Q103061751",
+      "burial": "https://www.wikidata.org/wiki/Q103061751",
+      "burial_coords": "https://www.wikidata.org/wiki/Q103061751",
+      "eponymous_terms": "https://www.wikidata.org/wiki/Q103061751",
+      "fields": "https://www.wikidata.org/wiki/Q103061751"
+    }
   },
   {
     "name": "James Prescott Joule",
@@ -1368,7 +2149,18 @@
     ],
     "eponymous_terms": "Joule (J); Joule's first law; Joule-Thomson effect",
     "fields": "Electricity; Thermodynamics",
-    "notes": "Gravestone inscribed with \"772.55\"—his determination of the mechanical equivalent of heat. Not buried in Westminster Abbey despite a memorial plaque there."
+    "notes": "Gravestone inscribed with \"772.55\"—his determination of the mechanical equivalent of heat. Not buried in Westminster Abbey despite a memorial plaque there.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q8962",
+      "birth_year": "https://www.wikidata.org/wiki/Q8962",
+      "death_year": "https://www.wikidata.org/wiki/Q8962",
+      "birthplace": "https://www.wikidata.org/wiki/Q8962",
+      "birth_coords": "https://www.wikidata.org/wiki/Q8962",
+      "burial": "https://www.wikidata.org/wiki/Q8962",
+      "burial_coords": "https://www.wikidata.org/wiki/Q8962",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/James_Prescott_Joule",
+      "fields": "https://en.wikipedia.org/wiki/James_Prescott_Joule"
+    }
   },
   {
     "name": "James Watt",
@@ -1385,7 +2177,18 @@
     ],
     "eponymous_terms": "Watt (W)",
     "fields": "Thermodynamics",
-    "notes": "Church expansion over his grave means the tomb is now located inside the church building."
+    "notes": "Church expansion over his grave means the tomb is now located inside the church building.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q9041",
+      "birth_year": "https://www.wikidata.org/wiki/Q9041",
+      "death_year": "https://www.wikidata.org/wiki/Q9041",
+      "birthplace": "https://www.wikidata.org/wiki/Q9041",
+      "birth_coords": "https://www.wikidata.org/wiki/Q9041",
+      "burial": "https://www.wikidata.org/wiki/Q9041",
+      "burial_coords": "https://www.wikidata.org/wiki/Q9041",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/James_Watt",
+      "fields": "https://en.wikipedia.org/wiki/James_Watt"
+    }
   },
   {
     "name": "Jean Peltier",
@@ -1405,7 +2208,18 @@
     ],
     "eponymous_terms": "Peltier effect",
     "fields": "Thermoelectricity",
-    "notes": "Originally a watchmaker; became self-taught physicist after retiring at age 30."
+    "notes": "Originally a watchmaker; became self-taught physicist after retiring at age 30.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q98768888",
+      "birth_year": "https://www.wikidata.org/wiki/Q98768888",
+      "death_year": "https://www.wikidata.org/wiki/Q98768888",
+      "birthplace": "https://www.wikidata.org/wiki/Q98768888",
+      "birth_coords": "https://www.wikidata.org/wiki/Q98768888",
+      "burial": "https://www.wikidata.org/wiki/Q98768888",
+      "burial_coords": "https://www.wikidata.org/wiki/Q98768888",
+      "eponymous_terms": "https://www.wikidata.org/wiki/Q98768888",
+      "fields": "https://www.wikidata.org/wiki/Q98768888"
+    }
   },
   {
     "name": "Jean Poiseuille",
@@ -1425,7 +2239,18 @@
     ],
     "eponymous_terms": "Poise (P)",
     "fields": "Fluid dynamics",
-    "notes": "Known for the Hagen-Poiseuille equation."
+    "notes": "Known for the Hagen-Poiseuille equation.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q550943",
+      "birth_year": "https://www.wikidata.org/wiki/Q550943",
+      "death_year": "https://www.wikidata.org/wiki/Q550943",
+      "birthplace": "https://www.wikidata.org/wiki/Q550943",
+      "birth_coords": "https://www.wikidata.org/wiki/Q550943",
+      "burial": "https://www.wikidata.org/wiki/Q550943",
+      "burial_coords": "https://www.wikidata.org/wiki/Q550943",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Jean_Léonard_Marie_Poiseuille",
+      "fields": "https://en.wikipedia.org/wiki/Jean_Léonard_Marie_Poiseuille"
+    }
   },
   {
     "name": "Jean d'Alembert",
@@ -1445,7 +2270,18 @@
     ],
     "eponymous_terms": "D'Alembert's principle",
     "fields": "Analytical mechanics",
-    "notes": "Born illegitimate and abandoned on church steps. As a known atheist, denied proper burial."
+    "notes": "Born illegitimate and abandoned on church steps. As a known atheist, denied proper burial.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q137469398",
+      "birth_year": "https://www.wikidata.org/wiki/Q137469398",
+      "death_year": "https://www.wikidata.org/wiki/Q137469398",
+      "birthplace": "https://www.wikidata.org/wiki/Q137469398",
+      "birth_coords": "https://www.wikidata.org/wiki/Q137469398",
+      "burial": "https://www.wikidata.org/wiki/Q137469398",
+      "burial_coords": "https://www.wikidata.org/wiki/Q137469398",
+      "eponymous_terms": "https://www.wikidata.org/wiki/Q137469398",
+      "fields": "https://www.wikidata.org/wiki/Q137469398"
+    }
   },
   {
     "name": "Jean-Baptiste Biot",
@@ -1465,7 +2301,18 @@
     ],
     "eponymous_terms": "Biot-Savart law",
     "fields": "Electromagnetism",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q58328",
+      "birth_year": "https://www.wikidata.org/wiki/Q58328",
+      "death_year": "https://www.wikidata.org/wiki/Q58328",
+      "birthplace": "https://www.wikidata.org/wiki/Q58328",
+      "birth_coords": "https://www.wikidata.org/wiki/Q58328",
+      "burial": "https://www.wikidata.org/wiki/Q58328",
+      "burial_coords": "https://www.wikidata.org/wiki/Q58328",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Jean-Baptiste_Biot",
+      "fields": "https://en.wikipedia.org/wiki/Jean-Baptiste_Biot"
+    }
   },
   {
     "name": "Jean-Victor Poncelet",
@@ -1485,7 +2332,18 @@
     ],
     "eponymous_terms": "Poncelet (p)",
     "fields": "Mechanics",
-    "notes": "Founded modern projective geometry while imprisoned in Russia."
+    "notes": "Founded modern projective geometry while imprisoned in Russia.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q168452",
+      "birth_year": "https://www.wikidata.org/wiki/Q168452",
+      "death_year": "https://www.wikidata.org/wiki/Q168452",
+      "birthplace": "https://www.wikidata.org/wiki/Q168452",
+      "birth_coords": "https://www.wikidata.org/wiki/Q168452",
+      "burial": "https://www.wikidata.org/wiki/Q168452",
+      "burial_coords": "https://www.wikidata.org/wiki/Q168452",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Jean-Victor_Poncelet",
+      "fields": "https://en.wikipedia.org/wiki/Jean-Victor_Poncelet"
+    }
   },
   {
     "name": "Johann Heinrich Lambert",
@@ -1502,7 +2360,18 @@
     "burial_coords": null,
     "eponymous_terms": "Beer-Lambert law; Lambert's cosine law",
     "fields": "Optics",
-    "notes": "Died of tuberculosis."
+    "notes": "Died of tuberculosis.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q122999",
+      "birth_year": "https://www.wikidata.org/wiki/Q122999",
+      "death_year": "https://www.wikidata.org/wiki/Q122999",
+      "birthplace": "https://www.wikidata.org/wiki/Q122999",
+      "birth_coords": "https://www.wikidata.org/wiki/Q122999",
+      "burial": "https://www.wikidata.org/wiki/Q122999",
+      "burial_coords": "https://www.wikidata.org/wiki/Q122999",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Johann_Heinrich_Lambert",
+      "fields": "https://en.wikipedia.org/wiki/Johann_Heinrich_Lambert"
+    }
   },
   {
     "name": "Johann Leidenfrost",
@@ -1516,7 +2385,18 @@
     "burial_coords": null,
     "eponymous_terms": "Leidenfrost effect",
     "fields": "Thermodynamics",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q66257",
+      "birth_year": "https://www.wikidata.org/wiki/Q66257",
+      "death_year": "https://www.wikidata.org/wiki/Q66257",
+      "birthplace": "https://www.wikidata.org/wiki/Q66257",
+      "birth_coords": "https://www.wikidata.org/wiki/Q66257",
+      "burial": "https://www.wikidata.org/wiki/Q66257",
+      "burial_coords": "https://www.wikidata.org/wiki/Q66257",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Johann_Gottlob_Leidenfrost",
+      "fields": "https://en.wikipedia.org/wiki/Johann_Gottlob_Leidenfrost"
+    }
   },
   {
     "name": "Johannes Kepler",
@@ -1530,7 +2410,18 @@
     "burial_coords": null,
     "eponymous_terms": "Kepler's laws",
     "fields": "Celestial mechanics",
-    "notes": "Grave destroyed when Swedish troops sieged Regensburg in 1632, just two years after his death."
+    "notes": "Grave destroyed when Swedish troops sieged Regensburg in 1632, just two years after his death.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q8963",
+      "birth_year": "https://www.wikidata.org/wiki/Q8963",
+      "death_year": "https://www.wikidata.org/wiki/Q8963",
+      "birthplace": "https://www.wikidata.org/wiki/Q8963",
+      "birth_coords": "https://www.wikidata.org/wiki/Q8963",
+      "burial": "https://www.wikidata.org/wiki/Q8963",
+      "burial_coords": "https://www.wikidata.org/wiki/Q8963",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Johannes_Kepler",
+      "fields": "https://en.wikipedia.org/wiki/Johannes_Kepler"
+    }
   },
   {
     "name": "Johannes Rydberg",
@@ -1550,7 +2441,18 @@
     ],
     "eponymous_terms": "Rydberg constant (Râˆž)",
     "fields": "Atomic physics",
-    "notes": "Died at Lund Hospital."
+    "notes": "Died at Lund Hospital.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q311567",
+      "birth_year": "https://www.wikidata.org/wiki/Q311567",
+      "death_year": "https://www.wikidata.org/wiki/Q311567",
+      "birthplace": "https://www.wikidata.org/wiki/Q311567",
+      "birth_coords": "https://www.wikidata.org/wiki/Q311567",
+      "burial": "https://www.wikidata.org/wiki/Q311567",
+      "burial_coords": "https://www.wikidata.org/wiki/Q311567",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Johannes_Rydberg",
+      "fields": "https://en.wikipedia.org/wiki/Johannes_Rydberg"
+    }
   },
   {
     "name": "Johannes Stark",
@@ -1564,7 +2466,18 @@
     "burial_coords": null,
     "eponymous_terms": "Stark effect",
     "fields": "Atomic physics",
-    "notes": "Nobel Prize 1919. Nazi supporter; sentenced as \"Major Offender\" in 1947."
+    "notes": "Nobel Prize 1919. Nazi supporter; sentenced as \"Major Offender\" in 1947.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q57092",
+      "birth_year": "https://www.wikidata.org/wiki/Q57092",
+      "death_year": "https://www.wikidata.org/wiki/Q57092",
+      "birthplace": "https://www.wikidata.org/wiki/Q57092",
+      "birth_coords": "https://www.wikidata.org/wiki/Q57092",
+      "burial": "https://www.wikidata.org/wiki/Q57092",
+      "burial_coords": "https://www.wikidata.org/wiki/Q57092",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Johannes_Stark",
+      "fields": "https://en.wikipedia.org/wiki/Johannes_Stark"
+    }
   },
   {
     "name": "Johannes van der Waals",
@@ -1584,7 +2497,18 @@
     ],
     "eponymous_terms": "Van der Waals force; Van der Waals equation",
     "fields": "Molecular physics; Thermodynamics",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q131721",
+      "birth_year": "https://www.wikidata.org/wiki/Q131721",
+      "death_year": "https://www.wikidata.org/wiki/Q131721",
+      "birthplace": "https://www.wikidata.org/wiki/Q131721",
+      "birth_coords": "https://www.wikidata.org/wiki/Q131721",
+      "burial": "https://www.wikidata.org/wiki/Q131721",
+      "burial_coords": "https://www.wikidata.org/wiki/Q131721",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Johannes_Diderik_van_der_Waals",
+      "fields": "https://en.wikipedia.org/wiki/Johannes_Diderik_van_der_Waals"
+    }
   },
   {
     "name": "John Dalton",
@@ -1601,7 +2525,18 @@
     ],
     "eponymous_terms": "Dalton (Da); Dalton's law",
     "fields": "Atomic physics; Thermodynamics",
-    "notes": "Cemetery now a playing field, but grave survives. Over 40,000 people attended his funeral."
+    "notes": "Cemetery now a playing field, but grave survives. Over 40,000 people attended his funeral.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q41284",
+      "birth_year": "https://www.wikidata.org/wiki/Q41284",
+      "death_year": "https://www.wikidata.org/wiki/Q41284",
+      "birthplace": "https://www.wikidata.org/wiki/Q41284",
+      "birth_coords": "https://www.wikidata.org/wiki/Q41284",
+      "burial": "https://www.wikidata.org/wiki/Q41284",
+      "burial_coords": "https://www.wikidata.org/wiki/Q41284",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/John_Dalton",
+      "fields": "https://en.wikipedia.org/wiki/John_Dalton"
+    }
   },
   {
     "name": "John Hopkinson",
@@ -1621,7 +2556,18 @@
     ],
     "eponymous_terms": "Hopkinson's law",
     "fields": "Magnetism",
-    "notes": "Died in mountaineering accident with three of his children."
+    "notes": "Died in mountaineering accident with three of his children.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q1356368",
+      "birth_year": "https://www.wikidata.org/wiki/Q1356368",
+      "death_year": "https://www.wikidata.org/wiki/Q1356368",
+      "birthplace": "https://www.wikidata.org/wiki/Q1356368",
+      "birth_coords": "https://www.wikidata.org/wiki/Q1356368",
+      "burial": "https://www.wikidata.org/wiki/Q1356368",
+      "burial_coords": "https://www.wikidata.org/wiki/Q1356368",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/John_Hopkinson",
+      "fields": "https://en.wikipedia.org/wiki/John_Hopkinson"
+    }
   },
   {
     "name": "John Kerr",
@@ -1638,7 +2584,18 @@
     "burial_coords": null,
     "eponymous_terms": "Kerr effect",
     "fields": "Optics",
-    "notes": "Ordained minister who worked at Free Church Training College for 44 years."
+    "notes": "Ordained minister who worked at Free Church Training College for 44 years.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q2364014",
+      "birth_year": "https://www.wikidata.org/wiki/Q2364014",
+      "death_year": "https://www.wikidata.org/wiki/Q2364014",
+      "birthplace": "https://www.wikidata.org/wiki/Q2364014",
+      "birth_coords": "https://www.wikidata.org/wiki/Q2364014",
+      "burial": "https://www.wikidata.org/wiki/Q2364014",
+      "burial_coords": "https://www.wikidata.org/wiki/Q2364014",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/John_Kerr_(actor)",
+      "fields": "https://en.wikipedia.org/wiki/John_Kerr_(actor)"
+    }
   },
   {
     "name": "John Napier",
@@ -1658,7 +2615,18 @@
     ],
     "eponymous_terms": "Neper (Np)",
     "fields": "Signal processing",
-    "notes": "Remains transferred from St Giles kirkyard when it was demolished for Parliament House."
+    "notes": "Remains transferred from St Giles kirkyard when it was demolished for Parliament House.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q159592",
+      "birth_year": "https://www.wikidata.org/wiki/Q159592",
+      "death_year": "https://www.wikidata.org/wiki/Q159592",
+      "birthplace": "https://www.wikidata.org/wiki/Q159592",
+      "birth_coords": "https://www.wikidata.org/wiki/Q159592",
+      "burial": "https://www.wikidata.org/wiki/Q159592",
+      "burial_coords": "https://www.wikidata.org/wiki/Q159592",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/John_Napier",
+      "fields": "https://en.wikipedia.org/wiki/John_Napier"
+    }
   },
   {
     "name": "John Stewart Bell",
@@ -1678,7 +2646,18 @@
     ],
     "eponymous_terms": "Bell's theorem",
     "fields": "Quantum foundations",
-    "notes": "Died unexpectedly of cerebral hemorrhage."
+    "notes": "Died unexpectedly of cerebral hemorrhage.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q370077",
+      "birth_year": "https://www.wikidata.org/wiki/Q370077",
+      "death_year": "https://www.wikidata.org/wiki/Q370077",
+      "birthplace": "https://www.wikidata.org/wiki/Q370077",
+      "birth_coords": "https://www.wikidata.org/wiki/Q370077",
+      "burial": "https://www.wikidata.org/wiki/Q370077",
+      "burial_coords": "https://www.wikidata.org/wiki/Q370077",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/John_Stewart_Bell",
+      "fields": "https://en.wikipedia.org/wiki/John_Stewart_Bell"
+    }
   },
   {
     "name": "John Tyndall",
@@ -1698,7 +2677,18 @@
     ],
     "eponymous_terms": "Tyndall effect",
     "fields": "Optics",
-    "notes": "Died from accidental overdose of chloral hydrate administered by his wife."
+    "notes": "Died from accidental overdose of chloral hydrate administered by his wife.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q360808",
+      "birth_year": "https://www.wikidata.org/wiki/Q360808",
+      "death_year": "https://www.wikidata.org/wiki/Q360808",
+      "birthplace": "https://www.wikidata.org/wiki/Q360808",
+      "birth_coords": "https://www.wikidata.org/wiki/Q360808",
+      "burial": "https://www.wikidata.org/wiki/Q360808",
+      "burial_coords": "https://www.wikidata.org/wiki/Q360808",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/John_Tyndall",
+      "fields": "https://en.wikipedia.org/wiki/John_Tyndall"
+    }
   },
   {
     "name": "John William Strutt, Lord Rayleigh",
@@ -1715,7 +2705,18 @@
     ],
     "eponymous_terms": "Rayleigh scattering",
     "fields": "Optics",
-    "notes": "Buried in parish churchyard of family estate at Terling Place."
+    "notes": "Buried in parish churchyard of family estate at Terling Place.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q20882333",
+      "birth_year": "https://www.wikidata.org/wiki/Q20882333",
+      "death_year": "https://www.wikidata.org/wiki/Q20882333",
+      "birthplace": "https://www.wikidata.org/wiki/Q20882333",
+      "birth_coords": "https://www.wikidata.org/wiki/Q20882333",
+      "burial": "https://www.wikidata.org/wiki/Q20882333",
+      "burial_coords": "https://www.wikidata.org/wiki/Q20882333",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/John_William_Strutt,_Lord_Rayleigh_Medal_and_Prize",
+      "fields": "https://en.wikipedia.org/wiki/John_William_Strutt,_Lord_Rayleigh_Medal_and_Prize"
+    }
   },
   {
     "name": "Josef Stefan",
@@ -1735,7 +2736,18 @@
     ],
     "eponymous_terms": "Stefan-Boltzmann constant (Ïƒ); Stefan-Boltzmann law",
     "fields": "Thermal radiation; Thermodynamics",
-    "notes": "Parents were ethnic Slovenes. Born illegitimate."
+    "notes": "Parents were ethnic Slovenes. Born illegitimate.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q16581",
+      "birth_year": "https://www.wikidata.org/wiki/Q16581",
+      "death_year": "https://www.wikidata.org/wiki/Q16581",
+      "birthplace": "https://www.wikidata.org/wiki/Q16581",
+      "birth_coords": "https://www.wikidata.org/wiki/Q16581",
+      "burial": "https://www.wikidata.org/wiki/Q16581",
+      "burial_coords": "https://www.wikidata.org/wiki/Q16581",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Josef_Stefan",
+      "fields": "https://en.wikipedia.org/wiki/Josef_Stefan"
+    }
   },
   {
     "name": "Joseph Fourier",
@@ -1755,7 +2767,18 @@
     ],
     "eponymous_terms": "Fourier's law",
     "fields": "Heat transfer",
-    "notes": "Grave features Egyptian-style decoration reflecting his time during Napoleon's Egyptian expedition."
+    "notes": "Grave features Egyptian-style decoration reflecting his time during Napoleon's Egyptian expedition.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q8772",
+      "birth_year": "https://www.wikidata.org/wiki/Q8772",
+      "death_year": "https://www.wikidata.org/wiki/Q8772",
+      "birthplace": "https://www.wikidata.org/wiki/Q8772",
+      "birth_coords": "https://www.wikidata.org/wiki/Q8772",
+      "burial": "https://www.wikidata.org/wiki/Q8772",
+      "burial_coords": "https://www.wikidata.org/wiki/Q8772",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Joseph_Fourier",
+      "fields": "https://en.wikipedia.org/wiki/Joseph_Fourier"
+    }
   },
   {
     "name": "Joseph Gay-Lussac",
@@ -1772,7 +2795,18 @@
     ],
     "eponymous_terms": "Gay-Lussac's law",
     "fields": "Thermodynamics",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q62615050",
+      "birth_year": "https://www.wikidata.org/wiki/Q62615050",
+      "death_year": "https://www.wikidata.org/wiki/Q62615050",
+      "birthplace": "https://www.wikidata.org/wiki/Q62615050",
+      "birth_coords": "https://www.wikidata.org/wiki/Q62615050",
+      "burial": "https://www.wikidata.org/wiki/Q62615050",
+      "burial_coords": "https://www.wikidata.org/wiki/Q62615050",
+      "eponymous_terms": "https://www.wikidata.org/wiki/Q62615050",
+      "fields": "https://www.wikidata.org/wiki/Q62615050"
+    }
   },
   {
     "name": "Joseph Henry",
@@ -1792,7 +2826,18 @@
     ],
     "eponymous_terms": "Henry (H)",
     "fields": "Electromagnetism",
-    "notes": "Funeral attended by President Rutherford B. Hayes. First Secretary of the Smithsonian Institution."
+    "notes": "Funeral attended by President Rutherford B. Hayes. First Secretary of the Smithsonian Institution.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q157043",
+      "birth_year": "https://www.wikidata.org/wiki/Q157043",
+      "death_year": "https://www.wikidata.org/wiki/Q157043",
+      "birthplace": "https://www.wikidata.org/wiki/Q157043",
+      "birth_coords": "https://www.wikidata.org/wiki/Q157043",
+      "burial": "https://www.wikidata.org/wiki/Q157043",
+      "burial_coords": "https://www.wikidata.org/wiki/Q157043",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Joseph_Henry",
+      "fields": "https://en.wikipedia.org/wiki/Joseph_Henry"
+    }
   },
   {
     "name": "Joseph Larmor",
@@ -1812,7 +2857,18 @@
     ],
     "eponymous_terms": "Larmor precession",
     "fields": "Electromagnetism",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q536500",
+      "birth_year": "https://www.wikidata.org/wiki/Q536500",
+      "death_year": "https://www.wikidata.org/wiki/Q536500",
+      "birthplace": "https://www.wikidata.org/wiki/Q536500",
+      "birth_coords": "https://www.wikidata.org/wiki/Q536500",
+      "burial": "https://www.wikidata.org/wiki/Q536500",
+      "burial_coords": "https://www.wikidata.org/wiki/Q536500",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Joseph_Larmor",
+      "fields": "https://en.wikipedia.org/wiki/Joseph_Larmor"
+    }
   },
   {
     "name": "Joseph-Louis Lagrange",
@@ -1832,7 +2888,18 @@
     ],
     "eponymous_terms": "Lagrangian mechanics",
     "fields": "Analytical mechanics",
-    "notes": "Born Giuseppe Lodovico Lagrangia. Napoleon honored him two days before his death."
+    "notes": "Born Giuseppe Lodovico Lagrangia. Napoleon honored him two days before his death.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q80222",
+      "birth_year": "https://www.wikidata.org/wiki/Q80222",
+      "death_year": "https://www.wikidata.org/wiki/Q80222",
+      "birthplace": "https://www.wikidata.org/wiki/Q80222",
+      "birth_coords": "https://www.wikidata.org/wiki/Q80222",
+      "burial": "https://www.wikidata.org/wiki/Q80222",
+      "burial_coords": "https://www.wikidata.org/wiki/Q80222",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange",
+      "fields": "https://en.wikipedia.org/wiki/Joseph-Louis_Lagrange"
+    }
   },
   {
     "name": "Joseph-Nicolas Delisle",
@@ -1849,7 +2916,18 @@
     "burial_coords": null,
     "eponymous_terms": "Degree Delisle (Â°D)",
     "fields": "Thermodynamics",
-    "notes": "Died at Abbey of St. Genevieve. Invented the Delisle temperature scale."
+    "notes": "Died at Abbey of St. Genevieve. Invented the Delisle temperature scale.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q431485",
+      "birth_year": "https://www.wikidata.org/wiki/Q431485",
+      "death_year": "https://www.wikidata.org/wiki/Q431485",
+      "birthplace": "https://www.wikidata.org/wiki/Q431485",
+      "birth_coords": "https://www.wikidata.org/wiki/Q431485",
+      "burial": "https://www.wikidata.org/wiki/Q431485",
+      "burial_coords": "https://www.wikidata.org/wiki/Q431485",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Joseph-Nicolas_Delisle",
+      "fields": "https://en.wikipedia.org/wiki/Joseph-Nicolas_Delisle"
+    }
   },
   {
     "name": "Josiah Willard Gibbs",
@@ -1869,7 +2947,18 @@
     ],
     "eponymous_terms": "Gibbs-Helmholtz equation",
     "fields": "Thermodynamics",
-    "notes": "Born and buried in same city where he spent entire career at Yale."
+    "notes": "Born and buried in same city where he spent entire career at Yale.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q153243",
+      "birth_year": "https://www.wikidata.org/wiki/Q153243",
+      "death_year": "https://www.wikidata.org/wiki/Q153243",
+      "birthplace": "https://www.wikidata.org/wiki/Q153243",
+      "birth_coords": "https://www.wikidata.org/wiki/Q153243",
+      "burial": "https://www.wikidata.org/wiki/Q153243",
+      "burial_coords": "https://www.wikidata.org/wiki/Q153243",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs",
+      "fields": "https://en.wikipedia.org/wiki/Josiah_Willard_Gibbs"
+    }
   },
   {
     "name": "Julian Schwinger",
@@ -1889,7 +2978,18 @@
     ],
     "eponymous_terms": "Schwinger effect",
     "fields": "Quantum electrodynamics",
-    "notes": "Tombstone features his calculation of correction to magnetic moment of electron."
+    "notes": "Tombstone features his calculation of correction to magnetic moment of electron.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q186465",
+      "birth_year": "https://www.wikidata.org/wiki/Q186465",
+      "death_year": "https://www.wikidata.org/wiki/Q186465",
+      "birthplace": "https://www.wikidata.org/wiki/Q186465",
+      "birth_coords": "https://www.wikidata.org/wiki/Q186465",
+      "burial": "https://www.wikidata.org/wiki/Q186465",
+      "burial_coords": "https://www.wikidata.org/wiki/Q186465",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Julian_Schwinger",
+      "fields": "https://en.wikipedia.org/wiki/Julian_Schwinger"
+    }
   },
   {
     "name": "Karl Jansky",
@@ -1909,7 +3009,18 @@
     ],
     "eponymous_terms": "Jansky (Jy)",
     "fields": "Radio astronomy",
-    "notes": "Born when Oklahoma was still a territory. Died of heart failure at age 44."
+    "notes": "Born when Oklahoma was still a territory. Died of heart failure at age 44.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q137019822",
+      "birth_year": "https://www.wikidata.org/wiki/Q137019822",
+      "death_year": "https://www.wikidata.org/wiki/Q137019822",
+      "birthplace": "https://www.wikidata.org/wiki/Q137019822",
+      "birth_coords": "https://www.wikidata.org/wiki/Q137019822",
+      "burial": "https://www.wikidata.org/wiki/Q137019822",
+      "burial_coords": "https://www.wikidata.org/wiki/Q137019822",
+      "eponymous_terms": "https://www.wikidata.org/wiki/Q137019822",
+      "fields": "https://www.wikidata.org/wiki/Q137019822"
+    }
   },
   {
     "name": "Karl Schwarzschild",
@@ -1929,7 +3040,18 @@
     ],
     "eponymous_terms": "Schwarzschild radius (rs)",
     "fields": "General relativity",
-    "notes": "Died of pemphigus contracted while serving on WWI Russian front at age 42."
+    "notes": "Died of pemphigus contracted while serving on WWI Russian front at age 42.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q57145",
+      "birth_year": "https://www.wikidata.org/wiki/Q57145",
+      "death_year": "https://www.wikidata.org/wiki/Q57145",
+      "birthplace": "https://www.wikidata.org/wiki/Q57145",
+      "birth_coords": "https://www.wikidata.org/wiki/Q57145",
+      "burial": "https://www.wikidata.org/wiki/Q57145",
+      "burial_coords": "https://www.wikidata.org/wiki/Q57145",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Karl_Schwarzschild",
+      "fields": "https://en.wikipedia.org/wiki/Karl_Schwarzschild"
+    }
   },
   {
     "name": "Klaus von Klitzing",
@@ -1946,7 +3068,18 @@
     "burial_coords": null,
     "eponymous_terms": "Von Klitzing constant (RK); Quantum Hall effect",
     "fields": "Condensed matter; Quantum Hall effect",
-    "notes": "Nobel Prize 1985. Director Emeritus at Max Planck Institute for Solid State Research."
+    "notes": "Nobel Prize 1985. Director Emeritus at Max Planck Institute for Solid State Research.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q71024",
+      "birth_year": "https://www.wikidata.org/wiki/Q71024",
+      "death_year": "https://www.wikidata.org/wiki/Q71024",
+      "birthplace": "https://www.wikidata.org/wiki/Q71024",
+      "birth_coords": "https://www.wikidata.org/wiki/Q71024",
+      "burial": "https://www.wikidata.org/wiki/Q71024",
+      "burial_coords": "https://www.wikidata.org/wiki/Q71024",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Klaus_von_Klitzing",
+      "fields": "https://en.wikipedia.org/wiki/Klaus_von_Klitzing"
+    }
   },
   {
     "name": "Leon Cooper",
@@ -1963,7 +3096,18 @@
     "burial_coords": null,
     "eponymous_terms": "Cooper pair",
     "fields": "Condensed matter",
-    "notes": "Nobel Prize 1972 for BCS theory of superconductivity."
+    "notes": "Nobel Prize 1972 for BCS theory of superconductivity.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q82563",
+      "birth_year": "https://www.wikidata.org/wiki/Q82563",
+      "death_year": "https://www.wikidata.org/wiki/Q82563",
+      "birthplace": "https://www.wikidata.org/wiki/Q82563",
+      "birth_coords": "https://www.wikidata.org/wiki/Q82563",
+      "burial": "https://www.wikidata.org/wiki/Q82563",
+      "burial_coords": "https://www.wikidata.org/wiki/Q82563",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Leon_Cooper",
+      "fields": "https://en.wikipedia.org/wiki/Leon_Cooper"
+    }
   },
   {
     "name": "Leonhard Euler",
@@ -1983,7 +3127,18 @@
     ],
     "eponymous_terms": "Euler equations",
     "fields": "Fluid dynamics",
-    "notes": "Originally buried at Smolensk Lutheran Cemetery; remains reinterred in 1956 for 250th anniversary."
+    "notes": "Originally buried at Smolensk Lutheran Cemetery; remains reinterred in 1956 for 250th anniversary.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q7604",
+      "birth_year": "https://www.wikidata.org/wiki/Q7604",
+      "death_year": "https://www.wikidata.org/wiki/Q7604",
+      "birthplace": "https://www.wikidata.org/wiki/Q7604",
+      "birth_coords": "https://www.wikidata.org/wiki/Q7604",
+      "burial": "https://www.wikidata.org/wiki/Q7604",
+      "burial_coords": "https://www.wikidata.org/wiki/Q7604",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Leonhard_Euler",
+      "fields": "https://en.wikipedia.org/wiki/Leonhard_Euler"
+    }
   },
   {
     "name": "Lise Meitner",
@@ -2003,7 +3158,18 @@
     ],
     "eponymous_terms": "Auger-Meitner effect",
     "fields": "Atomic physics",
-    "notes": "Epitaph reads: \"A physicist who never lost her humanity.\" Element 109 (Meitnerium) named in her honor."
+    "notes": "Epitaph reads: \"A physicist who never lost her humanity.\" Element 109 (Meitnerium) named in her honor.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q56189",
+      "birth_year": "https://www.wikidata.org/wiki/Q56189",
+      "death_year": "https://www.wikidata.org/wiki/Q56189",
+      "birthplace": "https://www.wikidata.org/wiki/Q56189",
+      "birth_coords": "https://www.wikidata.org/wiki/Q56189",
+      "burial": "https://www.wikidata.org/wiki/Q56189",
+      "burial_coords": "https://www.wikidata.org/wiki/Q56189",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Lise_Meitner",
+      "fields": "https://en.wikipedia.org/wiki/Lise_Meitner"
+    }
   },
   {
     "name": "Louis Harold Gray",
@@ -2020,7 +3186,18 @@
     "burial_coords": null,
     "eponymous_terms": "Gray (Gy)",
     "fields": "Radiation physics",
-    "notes": "Founded radiobiology field at Mount Vernon Hospital. Specific burial documentation unavailable."
+    "notes": "Founded radiobiology field at Mount Vernon Hospital. Specific burial documentation unavailable.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q551288",
+      "birth_year": "https://www.wikidata.org/wiki/Q551288",
+      "death_year": "https://www.wikidata.org/wiki/Q551288",
+      "birthplace": "https://www.wikidata.org/wiki/Q551288",
+      "birth_coords": "https://www.wikidata.org/wiki/Q551288",
+      "burial": "https://www.wikidata.org/wiki/Q551288",
+      "burial_coords": "https://www.wikidata.org/wiki/Q551288",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Louis_Harold_Gray",
+      "fields": "https://en.wikipedia.org/wiki/Louis_Harold_Gray"
+    }
   },
   {
     "name": "Ludwig Boltzmann",
@@ -2040,7 +3217,18 @@
     ],
     "eponymous_terms": "Boltzmann constant (kB); Stefan-Boltzmann constant (Ïƒ); Stefan-Boltzmann law; Boltzmann equation",
     "fields": "Statistical mechanics; Thermal radiation; Thermodynamics",
-    "notes": "Died by suicide in Duino (now Italy). Tombstone features his entropy equation **S = k log W**."
+    "notes": "Died by suicide in Duino (now Italy). Tombstone features his entropy equation **S = k log W**.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q84296",
+      "birth_year": "https://www.wikidata.org/wiki/Q84296",
+      "death_year": "https://www.wikidata.org/wiki/Q84296",
+      "birthplace": "https://www.wikidata.org/wiki/Q84296",
+      "birth_coords": "https://www.wikidata.org/wiki/Q84296",
+      "burial": "https://www.wikidata.org/wiki/Q84296",
+      "burial_coords": "https://www.wikidata.org/wiki/Q84296",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Ludwig_Boltzmann",
+      "fields": "https://en.wikipedia.org/wiki/Ludwig_Boltzmann"
+    }
   },
   {
     "name": "Léon Brillouin",
@@ -2057,7 +3245,18 @@
     "burial_coords": null,
     "eponymous_terms": "Brillouin scattering; Brillouin zone",
     "fields": "Condensed matter; Solid state physics",
-    "notes": "U.S. citizen from 1949."
+    "notes": "U.S. citizen from 1949.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q364062",
+      "birth_year": "https://www.wikidata.org/wiki/Q364062",
+      "death_year": "https://www.wikidata.org/wiki/Q364062",
+      "birthplace": "https://www.wikidata.org/wiki/Q364062",
+      "birth_coords": "https://www.wikidata.org/wiki/Q364062",
+      "burial": "https://www.wikidata.org/wiki/Q364062",
+      "burial_coords": "https://www.wikidata.org/wiki/Q364062",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Léon_Brillouin",
+      "fields": "https://en.wikipedia.org/wiki/Léon_Brillouin"
+    }
   },
   {
     "name": "Marie Curie",
@@ -2077,7 +3276,18 @@
     ],
     "eponymous_terms": "Curie (Ci)",
     "fields": "Nuclear physics",
-    "notes": "First woman interred in the Panthéon on her own merits (1995 transfer). Coffin lined with lead due to radiation."
+    "notes": "First woman interred in the Panthéon on her own merits (1995 transfer). Coffin lined with lead due to radiation.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q7186",
+      "birth_year": "https://www.wikidata.org/wiki/Q7186",
+      "death_year": "https://www.wikidata.org/wiki/Q7186",
+      "birthplace": "https://www.wikidata.org/wiki/Q7186",
+      "birth_coords": "https://www.wikidata.org/wiki/Q7186",
+      "burial": "https://www.wikidata.org/wiki/Q7186",
+      "burial_coords": "https://www.wikidata.org/wiki/Q7186",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Marie_Curie",
+      "fields": "https://en.wikipedia.org/wiki/Marie_Curie"
+    }
   },
   {
     "name": "Max Born",
@@ -2097,7 +3307,18 @@
     ],
     "eponymous_terms": "Born rule",
     "fields": "Î¨",
-    "notes": "Cemetery contains graves of nine Nobel laureates. Gravestone displays quantum mechanics formula."
+    "notes": "Cemetery contains graves of nine Nobel laureates. Gravestone displays quantum mechanics formula.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q58978",
+      "birth_year": "https://www.wikidata.org/wiki/Q58978",
+      "death_year": "https://www.wikidata.org/wiki/Q58978",
+      "birthplace": "https://www.wikidata.org/wiki/Q58978",
+      "birth_coords": "https://www.wikidata.org/wiki/Q58978",
+      "burial": "https://www.wikidata.org/wiki/Q58978",
+      "burial_coords": "https://www.wikidata.org/wiki/Q58978",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Max_Born",
+      "fields": "https://en.wikipedia.org/wiki/Max_Born"
+    }
   },
   {
     "name": "Max Planck",
@@ -2117,7 +3338,18 @@
     ],
     "eponymous_terms": "Planck constant (h); Planck's law",
     "fields": "Quantum mechanics",
-    "notes": "Simple gravestone inscribed only with his name and **Planck's constant value** (h=6.62×10⁻³⁴ W·s²)."
+    "notes": "Simple gravestone inscribed only with his name and **Planck's constant value** (h=6.62×10⁻³⁴ W·s²).",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q9021",
+      "birth_year": "https://www.wikidata.org/wiki/Q9021",
+      "death_year": "https://www.wikidata.org/wiki/Q9021",
+      "birthplace": "https://www.wikidata.org/wiki/Q9021",
+      "birth_coords": "https://www.wikidata.org/wiki/Q9021",
+      "burial": "https://www.wikidata.org/wiki/Q9021",
+      "burial_coords": "https://www.wikidata.org/wiki/Q9021",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Max_Planck",
+      "fields": "https://en.wikipedia.org/wiki/Max_Planck"
+    }
   },
   {
     "name": "Meghnad Saha",
@@ -2134,7 +3366,18 @@
     ],
     "eponymous_terms": "Saha ionization equation",
     "fields": "Astrophysics",
-    "notes": "Requested \"simple cremation without any rituals.\""
+    "notes": "Requested \"simple cremation without any rituals.\"",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q377898",
+      "birth_year": "https://www.wikidata.org/wiki/Q377898",
+      "death_year": "https://www.wikidata.org/wiki/Q377898",
+      "birthplace": "https://www.wikidata.org/wiki/Q377898",
+      "birth_coords": "https://www.wikidata.org/wiki/Q377898",
+      "burial": "https://www.wikidata.org/wiki/Q377898",
+      "burial_coords": "https://www.wikidata.org/wiki/Q377898",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Meghnad_Saha",
+      "fields": "https://en.wikipedia.org/wiki/Meghnad_Saha"
+    }
   },
   {
     "name": "Michael Faraday",
@@ -2154,7 +3397,18 @@
     ],
     "eponymous_terms": "Farad (F); Faraday (Fd); Faraday constant (F); Faraday's law of induction; Faraday's laws of electrolysis; Faraday effect",
     "fields": "Electrochemistry; Electromagnetism; Optics",
-    "notes": "Declined burial in Westminster Abbey. Grave is Grade II listed; buried in Sandemanian plot with his wife."
+    "notes": "Declined burial in Westminster Abbey. Grave is Grade II listed; buried in Sandemanian plot with his wife.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q8750",
+      "birth_year": "https://www.wikidata.org/wiki/Q8750",
+      "death_year": "https://www.wikidata.org/wiki/Q8750",
+      "birthplace": "https://www.wikidata.org/wiki/Q8750",
+      "birth_coords": "https://www.wikidata.org/wiki/Q8750",
+      "burial": "https://www.wikidata.org/wiki/Q8750",
+      "burial_coords": "https://www.wikidata.org/wiki/Q8750",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Michael_Faraday",
+      "fields": "https://en.wikipedia.org/wiki/Michael_Faraday"
+    }
   },
   {
     "name": "Nicolas Sadi Carnot",
@@ -2174,7 +3428,18 @@
     ],
     "eponymous_terms": "Carnot's theorem",
     "fields": "Thermodynamics",
-    "notes": "Died of cholera at age 36. Many belongings and writings buried with him due to contamination fears. \"Father of Thermodynamics.\""
+    "notes": "Died of cholera at age 36. Many belongings and writings buried with him due to contamination fears. \"Father of Thermodynamics.\"",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q234127",
+      "birth_year": "https://www.wikidata.org/wiki/Q234127",
+      "death_year": "https://www.wikidata.org/wiki/Q234127",
+      "birthplace": "https://www.wikidata.org/wiki/Q234127",
+      "birth_coords": "https://www.wikidata.org/wiki/Q234127",
+      "burial": "https://www.wikidata.org/wiki/Q234127",
+      "burial_coords": "https://www.wikidata.org/wiki/Q234127",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot",
+      "fields": "https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot"
+    }
   },
   {
     "name": "Niels Bohr",
@@ -2194,7 +3459,18 @@
     ],
     "eponymous_terms": "Bohr radius (aâ‚€); Bohr magneton (Î¼B)",
     "fields": "Atomic physics; Quantum mechanics",
-    "notes": "Cremated; buried in family grave with father Christian and brother Harald. Grave features granite pillar topped with an owl."
+    "notes": "Cremated; buried in family grave with father Christian and brother Harald. Grave features granite pillar topped with an owl.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q7085",
+      "birth_year": "https://www.wikidata.org/wiki/Q7085",
+      "death_year": "https://www.wikidata.org/wiki/Q7085",
+      "birthplace": "https://www.wikidata.org/wiki/Q7085",
+      "birth_coords": "https://www.wikidata.org/wiki/Q7085",
+      "burial": "https://www.wikidata.org/wiki/Q7085",
+      "burial_coords": "https://www.wikidata.org/wiki/Q7085",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Niels_Bohr",
+      "fields": "https://en.wikipedia.org/wiki/Niels_Bohr"
+    }
   },
   {
     "name": "Nikola Tesla",
@@ -2214,7 +3490,18 @@
     ],
     "eponymous_terms": "Tesla (T)",
     "fields": "Electromagnetism",
-    "notes": "Cremated in New York; ashes kept at Ferncliff Cemetery until 1957, then transferred to Belgrade."
+    "notes": "Cremated in New York; ashes kept at Ferncliff Cemetery until 1957, then transferred to Belgrade.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q9036",
+      "birth_year": "https://www.wikidata.org/wiki/Q9036",
+      "death_year": "https://www.wikidata.org/wiki/Q9036",
+      "birthplace": "https://www.wikidata.org/wiki/Q9036",
+      "birth_coords": "https://www.wikidata.org/wiki/Q9036",
+      "burial": "https://www.wikidata.org/wiki/Q9036",
+      "burial_coords": "https://www.wikidata.org/wiki/Q9036",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Nikola_Tesla",
+      "fields": "https://en.wikipedia.org/wiki/Nikola_Tesla"
+    }
   },
   {
     "name": "Nikolay Umov",
@@ -2234,7 +3521,18 @@
     ],
     "eponymous_terms": "Umov effect",
     "fields": "Optics",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q2996992",
+      "birth_year": "https://www.wikidata.org/wiki/Q2996992",
+      "death_year": "https://www.wikidata.org/wiki/Q2996992",
+      "birthplace": "https://www.wikidata.org/wiki/Q2996992",
+      "birth_coords": "https://www.wikidata.org/wiki/Q2996992",
+      "burial": "https://www.wikidata.org/wiki/Q2996992",
+      "burial_coords": "https://www.wikidata.org/wiki/Q2996992",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Nikolay_Umov",
+      "fields": "https://en.wikipedia.org/wiki/Nikolay_Umov"
+    }
   },
   {
     "name": "Ole Rømer",
@@ -2251,7 +3549,18 @@
     "burial_coords": null,
     "eponymous_terms": "Degree Rømer (°Rø)",
     "fields": "Thermodynamics",
-    "notes": "First to demonstrate light has finite speed (1676). Written work lost in Great Copenhagen Fire of 1728."
+    "notes": "First to demonstrate light has finite speed (1676). Written work lost in Great Copenhagen Fire of 1728.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q160187",
+      "birth_year": "https://www.wikidata.org/wiki/Q160187",
+      "death_year": "https://www.wikidata.org/wiki/Q160187",
+      "birthplace": "https://www.wikidata.org/wiki/Q160187",
+      "birth_coords": "https://www.wikidata.org/wiki/Q160187",
+      "burial": "https://www.wikidata.org/wiki/Q160187",
+      "burial_coords": "https://www.wikidata.org/wiki/Q160187",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Ole_Rømer",
+      "fields": "https://en.wikipedia.org/wiki/Ole_Rømer"
+    }
   },
   {
     "name": "Osborne Reynolds",
@@ -2271,7 +3580,18 @@
     ],
     "eponymous_terms": "Reynolds number effects",
     "fields": "Fluid dynamics",
-    "notes": "Died of influenza."
+    "notes": "Died of influenza.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q323267",
+      "birth_year": "https://www.wikidata.org/wiki/Q323267",
+      "death_year": "https://www.wikidata.org/wiki/Q323267",
+      "birthplace": "https://www.wikidata.org/wiki/Q323267",
+      "birth_coords": "https://www.wikidata.org/wiki/Q323267",
+      "burial": "https://www.wikidata.org/wiki/Q323267",
+      "burial_coords": "https://www.wikidata.org/wiki/Q323267",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Osborne_Reynolds",
+      "fields": "https://en.wikipedia.org/wiki/Osborne_Reynolds"
+    }
   },
   {
     "name": "Paul Dirac",
@@ -2291,7 +3611,18 @@
     ],
     "eponymous_terms": "Reduced Planck constant (â„); Dirac fermion; Dirac equation",
     "fields": "Quantum field theory; Quantum mechanics",
-    "notes": "Memorial stone with Dirac equation unveiled at Westminster Abbey in 1995."
+    "notes": "Memorial stone with Dirac equation unveiled at Westminster Abbey in 1995.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q47480",
+      "birth_year": "https://www.wikidata.org/wiki/Q47480",
+      "death_year": "https://www.wikidata.org/wiki/Q47480",
+      "birthplace": "https://www.wikidata.org/wiki/Q47480",
+      "birth_coords": "https://www.wikidata.org/wiki/Q47480",
+      "burial": "https://www.wikidata.org/wiki/Q47480",
+      "burial_coords": "https://www.wikidata.org/wiki/Q47480",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Paul_Dirac",
+      "fields": "https://en.wikipedia.org/wiki/Paul_Dirac"
+    }
   },
   {
     "name": "Paul Ehrenfest",
@@ -2308,7 +3639,18 @@
     "burial_coords": null,
     "eponymous_terms": "Ehrenfest's theorem",
     "fields": "Quantum mechanics",
-    "notes": "Died by suicide. Some sources mention Leiden; unverified."
+    "notes": "Died by suicide. Some sources mention Leiden; unverified.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q84227",
+      "birth_year": "https://www.wikidata.org/wiki/Q84227",
+      "death_year": "https://www.wikidata.org/wiki/Q84227",
+      "birthplace": "https://www.wikidata.org/wiki/Q84227",
+      "birth_coords": "https://www.wikidata.org/wiki/Q84227",
+      "burial": "https://www.wikidata.org/wiki/Q84227",
+      "burial_coords": "https://www.wikidata.org/wiki/Q84227",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Paul_Ehrenfest",
+      "fields": "https://en.wikipedia.org/wiki/Paul_Ehrenfest"
+    }
   },
   {
     "name": "Pavel Cherenkov",
@@ -2325,7 +3667,18 @@
     ],
     "eponymous_terms": "Cherenkov radiation",
     "fields": "Particle physics",
-    "notes": "Nobel Prize 1958. Novodevichy is Russia's most prestigious cemetery."
+    "notes": "Nobel Prize 1958. Novodevichy is Russia's most prestigious cemetery.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q76970",
+      "birth_year": "https://www.wikidata.org/wiki/Q76970",
+      "death_year": "https://www.wikidata.org/wiki/Q76970",
+      "birthplace": "https://www.wikidata.org/wiki/Q76970",
+      "birth_coords": "https://www.wikidata.org/wiki/Q76970",
+      "burial": "https://www.wikidata.org/wiki/Q76970",
+      "burial_coords": "https://www.wikidata.org/wiki/Q76970",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Pavel_Cherenkov",
+      "fields": "https://en.wikipedia.org/wiki/Pavel_Cherenkov"
+    }
   },
   {
     "name": "Peter Debye",
@@ -2341,11 +3694,22 @@
     ],
     "burial_coords": [
       42.44,
-      -76.50
+      -76.5
     ],
     "eponymous_terms": "Debye (D); Debye model",
     "fields": "Molecular physics; Solid state physics",
-    "notes": "U.S. citizen from 1946. Died of a heart attack."
+    "notes": "U.S. citizen from 1946. Died of a heart attack.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q103835",
+      "birth_year": "https://www.wikidata.org/wiki/Q103835",
+      "death_year": "https://www.wikidata.org/wiki/Q103835",
+      "birthplace": "https://www.wikidata.org/wiki/Q103835",
+      "birth_coords": "https://www.wikidata.org/wiki/Q103835",
+      "burial": "https://www.wikidata.org/wiki/Q103835",
+      "burial_coords": "https://www.wikidata.org/wiki/Q103835",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Peter_Debye",
+      "fields": "https://en.wikipedia.org/wiki/Peter_Debye"
+    }
   },
   {
     "name": "Peter Higgs",
@@ -2365,7 +3729,18 @@
     ],
     "eponymous_terms": "Higgs boson",
     "fields": "Particle physics",
-    "notes": "Nobel Prize 2013. Died peacefully at home following short illness."
+    "notes": "Nobel Prize 2013. Died peacefully at home following short illness.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q192112",
+      "birth_year": "https://www.wikidata.org/wiki/Q192112",
+      "death_year": "https://www.wikidata.org/wiki/Q192112",
+      "birthplace": "https://www.wikidata.org/wiki/Q192112",
+      "birth_coords": "https://www.wikidata.org/wiki/Q192112",
+      "burial": "https://www.wikidata.org/wiki/Q192112",
+      "burial_coords": "https://www.wikidata.org/wiki/Q192112",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Peter_Higgs",
+      "fields": "https://en.wikipedia.org/wiki/Peter_Higgs"
+    }
   },
   {
     "name": "Pierre Auger",
@@ -2385,7 +3760,18 @@
     ],
     "eponymous_terms": "Auger-Meitner effect",
     "fields": "Atomic physics",
-    "notes": "First Director General of ESRO (precursor to ESA)."
+    "notes": "First Director General of ESRO (precursor to ESA).",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q102274335",
+      "birth_year": "https://www.wikidata.org/wiki/Q102274335",
+      "death_year": "https://www.wikidata.org/wiki/Q102274335",
+      "birthplace": "https://www.wikidata.org/wiki/Q102274335",
+      "birth_coords": "https://www.wikidata.org/wiki/Q102274335",
+      "burial": "https://www.wikidata.org/wiki/Q102274335",
+      "burial_coords": "https://www.wikidata.org/wiki/Q102274335",
+      "eponymous_terms": "https://www.wikidata.org/wiki/Q102274335",
+      "fields": "https://www.wikidata.org/wiki/Q102274335"
+    }
   },
   {
     "name": "Pierre Curie",
@@ -2405,7 +3791,18 @@
     ],
     "eponymous_terms": "Curie (Ci); Curie's law; Curie-Weiss law",
     "fields": "Magnetism; Nuclear physics",
-    "notes": "Reinterred with Marie in 1995 from Cimetière de Sceaux. Killed at age 46 in a street accident."
+    "notes": "Reinterred with Marie in 1995 from Cimetière de Sceaux. Killed at age 46 in a street accident.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q37463",
+      "birth_year": "https://www.wikidata.org/wiki/Q37463",
+      "death_year": "https://www.wikidata.org/wiki/Q37463",
+      "birthplace": "https://www.wikidata.org/wiki/Q37463",
+      "birth_coords": "https://www.wikidata.org/wiki/Q37463",
+      "burial": "https://www.wikidata.org/wiki/Q37463",
+      "burial_coords": "https://www.wikidata.org/wiki/Q37463",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Pierre_Curie",
+      "fields": "https://en.wikipedia.org/wiki/Pierre_Curie"
+    }
   },
   {
     "name": "Pierre de Fermat",
@@ -2422,7 +3819,18 @@
     ],
     "eponymous_terms": "Fermat's principle",
     "fields": "Optics",
-    "notes": "Originally buried at Church of St. Dominique, Castres; remains moved to family vault."
+    "notes": "Originally buried at Church of St. Dominique, Castres; remains moved to family vault.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q75655",
+      "birth_year": "https://www.wikidata.org/wiki/Q75655",
+      "death_year": "https://www.wikidata.org/wiki/Q75655",
+      "birthplace": "https://www.wikidata.org/wiki/Q75655",
+      "birth_coords": "https://www.wikidata.org/wiki/Q75655",
+      "burial": "https://www.wikidata.org/wiki/Q75655",
+      "burial_coords": "https://www.wikidata.org/wiki/Q75655",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Pierre_de_Fermat",
+      "fields": "https://en.wikipedia.org/wiki/Pierre_de_Fermat"
+    }
   },
   {
     "name": "Pierre-Ernest Weiss",
@@ -2439,7 +3847,18 @@
     "burial_coords": null,
     "eponymous_terms": "Curie-Weiss law",
     "fields": "Magnetism",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q299841",
+      "birth_year": "https://www.wikidata.org/wiki/Q299841",
+      "death_year": "https://www.wikidata.org/wiki/Q299841",
+      "birthplace": "https://www.wikidata.org/wiki/Q299841",
+      "birth_coords": "https://www.wikidata.org/wiki/Q299841",
+      "burial": "https://www.wikidata.org/wiki/Q299841",
+      "burial_coords": "https://www.wikidata.org/wiki/Q299841",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Pierre_Weiss",
+      "fields": "https://en.wikipedia.org/wiki/Pierre_Weiss"
+    }
   },
   {
     "name": "Pierre-Louis Maupertuis",
@@ -2459,7 +3878,18 @@
     ],
     "eponymous_terms": "Maupertuis's principle",
     "fields": "Mechanics",
-    "notes": "Died in Basel while staying with Johann Bernoulli; remains later transferred to Paris."
+    "notes": "Died in Basel while staying with Johann Bernoulli; remains later transferred to Paris.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q164374",
+      "birth_year": "https://www.wikidata.org/wiki/Q164374",
+      "death_year": "https://www.wikidata.org/wiki/Q164374",
+      "birthplace": "https://www.wikidata.org/wiki/Q164374",
+      "birth_coords": "https://www.wikidata.org/wiki/Q164374",
+      "burial": "https://www.wikidata.org/wiki/Q164374",
+      "burial_coords": "https://www.wikidata.org/wiki/Q164374",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Pierre_Louis_Maupertuis",
+      "fields": "https://en.wikipedia.org/wiki/Pierre_Louis_Maupertuis"
+    }
   },
   {
     "name": "Pierre-Simon Laplace",
@@ -2479,7 +3909,18 @@
     ],
     "eponymous_terms": "Laplace equation; Young-Laplace equation",
     "fields": "Mathematical physics; Surface physics",
-    "notes": "Originally in Père Lachaise; transferred to family estate in 1888."
+    "notes": "Originally in Père Lachaise; transferred to family estate in 1888.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q44481",
+      "birth_year": "https://www.wikidata.org/wiki/Q44481",
+      "death_year": "https://www.wikidata.org/wiki/Q44481",
+      "birthplace": "https://www.wikidata.org/wiki/Q44481",
+      "birth_coords": "https://www.wikidata.org/wiki/Q44481",
+      "burial": "https://www.wikidata.org/wiki/Q44481",
+      "burial_coords": "https://www.wikidata.org/wiki/Q44481",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Pierre-Simon_Laplace",
+      "fields": "https://en.wikipedia.org/wiki/Pierre-Simon_Laplace"
+    }
   },
   {
     "name": "Pieter Zeeman",
@@ -2499,7 +3940,18 @@
     ],
     "eponymous_terms": "Zeeman effect",
     "fields": "Atomic physics",
-    "notes": "Nobel Prize 1902."
+    "notes": "Nobel Prize 1902.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q79000",
+      "birth_year": "https://www.wikidata.org/wiki/Q79000",
+      "death_year": "https://www.wikidata.org/wiki/Q79000",
+      "birthplace": "https://www.wikidata.org/wiki/Q79000",
+      "birth_coords": "https://www.wikidata.org/wiki/Q79000",
+      "burial": "https://www.wikidata.org/wiki/Q79000",
+      "burial_coords": "https://www.wikidata.org/wiki/Q79000",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Pieter_Zeeman",
+      "fields": "https://en.wikipedia.org/wiki/Pieter_Zeeman"
+    }
   },
   {
     "name": "René de Réaumur",
@@ -2516,7 +3968,18 @@
     "burial_coords": null,
     "eponymous_terms": "Degree Réaumur (°Ré)",
     "fields": "Thermodynamics",
-    "notes": "Died from injuries after falling from his horse."
+    "notes": "Died from injuries after falling from his horse.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q188556",
+      "birth_year": "https://www.wikidata.org/wiki/Q188556",
+      "death_year": "https://www.wikidata.org/wiki/Q188556",
+      "birthplace": "https://www.wikidata.org/wiki/Q188556",
+      "birth_coords": "https://www.wikidata.org/wiki/Q188556",
+      "burial": "https://www.wikidata.org/wiki/Q188556",
+      "burial_coords": "https://www.wikidata.org/wiki/Q188556",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Ren%C3%A9_Antoine_Ferchault_de_R%C3%A9aumur",
+      "fields": "https://en.wikipedia.org/wiki/Ren%C3%A9_Antoine_Ferchault_de_R%C3%A9aumur"
+    }
   },
   {
     "name": "Richard Feynman",
@@ -2536,7 +3999,18 @@
     ],
     "eponymous_terms": "Feynman diagram",
     "fields": "Quantum field theory",
-    "notes": "Simple plaque marks grave. Nobel Prize 1965."
+    "notes": "Simple plaque marks grave. Nobel Prize 1965.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q39246",
+      "birth_year": "https://www.wikidata.org/wiki/Q39246",
+      "death_year": "https://www.wikidata.org/wiki/Q39246",
+      "birthplace": "https://www.wikidata.org/wiki/Q39246",
+      "birth_coords": "https://www.wikidata.org/wiki/Q39246",
+      "burial": "https://www.wikidata.org/wiki/Q39246",
+      "burial_coords": "https://www.wikidata.org/wiki/Q39246",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Richard_Feynman",
+      "fields": "https://en.wikipedia.org/wiki/Richard_Feynman"
+    }
   },
   {
     "name": "Robert Boyle",
@@ -2553,7 +4027,18 @@
     ],
     "eponymous_terms": "Boyle's law",
     "fields": "Thermodynamics",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q43393",
+      "birth_year": "https://www.wikidata.org/wiki/Q43393",
+      "death_year": "https://www.wikidata.org/wiki/Q43393",
+      "birthplace": "https://www.wikidata.org/wiki/Q43393",
+      "birth_coords": "https://www.wikidata.org/wiki/Q43393",
+      "burial": "https://www.wikidata.org/wiki/Q43393",
+      "burial_coords": "https://www.wikidata.org/wiki/Q43393",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Robert_Boyle",
+      "fields": "https://en.wikipedia.org/wiki/Robert_Boyle"
+    }
   },
   {
     "name": "Robert Hooke",
@@ -2570,7 +4055,18 @@
     "burial_coords": null,
     "eponymous_terms": "Hooke's law",
     "fields": "Mechanics",
-    "notes": "In 1891, remains exhumed and transferred to common grave at City of London Cemetery, Wanstead. Precise location unknown."
+    "notes": "In 1891, remains exhumed and transferred to common grave at City of London Cemetery, Wanstead. Precise location unknown.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q46830",
+      "birth_year": "https://www.wikidata.org/wiki/Q46830",
+      "death_year": "https://www.wikidata.org/wiki/Q46830",
+      "birthplace": "https://www.wikidata.org/wiki/Q46830",
+      "birth_coords": "https://www.wikidata.org/wiki/Q46830",
+      "burial": "https://www.wikidata.org/wiki/Q46830",
+      "burial_coords": "https://www.wikidata.org/wiki/Q46830",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Robert_Hooke",
+      "fields": "https://en.wikipedia.org/wiki/Robert_Hooke"
+    }
   },
   {
     "name": "Robert Ochsenfeld",
@@ -2584,7 +4080,18 @@
     "burial_coords": null,
     "eponymous_terms": "Meissner effect",
     "fields": "Superconductivity",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q67071",
+      "birth_year": "https://www.wikidata.org/wiki/Q67071",
+      "death_year": "https://www.wikidata.org/wiki/Q67071",
+      "birthplace": "https://www.wikidata.org/wiki/Q67071",
+      "birth_coords": "https://www.wikidata.org/wiki/Q67071",
+      "burial": "https://www.wikidata.org/wiki/Q67071",
+      "burial_coords": "https://www.wikidata.org/wiki/Q67071",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Robert_Ochsenfeld",
+      "fields": "https://en.wikipedia.org/wiki/Robert_Ochsenfeld"
+    }
   },
   {
     "name": "Rolf Sievert",
@@ -2601,7 +4108,18 @@
     "burial_coords": null,
     "eponymous_terms": "Sievert (Sv)",
     "fields": "Radiation physics",
-    "notes": "Known as \"Father of Radiation Protection.\" Specific cemetery documentation not found."
+    "notes": "Known as \"Father of Radiation Protection.\" Specific cemetery documentation not found.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q345283",
+      "birth_year": "https://www.wikidata.org/wiki/Q345283",
+      "death_year": "https://www.wikidata.org/wiki/Q345283",
+      "birthplace": "https://www.wikidata.org/wiki/Q345283",
+      "birth_coords": "https://www.wikidata.org/wiki/Q345283",
+      "burial": "https://www.wikidata.org/wiki/Q345283",
+      "burial_coords": "https://www.wikidata.org/wiki/Q345283",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Rolf_Maximilian_Sievert",
+      "fields": "https://en.wikipedia.org/wiki/Rolf_Maximilian_Sievert"
+    }
   },
   {
     "name": "Rudolf Mössbauer",
@@ -2621,7 +4139,18 @@
     ],
     "eponymous_terms": "Mössbauer effect",
     "fields": "Nuclear physics",
-    "notes": "Nobel Prize 1961."
+    "notes": "Nobel Prize 1961.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q44286",
+      "birth_year": "https://www.wikidata.org/wiki/Q44286",
+      "death_year": "https://www.wikidata.org/wiki/Q44286",
+      "birthplace": "https://www.wikidata.org/wiki/Q44286",
+      "birth_coords": "https://www.wikidata.org/wiki/Q44286",
+      "burial": "https://www.wikidata.org/wiki/Q44286",
+      "burial_coords": "https://www.wikidata.org/wiki/Q44286",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Rudolf_Mössbauer",
+      "fields": "https://en.wikipedia.org/wiki/Rudolf_Mössbauer"
+    }
   },
   {
     "name": "Satyendra Nath Bose",
@@ -2641,7 +4170,18 @@
     ],
     "eponymous_terms": "Boson; Bose-Einstein condensate",
     "fields": "Particle physics; Quantum mechanics",
-    "notes": "Bosons named after him."
+    "notes": "Bosons named after him.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q45789",
+      "birth_year": "https://www.wikidata.org/wiki/Q45789",
+      "death_year": "https://www.wikidata.org/wiki/Q45789",
+      "birthplace": "https://www.wikidata.org/wiki/Q45789",
+      "birth_coords": "https://www.wikidata.org/wiki/Q45789",
+      "burial": "https://www.wikidata.org/wiki/Q45789",
+      "burial_coords": "https://www.wikidata.org/wiki/Q45789",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Satyendra_Nath_Bose",
+      "fields": "https://en.wikipedia.org/wiki/Satyendra_Nath_Bose"
+    }
   },
   {
     "name": "Siméon Denis Poisson",
@@ -2661,7 +4201,18 @@
     ],
     "eponymous_terms": "Poisson equation",
     "fields": "Electrostatics",
-    "notes": "Elevated to Baron in 1821 but never used the title."
+    "notes": "Elevated to Baron in 1821 but never used the title.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q190772",
+      "birth_year": "https://www.wikidata.org/wiki/Q190772",
+      "death_year": "https://www.wikidata.org/wiki/Q190772",
+      "birthplace": "https://www.wikidata.org/wiki/Q190772",
+      "birth_coords": "https://www.wikidata.org/wiki/Q190772",
+      "burial": "https://www.wikidata.org/wiki/Q190772",
+      "burial_coords": "https://www.wikidata.org/wiki/Q190772",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Siméon_Denis_Poisson",
+      "fields": "https://en.wikipedia.org/wiki/Siméon_Denis_Poisson"
+    }
   },
   {
     "name": "Sin-Itiro Tomonaga",
@@ -2681,7 +4232,18 @@
     ],
     "eponymous_terms": "Lamb-Retherford effect",
     "fields": "Quantum electrodynamics",
-    "notes": "Nobel Prize winner. Grave near Yoshio Nishina, \"Father of Japanese Nuclear Physics.\""
+    "notes": "Nobel Prize winner. Grave near Yoshio Nishina, \"Father of Japanese Nuclear Physics.\"",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q184563",
+      "birth_year": "https://www.wikidata.org/wiki/Q184563",
+      "death_year": "https://www.wikidata.org/wiki/Q184563",
+      "birthplace": "https://www.wikidata.org/wiki/Q184563",
+      "birth_coords": "https://www.wikidata.org/wiki/Q184563",
+      "burial": "https://www.wikidata.org/wiki/Q184563",
+      "burial_coords": "https://www.wikidata.org/wiki/Q184563",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Shin'ichirō_Tomonaga",
+      "fields": "https://en.wikipedia.org/wiki/Shin'ichirō_Tomonaga"
+    }
   },
   {
     "name": "Stephen Hawking",
@@ -2701,7 +4263,18 @@
     ],
     "eponymous_terms": "Hawking radiation",
     "fields": "Quantum gravity",
-    "notes": "Ashes placed between Newton and Darwin. Memorial stone bears his entropy equation."
+    "notes": "Ashes placed between Newton and Darwin. Memorial stone bears his entropy equation.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q17714",
+      "birth_year": "https://www.wikidata.org/wiki/Q17714",
+      "death_year": "https://www.wikidata.org/wiki/Q17714",
+      "birthplace": "https://www.wikidata.org/wiki/Q17714",
+      "birth_coords": "https://www.wikidata.org/wiki/Q17714",
+      "burial": "https://www.wikidata.org/wiki/Q17714",
+      "burial_coords": "https://www.wikidata.org/wiki/Q17714",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Stephen_Hawking",
+      "fields": "https://en.wikipedia.org/wiki/Stephen_Hawking"
+    }
   },
   {
     "name": "Subrahmanyan Chandrasekhar",
@@ -2718,7 +4291,18 @@
     "burial_coords": null,
     "eponymous_terms": "Chandrasekhar limit (MCh)",
     "fields": "Astrophysics",
-    "notes": "Nobel Prize 1983. Died in Chicago of heart attack."
+    "notes": "Nobel Prize 1983. Died in Chicago of heart attack.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q148109",
+      "birth_year": "https://www.wikidata.org/wiki/Q148109",
+      "death_year": "https://www.wikidata.org/wiki/Q148109",
+      "birthplace": "https://www.wikidata.org/wiki/Q148109",
+      "birth_coords": "https://www.wikidata.org/wiki/Q148109",
+      "burial": "https://www.wikidata.org/wiki/Q148109",
+      "burial_coords": "https://www.wikidata.org/wiki/Q148109",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar",
+      "fields": "https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar"
+    }
   },
   {
     "name": "Svante Arrhenius",
@@ -2738,7 +4322,18 @@
     ],
     "eponymous_terms": "Arrhenius (â€”)",
     "fields": "Chemical kinetics",
-    "notes": "Died in Stockholm but buried in Uppsala as he wished."
+    "notes": "Died in Stockholm but buried in Uppsala as he wished.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q84914866",
+      "birth_year": "https://www.wikidata.org/wiki/Q84914866",
+      "death_year": "https://www.wikidata.org/wiki/Q84914866",
+      "birthplace": "https://www.wikidata.org/wiki/Q84914866",
+      "birth_coords": "https://www.wikidata.org/wiki/Q84914866",
+      "burial": "https://www.wikidata.org/wiki/Q84914866",
+      "burial_coords": "https://www.wikidata.org/wiki/Q84914866",
+      "eponymous_terms": "https://www.wikidata.org/wiki/Q84914866",
+      "fields": "https://www.wikidata.org/wiki/Q84914866"
+    }
   },
   {
     "name": "Theodore von Kármán",
@@ -2758,7 +4353,18 @@
     ],
     "eponymous_terms": "Kármán vortex street",
     "fields": "Fluid dynamics",
-    "notes": "Died in Aachen visiting friends; body flown to California. First National Medal of Science recipient."
+    "notes": "Died in Aachen visiting friends; body flown to California. First National Medal of Science recipient.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q164384",
+      "birth_year": "https://www.wikidata.org/wiki/Q164384",
+      "death_year": "https://www.wikidata.org/wiki/Q164384",
+      "birthplace": "https://www.wikidata.org/wiki/Q164384",
+      "birth_coords": "https://www.wikidata.org/wiki/Q164384",
+      "burial": "https://www.wikidata.org/wiki/Q164384",
+      "burial_coords": "https://www.wikidata.org/wiki/Q164384",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Theodore_von_Kármán",
+      "fields": "https://en.wikipedia.org/wiki/Theodore_von_Kármán"
+    }
   },
   {
     "name": "Thomas Graham",
@@ -2778,7 +4384,18 @@
     ],
     "eponymous_terms": "Graham's law",
     "fields": "Thermodynamics",
-    "notes": "\"Father of colloid chemistry.\" Body returned to Glasgow from London."
+    "notes": "\"Father of colloid chemistry.\" Body returned to Glasgow from London.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q333762",
+      "birth_year": "https://www.wikidata.org/wiki/Q333762",
+      "death_year": "https://www.wikidata.org/wiki/Q333762",
+      "birthplace": "https://www.wikidata.org/wiki/Q333762",
+      "birth_coords": "https://www.wikidata.org/wiki/Q333762",
+      "burial": "https://www.wikidata.org/wiki/Q333762",
+      "burial_coords": "https://www.wikidata.org/wiki/Q333762",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Thomas_Graham_(chemist)",
+      "fields": "https://en.wikipedia.org/wiki/Thomas_Graham_(chemist)"
+    }
   },
   {
     "name": "Thomas Seebeck",
@@ -2795,7 +4412,18 @@
     "burial_coords": null,
     "eponymous_terms": "Seebeck effect",
     "fields": "Thermoelectricity",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q78162388",
+      "birth_year": "https://www.wikidata.org/wiki/Q78162388",
+      "death_year": "https://www.wikidata.org/wiki/Q78162388",
+      "birthplace": "https://www.wikidata.org/wiki/Q78162388",
+      "birth_coords": "https://www.wikidata.org/wiki/Q78162388",
+      "burial": "https://www.wikidata.org/wiki/Q78162388",
+      "burial_coords": "https://www.wikidata.org/wiki/Q78162388",
+      "eponymous_terms": "https://www.wikidata.org/wiki/Q78162388",
+      "fields": "https://www.wikidata.org/wiki/Q78162388"
+    }
   },
   {
     "name": "Thomas Young",
@@ -2815,7 +4443,18 @@
     ],
     "eponymous_terms": "Young-Laplace equation",
     "fields": "Surface physics",
-    "notes": "Memorial tablet at Westminster Abbey, but body buried at Farnborough."
+    "notes": "Memorial tablet at Westminster Abbey, but body buried at Farnborough.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q25820",
+      "birth_year": "https://www.wikidata.org/wiki/Q25820",
+      "death_year": "https://www.wikidata.org/wiki/Q25820",
+      "birthplace": "https://www.wikidata.org/wiki/Q25820",
+      "birth_coords": "https://www.wikidata.org/wiki/Q25820",
+      "burial": "https://www.wikidata.org/wiki/Q25820",
+      "burial_coords": "https://www.wikidata.org/wiki/Q25820",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Thomas_Young_(scientist)",
+      "fields": "https://en.wikipedia.org/wiki/Thomas_Young_(scientist)"
+    }
   },
   {
     "name": "Walter Schottky",
@@ -2832,7 +4471,18 @@
     "burial_coords": null,
     "eponymous_terms": "Schottky effect",
     "fields": "Semiconductor physics",
-    "notes": ""
+    "notes": "",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q57079",
+      "birth_year": "https://www.wikidata.org/wiki/Q57079",
+      "death_year": "https://www.wikidata.org/wiki/Q57079",
+      "birthplace": "https://www.wikidata.org/wiki/Q57079",
+      "birth_coords": "https://www.wikidata.org/wiki/Q57079",
+      "burial": "https://www.wikidata.org/wiki/Q57079",
+      "burial_coords": "https://www.wikidata.org/wiki/Q57079",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Walter_H._Schottky",
+      "fields": "https://en.wikipedia.org/wiki/Walter_H._Schottky"
+    }
   },
   {
     "name": "Walther Meissner",
@@ -2849,7 +4499,18 @@
     "burial_coords": null,
     "eponymous_terms": "Meissner effect",
     "fields": "Superconductivity",
-    "notes": "Spent final years alone with his dogs."
+    "notes": "Spent final years alone with his dogs.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q62904",
+      "birth_year": "https://www.wikidata.org/wiki/Q62904",
+      "death_year": "https://www.wikidata.org/wiki/Q62904",
+      "birthplace": "https://www.wikidata.org/wiki/Q62904",
+      "birth_coords": "https://www.wikidata.org/wiki/Q62904",
+      "burial": "https://www.wikidata.org/wiki/Q62904",
+      "burial_coords": "https://www.wikidata.org/wiki/Q62904",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Walther_Meissner",
+      "fields": "https://en.wikipedia.org/wiki/Walther_Meissner"
+    }
   },
   {
     "name": "Walther Nernst",
@@ -2869,7 +4530,18 @@
     ],
     "eponymous_terms": "Ettingshausen-Nernst effect; Nernst equation",
     "fields": "Electrochemistry; Solid state physics",
-    "notes": "Buried near Planck, Hahn, and von Laue. Nobel Prize 1920 (Chemistry)."
+    "notes": "Buried near Planck, Hahn, and von Laue. Nobel Prize 1920 (Chemistry).",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q57377",
+      "birth_year": "https://www.wikidata.org/wiki/Q57377",
+      "death_year": "https://www.wikidata.org/wiki/Q57377",
+      "birthplace": "https://www.wikidata.org/wiki/Q57377",
+      "birth_coords": "https://www.wikidata.org/wiki/Q57377",
+      "burial": "https://www.wikidata.org/wiki/Q57377",
+      "burial_coords": "https://www.wikidata.org/wiki/Q57377",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Walther_Nernst",
+      "fields": "https://en.wikipedia.org/wiki/Walther_Nernst"
+    }
   },
   {
     "name": "Werner Heisenberg",
@@ -2889,7 +4561,18 @@
     ],
     "eponymous_terms": "Heisenberg uncertainty principle",
     "fields": "Quantum mechanics",
-    "notes": "Died of kidney cancer."
+    "notes": "Died of kidney cancer.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q40904",
+      "birth_year": "https://www.wikidata.org/wiki/Q40904",
+      "death_year": "https://www.wikidata.org/wiki/Q40904",
+      "birthplace": "https://www.wikidata.org/wiki/Q40904",
+      "birth_coords": "https://www.wikidata.org/wiki/Q40904",
+      "burial": "https://www.wikidata.org/wiki/Q40904",
+      "burial_coords": "https://www.wikidata.org/wiki/Q40904",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Werner_Heisenberg",
+      "fields": "https://en.wikipedia.org/wiki/Werner_Heisenberg"
+    }
   },
   {
     "name": "Werner von Siemens",
@@ -2909,7 +4592,18 @@
     ],
     "eponymous_terms": "Siemens (S)",
     "fields": "Electromagnetism",
-    "notes": "Raised to nobility in 1888 (adding \"von\" to his name). Died of pneumonia."
+    "notes": "Raised to nobility in 1888 (adding \"von\" to his name). Died of pneumonia.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q76666",
+      "birth_year": "https://www.wikidata.org/wiki/Q76666",
+      "death_year": "https://www.wikidata.org/wiki/Q76666",
+      "birthplace": "https://www.wikidata.org/wiki/Q76666",
+      "birth_coords": "https://www.wikidata.org/wiki/Q76666",
+      "burial": "https://www.wikidata.org/wiki/Q76666",
+      "burial_coords": "https://www.wikidata.org/wiki/Q76666",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Werner_von_Siemens",
+      "fields": "https://en.wikipedia.org/wiki/Werner_von_Siemens"
+    }
   },
   {
     "name": "Wilhelm Eduard Weber",
@@ -2929,7 +4623,18 @@
     ],
     "eponymous_terms": "Weber (Wb)",
     "fields": "Electromagnetism",
-    "notes": "One of the \"Göttingen Seven\" dismissed in 1837 for protesting constitutional changes."
+    "notes": "One of the \"Göttingen Seven\" dismissed in 1837 for protesting constitutional changes.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q57243",
+      "birth_year": "https://www.wikidata.org/wiki/Q57243",
+      "death_year": "https://www.wikidata.org/wiki/Q57243",
+      "birthplace": "https://www.wikidata.org/wiki/Q57243",
+      "birth_coords": "https://www.wikidata.org/wiki/Q57243",
+      "burial": "https://www.wikidata.org/wiki/Q57243",
+      "burial_coords": "https://www.wikidata.org/wiki/Q57243",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Wilhelm_Eduard_Weber",
+      "fields": "https://en.wikipedia.org/wiki/Wilhelm_Eduard_Weber"
+    }
   },
   {
     "name": "Wilhelm Röntgen",
@@ -2949,7 +4654,18 @@
     ],
     "eponymous_terms": "Röntgen (R)",
     "fields": "Radiation physics",
-    "notes": "First Nobel Prize in Physics recipient (1901). Buried with parents per his wishes."
+    "notes": "First Nobel Prize in Physics recipient (1901). Buried with parents per his wishes.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q131112",
+      "birth_year": "https://www.wikidata.org/wiki/Q131112",
+      "death_year": "https://www.wikidata.org/wiki/Q131112",
+      "birthplace": "https://www.wikidata.org/wiki/Q131112",
+      "birth_coords": "https://www.wikidata.org/wiki/Q131112",
+      "burial": "https://www.wikidata.org/wiki/Q131112",
+      "burial_coords": "https://www.wikidata.org/wiki/Q131112",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen",
+      "fields": "https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen"
+    }
   },
   {
     "name": "Wilhelm Wien",
@@ -2969,7 +4685,18 @@
     ],
     "eponymous_terms": "Wien displacement constant (b); Wien's displacement law",
     "fields": "Thermal radiation; Thermodynamics",
-    "notes": "Birthplace now in Russian territory."
+    "notes": "Birthplace now in Russian territory.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q57268",
+      "birth_year": "https://www.wikidata.org/wiki/Q57268",
+      "death_year": "https://www.wikidata.org/wiki/Q57268",
+      "birthplace": "https://www.wikidata.org/wiki/Q57268",
+      "birth_coords": "https://www.wikidata.org/wiki/Q57268",
+      "burial": "https://www.wikidata.org/wiki/Q57268",
+      "burial_coords": "https://www.wikidata.org/wiki/Q57268",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Wilhelm_Wien",
+      "fields": "https://en.wikipedia.org/wiki/Wilhelm_Wien"
+    }
   },
   {
     "name": "Willebrord Snell",
@@ -2989,7 +4716,18 @@
     ],
     "eponymous_terms": "Snell's law",
     "fields": "Optics",
-    "notes": "Twenty students carried his coffin."
+    "notes": "Twenty students carried his coffin.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q187889",
+      "birth_year": "https://www.wikidata.org/wiki/Q187889",
+      "death_year": "https://www.wikidata.org/wiki/Q187889",
+      "birthplace": "https://www.wikidata.org/wiki/Q187889",
+      "birth_coords": "https://www.wikidata.org/wiki/Q187889",
+      "burial": "https://www.wikidata.org/wiki/Q187889",
+      "burial_coords": "https://www.wikidata.org/wiki/Q187889",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Willebrord_Snellius",
+      "fields": "https://en.wikipedia.org/wiki/Willebrord_Snellius"
+    }
   },
   {
     "name": "William Gilbert",
@@ -3009,7 +4747,18 @@
     ],
     "eponymous_terms": "Gilbert (Gi)",
     "fields": "Electromagnetism",
-    "notes": "Died of bubonic plague during 1603 epidemic. Personal physician to Queen Elizabeth I."
+    "notes": "Died of bubonic plague during 1603 epidemic. Personal physician to Queen Elizabeth I.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q192511",
+      "birth_year": "https://www.wikidata.org/wiki/Q192511",
+      "death_year": "https://www.wikidata.org/wiki/Q192511",
+      "birthplace": "https://www.wikidata.org/wiki/Q192511",
+      "birth_coords": "https://www.wikidata.org/wiki/Q192511",
+      "burial": "https://www.wikidata.org/wiki/Q192511",
+      "burial_coords": "https://www.wikidata.org/wiki/Q192511",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/William_Gilbert_(physician)",
+      "fields": "https://en.wikipedia.org/wiki/William_Gilbert_(physician)"
+    }
   },
   {
     "name": "William Henry",
@@ -3029,7 +4778,18 @@
     ],
     "eponymous_terms": "Henry's law",
     "fields": "Thermodynamics",
-    "notes": "Took his own life due to chronic ill health."
+    "notes": "Took his own life due to chronic ill health.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q312099",
+      "birth_year": "https://www.wikidata.org/wiki/Q312099",
+      "death_year": "https://www.wikidata.org/wiki/Q312099",
+      "birthplace": "https://www.wikidata.org/wiki/Q312099",
+      "birth_coords": "https://www.wikidata.org/wiki/Q312099",
+      "burial": "https://www.wikidata.org/wiki/Q312099",
+      "burial_coords": "https://www.wikidata.org/wiki/Q312099",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/William_Henry_(chemist)",
+      "fields": "https://en.wikipedia.org/wiki/William_Henry_(chemist)"
+    }
   },
   {
     "name": "William Lawrence Bragg",
@@ -3049,7 +4809,18 @@
     ],
     "eponymous_terms": "Bragg's law",
     "fields": "Crystallography",
-    "notes": "Youngest-ever Nobel laureate in physics (age 25, shared with his father)."
+    "notes": "Youngest-ever Nobel laureate in physics (age 25, shared with his father).",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q80900",
+      "birth_year": "https://www.wikidata.org/wiki/Q80900",
+      "death_year": "https://www.wikidata.org/wiki/Q80900",
+      "birthplace": "https://www.wikidata.org/wiki/Q80900",
+      "birth_coords": "https://www.wikidata.org/wiki/Q80900",
+      "burial": "https://www.wikidata.org/wiki/Q80900",
+      "burial_coords": "https://www.wikidata.org/wiki/Q80900",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Lawrence_Bragg",
+      "fields": "https://en.wikipedia.org/wiki/Lawrence_Bragg"
+    }
   },
   {
     "name": "William Thomson, Lord Kelvin",
@@ -3069,7 +4840,18 @@
     ],
     "eponymous_terms": "Kelvin (K); Thomson effect; Joule-Thomson effect",
     "fields": "Thermodynamics; Thermoelectricity",
-    "notes": "Interred near Isaac Newton's grave; a commemorative stained glass window was erected in 1913."
+    "notes": "Interred near Isaac Newton's grave; a commemorative stained glass window was erected in 1913.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q169523",
+      "birth_year": "https://www.wikidata.org/wiki/Q169523",
+      "death_year": "https://www.wikidata.org/wiki/Q169523",
+      "birthplace": "https://www.wikidata.org/wiki/Q169523",
+      "birth_coords": "https://www.wikidata.org/wiki/Q169523",
+      "burial": "https://www.wikidata.org/wiki/Q169523",
+      "burial_coords": "https://www.wikidata.org/wiki/Q169523",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Lord_Kelvin",
+      "fields": "https://en.wikipedia.org/wiki/Lord_Kelvin"
+    }
   },
   {
     "name": "Wolfgang Pauli",
@@ -3089,7 +4871,18 @@
     ],
     "eponymous_terms": "Pauli exclusion principle",
     "fields": "Quantum mechanics",
-    "notes": "Hospital room number was **137**, significant as the fine-structure constant approximates 1/137."
+    "notes": "Hospital room number was **137**, significant as the fine-structure constant approximates 1/137.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q44167",
+      "birth_year": "https://www.wikidata.org/wiki/Q44167",
+      "death_year": "https://www.wikidata.org/wiki/Q44167",
+      "birthplace": "https://www.wikidata.org/wiki/Q44167",
+      "birth_coords": "https://www.wikidata.org/wiki/Q44167",
+      "burial": "https://www.wikidata.org/wiki/Q44167",
+      "burial_coords": "https://www.wikidata.org/wiki/Q44167",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Wolfgang_Pauli",
+      "fields": "https://en.wikipedia.org/wiki/Wolfgang_Pauli"
+    }
   },
   {
     "name": "Yakir Aharonov",
@@ -3106,6 +4899,17 @@
     "burial_coords": null,
     "eponymous_terms": "Aharonov-Bohm effect",
     "fields": "Quantum mechanics",
-    "notes": "Elected to Royal Society in June 2024. Professor at Chapman University."
+    "notes": "Elected to Royal Society in June 2024. Professor at Chapman University.",
+    "sources": {
+      "name": "https://www.wikidata.org/wiki/Q333437",
+      "birth_year": "https://www.wikidata.org/wiki/Q333437",
+      "death_year": "https://www.wikidata.org/wiki/Q333437",
+      "birthplace": "https://www.wikidata.org/wiki/Q333437",
+      "birth_coords": "https://www.wikidata.org/wiki/Q333437",
+      "burial": "https://www.wikidata.org/wiki/Q333437",
+      "burial_coords": "https://www.wikidata.org/wiki/Q333437",
+      "eponymous_terms": "https://en.wikipedia.org/wiki/Yakir_Aharonov",
+      "fields": "https://en.wikipedia.org/wiki/Yakir_Aharonov"
+    }
   }
 ]
